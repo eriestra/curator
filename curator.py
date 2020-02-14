@@ -82,7 +82,7 @@ for key, value in learning_keywords.iteritems():
   output[key] = {}
 
   print 
-  print "=======" + key + "======"
+  print ("=======" + key + "======")
   print 
 
   for topic, blocks in course_outline.iteritems():
@@ -103,10 +103,10 @@ for key, value in learning_keywords.iteritems():
         try:
           url = content.find_element_by_tag_name('a')
           lines = content.text.split('\n')
-          print "Resource: " + lines[0]
-          print "Type: " + key
-          print "URL: " + url.get_attribute("href")
-          print "--------"
+          print ("Resource: " + lines[0])
+          print ("Type: " + key)
+          print ("URL: " + url.get_attribute("href"))
+          print ("--------")
 
           item = {}
 
