@@ -55,12 +55,12 @@ course_outline = {
 }
 
 learning_keywords = {
-  "CheatSheet" : "+cheatsheet",
+  "Video" : "&tbm=vid",
   "Tutorial" : "+tutorial",
-  "Course" : "+course",
-  "Book" : "+book",
   "Quiz" : "+quiz",
-  "Video" : "&tbm=vid"
+  "CheatSheet" : "+cheatsheet",
+  "Book" : "+book",
+  "Course" : "+course",
 }
 
 # Applications: tbm=app
@@ -77,32 +77,21 @@ learning_keywords = {
 
 output = {}
 
-for key, value in learning_keywords.iteritems():
-
-  output[key] = {}
-
-  print 
-  print ("=======" + key + "======")
-  print 
-
-  for topic, blocks in course_outline.iteritems():
-
-    output[key][topic] = {}
-
-    for block in blocks:
-
-      output[key][topic][block] = []
-
+for topic, blocks in course_outline.items():
+  output[topic] = {}
+  for block in blocks:
+    output[topic][block] = {}
+    for key, value in learning_keywords.items():
+      output[topic][block][key] = []
       query = course_title + "+" + block.lower().replace(' ','+')
-
       browser.get("https://www.google.com/search?&q=" + query + "+" + value)
-
       contents = browser.find_elements_by_class_name('r')
-
       for content in contents:
         try:
           url = content.find_element_by_tag_name('a')
           lines = content.text.split('\n')
+        
+          print ("Query: " + query + value)
           print ("Resource: " + lines[0])
           print ("Type: " + key)
           print ("URL: " + url.get_attribute("href"))
@@ -114,7 +103,7 @@ for key, value in learning_keywords.iteritems():
           item['type'] = key
           item['URL'] = url.get_attribute("href")
 
-          output[key][topic][block].append(item)
+          output[topic][block][key].append(item)
         except: 
           pass
       

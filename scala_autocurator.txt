@@ -1,0 +1,4831 @@
+=======CheatSheet======
+Query: scala+basics+cheatsheet
+Resource: Scala Cheatsheet | Scala Documentation
+Type: CheatSheet
+URL: https://docs.scala-lang.org/cheatsheets/
+--------
+Query: scala+basics+cheatsheet
+Resource: Scala Cheat Sheet - Alvin Alexander
+Type: CheatSheet
+URL: https://alvinalexander.com/downloads/scala/Scala-Cheat-Sheet-devdaily.pdf
+--------
+Query: scala+basics+cheatsheet
+Resource: Scala - Cheat-Sheets.org
+Type: CheatSheet
+URL: http://www.cheat-sheets.org/saved-copy/Scala_Cheatsheet.pdf
+--------
+Query: scala+basics+cheatsheet
+Resource: Cheat sheet: The complete guide to Scala - JAXenter
+Type: CheatSheet
+URL: https://jaxenter.com/cheat-sheet-complete-guide-scala-136558.html
+--------
+Query: scala+basics+cheatsheet
+Resource: Scala Quick Reference v1.1
+Type: CheatSheet
+URL: https://homepage.cs.uiowa.edu/~tinelli/classes/022/Fall13/Notes/scala-quick-reference.pdf
+--------
+Query: scala+basics+cheatsheet
+Resource: Scala Cheatsheet - Scala Tutorials
+Type: CheatSheet
+URL: http://allaboutscala.com/scala-cheatsheet/
+--------
+Query: scala+basics+cheatsheet
+Resource: Scala Language - Map Collection Cheatsheet | scala Tutorial
+Type: CheatSheet
+URL: https://riptutorial.com/scala/example/8306/map-collection-cheatsheet
+--------
+Query: scala+basics+cheatsheet
+Resource: Scala CheatSheet
+Type: CheatSheet
+URL: https://worldline.github.io/scala-cheatsheet/
+--------
+Query: scala+basics+cheatsheet
+Resource: Scala Cheat Sheet - SDS - LaMaStEx
+Type: CheatSheet
+URL: https://lamastex.github.io/scalable-data-science/sds/basics/scala/CheatSheet/
+--------
+Query: scala+unified+types+cheatsheet
+Resource: Unified Types | Tour of Scala | Scala Documentation
+Type: CheatSheet
+URL: https://docs.scala-lang.org/tour/unified-types.html
+--------
+Query: scala+unified+types+cheatsheet
+Resource: 
+Type: CheatSheet
+URL: http://allaboutscala.com/tutorials/chapter-2-learning-basics-scala-programming/scala-tutorial-learn-scala-class-type-hierarchy/
+--------
+Query: scala+unified+types+cheatsheet
+Resource: 
+Type: CheatSheet
+URL: https://stackoverflow.com/questions/49402200/scala-whats-the-difference-between-any-and-anyref?rq=1
+--------
+Query: scala+unified+types+cheatsheet
+Resource: 
+Type: CheatSheet
+URL: https://www.geeksforgeeks.org/scala-type-hierarchy/
+--------
+Query: scala+unified+types+cheatsheet
+Resource: 
+Type: CheatSheet
+URL: https://docs.scala-lang.org/tour/unified-types.html
+--------
+Query: scala+unified+types+cheatsheet
+Resource: Tipos Unificados | Scala Documentation
+Type: CheatSheet
+URL: https://docs.scala-lang.org/es/tour/unified-types.html
+--------
+Query: scala+unified+types+cheatsheet
+Resource: Unified Types - Scala Documentation - ScalaJP Github Pages
+Type: CheatSheet
+URL: http://scalajp.github.io/scala.github.com/tutorials/tour/unified-types.html
+--------
+Query: scala+unified+types+cheatsheet
+Resource: A Scala cheat sheet (reference page) | alvinalexander.com
+Type: CheatSheet
+URL: https://alvinalexander.com/scala/scala-cheat-sheet-reference-examples
+--------
+Query: scala+unified+types+cheatsheet
+Resource: Java to Scala cheatsheet | REA Group Ltd
+Type: CheatSheet
+URL: https://www.rea-group.com/blog/java-to-scala-cheatsheet/
+--------
+Query: scala+unified+types+cheatsheet
+Resource: Scala Cheat Sheet
+Type: CheatSheet
+URL: https://devops.datenkollektiv.de/scala-cheat-sheet.html
+--------
+Query: scala+unified+types+cheatsheet
+Resource: Cheat sheet: The complete guide to Scala - JAXenter
+Type: CheatSheet
+URL: https://jaxenter.com/cheat-sheet-complete-guide-scala-136558.html
+--------
+Query: scala+unified+types+cheatsheet
+Resource: Scala Tutorial - Learn The Scala Class And Type Hierarchy
+Type: CheatSheet
+URL: http://allaboutscala.com/tutorials/chapter-2-learning-basics-scala-programming/scala-tutorial-learn-scala-class-type-hierarchy/
+--------
+Query: scala+unified+types+cheatsheet
+Resource: Scala Documentation - Read the Docs
+Type: CheatSheet
+URL: https://media.readthedocs.org/pdf/scala-docs-sphinx/latest/scala-docs-sphinx.pdf
+--------
+Query: scala+classes+cheatsheet
+Resource: Scala Cheatsheet | Scala Documentation
+Type: CheatSheet
+URL: https://docs.scala-lang.org/cheatsheets/
+--------
+Query: scala+classes+cheatsheet
+Resource: Scala Cheat Sheet - Alvin Alexander
+Type: CheatSheet
+URL: https://alvinalexander.com/downloads/scala/Scala-Cheat-Sheet-devdaily.pdf
+--------
+Query: scala+classes+cheatsheet
+Resource: Scala Cheatsheet · GitHub
+Type: CheatSheet
+URL: https://gist.github.com/heathermiller/2ab9ef36910fdfdd20e9
+--------
+Query: scala+classes+cheatsheet
+Resource: Scala - Cheat-Sheets.org
+Type: CheatSheet
+URL: http://www.cheat-sheets.org/saved-copy/Scala_Cheatsheet.pdf
+--------
+Query: scala+classes+cheatsheet
+Resource: Cheat sheet: The complete guide to Scala - JAXenter
+Type: CheatSheet
+URL: https://jaxenter.com/cheat-sheet-complete-guide-scala-136558.html
+--------
+Query: scala+classes+cheatsheet
+Resource: Scala Cheatsheet - Scala Tutorials
+Type: CheatSheet
+URL: http://allaboutscala.com/scala-cheatsheet/
+--------
+Query: scala+classes+cheatsheet
+Resource: Scala Quick Reference v1.1
+Type: CheatSheet
+URL: https://homepage.cs.uiowa.edu/~tinelli/classes/022/Fall13/Notes/scala-quick-reference.pdf
+--------
+Query: scala+classes+cheatsheet
+Resource: cheat sheet for scala syntax - Brendan O'Connor
+Type: CheatSheet
+URL: http://brenocon.com/scalacheat/
+--------
+Query: scala+classes+cheatsheet
+Resource: Java developer's Scala cheatsheet by mbonaci - GitHub Pages
+Type: CheatSheet
+URL: https://mbonaci.github.io/scala/
+--------
+Query: scala+traits+cheatsheet
+Resource: Scala Cheatsheet | Scala Documentation
+Type: CheatSheet
+URL: https://docs.scala-lang.org/cheatsheets/
+--------
+Query: scala+traits+cheatsheet
+Resource: Scala Cheat Sheet - Alvin Alexander
+Type: CheatSheet
+URL: https://alvinalexander.com/downloads/scala/Scala-Cheat-Sheet-devdaily.pdf
+--------
+Query: scala+traits+cheatsheet
+Resource: Scala Cheatsheet · GitHub
+Type: CheatSheet
+URL: https://gist.github.com/heathermiller/2ab9ef36910fdfdd20e9
+--------
+Query: scala+traits+cheatsheet
+Resource: Scala Cheatsheet - Scala Tutorials
+Type: CheatSheet
+URL: http://allaboutscala.com/scala-cheatsheet/
+--------
+Query: scala+traits+cheatsheet
+Resource: Scala Quick Reference v1.1
+Type: CheatSheet
+URL: https://homepage.cs.uiowa.edu/~tinelli/classes/022/Fall13/Notes/scala-quick-reference.pdf
+--------
+Query: scala+traits+cheatsheet
+Resource: cheat sheet for scala syntax - Brendan O'Connor
+Type: CheatSheet
+URL: http://brenocon.com/scalacheat/
+--------
+Query: scala+traits+cheatsheet
+Resource: Level 5 - Scala Cheat Sheet - Memrise
+Type: CheatSheet
+URL: https://www.memrise.com/course/368089/scala-cheat-sheet/5/
+--------
+Query: scala+traits+cheatsheet
+Resource: Scala jargon cheatsheet - SlideShare
+Type: CheatSheet
+URL: https://es.slideshare.net/rssh1/scala-jargon-cheatsheet
+--------
+Query: scala+traits+cheatsheet
+Resource: Cheat sheet: The complete guide to Scala - JAXenter
+Type: CheatSheet
+URL: https://jaxenter.com/cheat-sheet-complete-guide-scala-136558.html
+--------
+Query: scala+tuples+cheatsheet
+Resource: cheat sheet for scala syntax - Brendan O'Connor
+Type: CheatSheet
+URL: http://brenocon.com/scalacheat/
+--------
+Query: scala+tuples+cheatsheet
+Resource: 
+Type: CheatSheet
+URL: https://docs.scala-lang.org/tour/tuples.html
+--------
+Query: scala+tuples+cheatsheet
+Resource: 
+Type: CheatSheet
+URL: https://www.tutorialspoint.com/scala/scala_tuples.htm
+--------
+Query: scala+tuples+cheatsheet
+Resource: 
+Type: CheatSheet
+URL: https://stackoverflow.com/questions/6951895/what-does-and-mean-in-scala
+--------
+Query: scala+tuples+cheatsheet
+Resource: 
+Type: CheatSheet
+URL: https://data-flair.training/blogs/tuples-in-scala-introduction/
+--------
+Query: scala+tuples+cheatsheet
+Resource: Scala Cheatsheet | Scala Documentation
+Type: CheatSheet
+URL: https://docs.scala-lang.org/cheatsheets/
+--------
+Query: scala+tuples+cheatsheet
+Resource: Tuples | Tour of Scala | Scala Documentation
+Type: CheatSheet
+URL: https://docs.scala-lang.org/tour/tuples.html
+--------
+Query: scala+tuples+cheatsheet
+Resource: Scala Language - Map Collection Cheatsheet | scala Tutorial
+Type: CheatSheet
+URL: https://riptutorial.com/scala/example/8306/map-collection-cheatsheet
+--------
+Query: scala+tuples+cheatsheet
+Resource: Scala Language - Mapa de la colección Cheatsheet | scala ...
+Type: CheatSheet
+URL: https://riptutorial.com/es/scala/example/8306/mapa-de-la-coleccion-cheatsheet
+--------
+Query: scala+tuples+cheatsheet
+Resource: Scala features cheatsheet · GitHub
+Type: CheatSheet
+URL: https://gist.github.com/cvasani/56dc7991f7c52bf616905c7ac8911824
+--------
+Query: scala+tuples+cheatsheet
+Resource: Scala Cheat Sheet
+Type: CheatSheet
+URL: https://riiswa.github.io/Scala-CheatSheet/
+--------
+Query: scala+tuples+cheatsheet
+Resource: Scala Cheat Sheet - Notes about Data Science
+Type: CheatSheet
+URL: https://fabsta.github.io/programming/Scala-cheat-sheet/
+--------
+Query: scala+tuples+cheatsheet
+Resource: A Scala cheat sheet (reference page) | alvinalexander.com
+Type: CheatSheet
+URL: https://alvinalexander.com/scala/scala-cheat-sheet-reference-examples
+--------
+Query: scala+tuples+cheatsheet
+Resource: Recently-added Scala cheat sheets, tutorials, syntax, and ...
+Type: CheatSheet
+URL: https://alvinalexander.com/scala/recently-added-scala-cheat-sheets-tutorials-syntax-examples
+--------
+Query: scala+class+composition+with+mixins+cheatsheet
+Resource: Class Composition with Mixins | Tour of Scala | Scala ...
+Type: CheatSheet
+URL: https://docs.scala-lang.org/tour/mixin-class-composition.html
+--------
+Query: scala+class+composition+with+mixins+cheatsheet
+Resource: Scala cheatsheet - SlideShare
+Type: CheatSheet
+URL: https://es.slideshare.net/raspiest/scala-cheatsheet
+--------
+Query: scala+class+composition+with+mixins+cheatsheet
+Resource: Mixins Simplify Composition in Scala - DZone Web Dev
+Type: CheatSheet
+URL: https://dzone.com/articles/mixins-simplify-composition
+--------
+Query: scala+class+composition+with+mixins+cheatsheet
+Resource: How to use Scala traits as simple mixins | alvinalexander.com
+Type: CheatSheet
+URL: https://alvinalexander.com/scala/how-to-use-scala-traits-as-mixins-mixing-in-traits
+--------
+Query: scala+class+composition+with+mixins+cheatsheet
+Resource: Java developer's Scala cheatsheet by mbonaci - GitHub Pages
+Type: CheatSheet
+URL: https://mbonaci.github.io/scala/
+--------
+Query: scala+class+composition+with+mixins+cheatsheet
+Resource: Scala Cheatsheet | Scala (Programming Language) | Method ...
+Type: CheatSheet
+URL: https://es.scribd.com/document/91506038/Scala-Cheatsheet
+--------
+Query: scala+class+composition+with+mixins+cheatsheet
+Resource: Scala - LAMP - EPFL
+Type: CheatSheet
+URL: http://lampwww.epfl.ch/~phaller/doc/scala-tutorial-sac2010.pdf
+--------
+Query: scala+class+composition+with+mixins+cheatsheet
+Resource: Verified Subtyping with Traits and Mixins - arXiv
+Type: CheatSheet
+URL: https://arxiv.org/pdf/1407.3892
+--------
+Query: scala+class+composition+with+mixins+cheatsheet
+Resource: DZone's First Scala cheatsheet for Refcardz : scala - Reddit
+Type: CheatSheet
+URL: https://www.reddit.com/r/scala/comments/11ko5l/dzones_first_scala_cheatsheet_for_refcardz/
+--------
+Query: scala+class+composition+with+mixins+cheatsheet
+Resource: Scala: Compose Classes with Mixins - Ruminations of a ...
+Type: CheatSheet
+URL: http://debasishg.blogspot.com/2006/04/scala-compose-classes-with-mixins.html
+--------
+Query: scala+higher-order+functions+cheatsheet
+Resource: Scala Cheatsheet · GitHub
+Type: CheatSheet
+URL: https://gist.github.com/heathermiller/2ab9ef36910fdfdd20e9
+--------
+Query: scala+higher-order+functions+cheatsheet
+Resource: Higher-order Functions | Tour of Scala | Scala Documentation
+Type: CheatSheet
+URL: https://docs.scala-lang.org/tour/higher-order-functions.html
+--------
+Query: scala+higher-order+functions+cheatsheet
+Resource: 
+Type: CheatSheet
+URL: https://www.javatpoint.com/scala-higher-order-functions
+--------
+Query: scala+higher-order+functions+cheatsheet
+Resource: 
+Type: CheatSheet
+URL: https://blog.bitsrc.io/understanding-higher-order-functions-in-javascript-75461803bad
+--------
+Query: scala+higher-order+functions+cheatsheet
+Resource: 
+Type: CheatSheet
+URL: https://stackoverflow.com/questions/6951895/what-does-and-mean-in-scala
+--------
+Query: scala+higher-order+functions+cheatsheet
+Resource: 
+Type: CheatSheet
+URL: http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-functions-scala/scala-tutorial-learn-create-use-functions/
+--------
+Query: scala+higher-order+functions+cheatsheet
+Resource: Scala Cheatsheet | Scala Documentation
+Type: CheatSheet
+URL: https://docs.scala-lang.org/cheatsheets/
+--------
+Query: scala+higher-order+functions+cheatsheet
+Resource: Scala Tutorial - Higher Order Function - Function As Parameter
+Type: CheatSheet
+URL: http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-functions-scala/scala-tutorial-higher-order-function-parameter/
+--------
+Query: scala+higher-order+functions+cheatsheet
+Resource: Scala Language - Map Collection Cheatsheet | scala Tutorial
+Type: CheatSheet
+URL: https://riptutorial.com/scala/example/8306/map-collection-cheatsheet
+--------
+Query: scala+higher-order+functions+cheatsheet
+Resource: cheat sheet for scala syntax - Brendan O'Connor
+Type: CheatSheet
+URL: http://brenocon.com/scalacheat/
+--------
+Query: scala+higher-order+functions+cheatsheet
+Resource: Higher-Order Functions :: Eloquent JavaScript
+Type: CheatSheet
+URL: https://eloquentjavascript.net/05_higher_order.html
+--------
+Query: scala+higher-order+functions+cheatsheet
+Resource: Scala: How to use higher-order functions with Option (instead ...
+Type: CheatSheet
+URL: https://alvinalexander.com/scala/how-use-higher-order-functions-option-some-none-match-expressions
+--------
+Query: scala+higher-order+functions+cheatsheet
+Resource: Recently-added Scala cheat sheets, tutorials, syntax, and ...
+Type: CheatSheet
+URL: https://alvinalexander.com/scala/recently-added-scala-cheat-sheets-tutorials-syntax-examples
+--------
+Query: scala+higher-order+functions+cheatsheet
+Resource: Scala - Higher-Order Functions - Tutorialspoint
+Type: CheatSheet
+URL: https://www.tutorialspoint.com/scala/higher_order_functions.htm
+--------
+Query: scala+nested+methods+cheatsheet
+Resource: Scala Cheatsheet | Scala Documentation
+Type: CheatSheet
+URL: https://docs.scala-lang.org/cheatsheets/
+--------
+Query: scala+nested+methods+cheatsheet
+Resource: Nested Methods | Tour of Scala | Scala Documentation
+Type: CheatSheet
+URL: https://docs.scala-lang.org/tour/nested-functions.html
+--------
+Query: scala+nested+methods+cheatsheet
+Resource: Scala Cheatsheet · GitHub
+Type: CheatSheet
+URL: https://gist.github.com/heathermiller/2ab9ef36910fdfdd20e9
+--------
+Query: scala+nested+methods+cheatsheet
+Resource: Scala Quick Reference v1.1
+Type: CheatSheet
+URL: https://homepage.cs.uiowa.edu/~tinelli/classes/022/Fall13/Notes/scala-quick-reference.pdf
+--------
+Query: scala+nested+methods+cheatsheet
+Resource: Scala - Nested Functions - Tutorialspoint
+Type: CheatSheet
+URL: https://www.tutorialspoint.com/scala/nested_functions.htm
+--------
+Query: scala+nested+methods+cheatsheet
+Resource: Scala - Cheat-Sheets.org
+Type: CheatSheet
+URL: http://www.cheat-sheets.org/saved-copy/Scala_Cheatsheet.pdf
+--------
+Query: scala+nested+methods+cheatsheet
+Resource: Java developer's Scala cheatsheet by mbonaci - GitHub Pages
+Type: CheatSheet
+URL: https://mbonaci.github.io/scala/
+--------
+Query: scala+nested+methods+cheatsheet
+Resource: Nested Functions - Scala Documentation
+Type: CheatSheet
+URL: http://scalajp.github.io/scala.github.com/tutorials/tour/nested-functions.html
+--------
+Query: scala+nested+methods+cheatsheet
+Resource: Scala | Nested Functions - GeeksforGeeks
+Type: CheatSheet
+URL: https://www.geeksforgeeks.org/scala-nested-functions/
+--------
+Query: scala+nested+methods+cheatsheet
+Resource: Cheat sheet: The complete guide to Scala - JAXenter
+Type: CheatSheet
+URL: https://jaxenter.com/cheat-sheet-complete-guide-scala-136558.html
+--------
+Query: scala+multiple+parameter+lists+cheatsheet
+Resource: Multiple Parameter Lists (Currying) | Tour of Scala | Scala ...
+Type: CheatSheet
+URL: https://docs.scala-lang.org/tour/multiple-parameter-lists.html
+--------
+Query: scala+multiple+parameter+lists+cheatsheet
+Resource: Scala Cheatsheet | Scala Documentation
+Type: CheatSheet
+URL: https://docs.scala-lang.org/cheatsheets/
+--------
+Query: scala+multiple+parameter+lists+cheatsheet
+Resource: cheat sheet for scala syntax - Brendan O'Connor
+Type: CheatSheet
+URL: http://brenocon.com/scalacheat/
+--------
+Query: scala+multiple+parameter+lists+cheatsheet
+Resource: Scala Cheatsheet · GitHub
+Type: CheatSheet
+URL: https://gist.github.com/heathermiller/2ab9ef36910fdfdd20e9
+--------
+Query: scala+multiple+parameter+lists+cheatsheet
+Resource: Scala Quick Reference v1.1
+Type: CheatSheet
+URL: https://homepage.cs.uiowa.edu/~tinelli/classes/022/Fall13/Notes/scala-quick-reference.pdf
+--------
+Query: scala+multiple+parameter+lists+cheatsheet
+Resource: Multiple Parameter Lists in Scala · Sujith Jay Nair
+Type: CheatSheet
+URL: https://sujithjay.com/scala-currying
+--------
+Query: scala+multiple+parameter+lists+cheatsheet
+Resource: Java developer's Scala cheatsheet by mbonaci - GitHub Pages
+Type: CheatSheet
+URL: https://mbonaci.github.io/scala/
+--------
+Query: scala+multiple+parameter+lists+cheatsheet
+Resource: A Scala cheat sheet (reference page) | alvinalexander.com
+Type: CheatSheet
+URL: https://alvinalexander.com/scala/scala-cheat-sheet-reference-examples
+--------
+Query: scala+multiple+parameter+lists+cheatsheet
+Resource: How to Write and Use Scala Functions That Have Multiple ...
+Type: CheatSheet
+URL: https://alvinalexander.com/scala/fp-book/how-to-write-functions-multiple-parameter-groups
+--------
+Query: scala+multiple+parameter+lists+cheatsheet
+Resource: Scala Language - Crunch'n Numbers
+Type: CheatSheet
+URL: http://john-cd.com/cheatsheets/Scala/Scala_Language/
+--------
+Query: scala+case+classes+cheatsheet
+Resource: Scala Cheatsheet | Scala Documentation
+Type: CheatSheet
+URL: https://docs.scala-lang.org/cheatsheets/
+--------
+Query: scala+case+classes+cheatsheet
+Resource: Scala Cheat Sheet - Alvin Alexander
+Type: CheatSheet
+URL: https://alvinalexander.com/downloads/scala/Scala-Cheat-Sheet-devdaily.pdf
+--------
+Query: scala+case+classes+cheatsheet
+Resource: Scala Cheatsheet · GitHub
+Type: CheatSheet
+URL: https://gist.github.com/heathermiller/2ab9ef36910fdfdd20e9
+--------
+Query: scala+case+classes+cheatsheet
+Resource: Cheat sheet: The complete guide to Scala - JAXenter
+Type: CheatSheet
+URL: https://jaxenter.com/cheat-sheet-complete-guide-scala-136558.html
+--------
+Query: scala+case+classes+cheatsheet
+Resource: Scala - Cheat-Sheets.org
+Type: CheatSheet
+URL: http://www.cheat-sheets.org/saved-copy/Scala_Cheatsheet.pdf
+--------
+Query: scala+case+classes+cheatsheet
+Resource: cheat sheet for scala syntax - Brendan O'Connor
+Type: CheatSheet
+URL: http://brenocon.com/scalacheat/
+--------
+Query: scala+case+classes+cheatsheet
+Resource: Scala Quick Reference v1.1
+Type: CheatSheet
+URL: https://homepage.cs.uiowa.edu/~tinelli/classes/022/Fall13/Notes/scala-quick-reference.pdf
+--------
+Query: scala+case+classes+cheatsheet
+Resource: Syntax Cheat Sheet - Learn Scala for Java Developers ...
+Type: CheatSheet
+URL: https://rutlib5.com/book/4192/p/29
+--------
+Query: scala+case+classes+cheatsheet
+Resource: Scala Cheat Sheet
+Type: CheatSheet
+URL: https://riiswa.github.io/Scala-CheatSheet/
+--------
+Query: scala+pattern+matching+cheatsheet
+Resource: Scala Cheatsheet | Scala Documentation
+Type: CheatSheet
+URL: https://docs.scala-lang.org/cheatsheets/
+--------
+Query: scala+pattern+matching+cheatsheet
+Resource: Scala Cheatsheet · GitHub
+Type: CheatSheet
+URL: https://gist.github.com/heathermiller/2ab9ef36910fdfdd20e9
+--------
+Query: scala+pattern+matching+cheatsheet
+Resource: Scala Cheat Sheet - Alvin Alexander
+Type: CheatSheet
+URL: https://alvinalexander.com/downloads/scala/Scala-Cheat-Sheet-devdaily.pdf
+--------
+Query: scala+pattern+matching+cheatsheet
+Resource: cheat sheet for scala syntax - Brendan O'Connor
+Type: CheatSheet
+URL: http://brenocon.com/scalacheat/
+--------
+Query: scala+pattern+matching+cheatsheet
+Resource: Cheat sheet: The complete guide to Scala - JAXenter
+Type: CheatSheet
+URL: https://jaxenter.com/cheat-sheet-complete-guide-scala-136558.html
+--------
+Query: scala+pattern+matching+cheatsheet
+Resource: Scala Quick Reference v1.1
+Type: CheatSheet
+URL: https://homepage.cs.uiowa.edu/~tinelli/classes/022/Fall13/Notes/scala-quick-reference.pdf
+--------
+Query: scala+pattern+matching+cheatsheet
+Resource: Level 4 - Pattern Matching - Scala Cheat Sheet - Memrise
+Type: CheatSheet
+URL: https://www.memrise.com/course/368089/scala-cheat-sheet/4/
+--------
+Query: scala+pattern+matching+cheatsheet
+Resource: Scala - Regular Expressions - Tutorialspoint
+Type: CheatSheet
+URL: https://www.tutorialspoint.com/scala/scala_regular_expressions.htm
+--------
+Query: scala+pattern+matching+cheatsheet
+Resource: Scala Language - Map Collection Cheatsheet | scala Tutorial
+Type: CheatSheet
+URL: https://riptutorial.com/scala/example/8306/map-collection-cheatsheet
+--------
+Query: scala+singleton+objects+cheatsheet
+Resource: Scala Cheatsheet | Scala Documentation
+Type: CheatSheet
+URL: https://docs.scala-lang.org/cheatsheets/
+--------
+Query: scala+singleton+objects+cheatsheet
+Resource: Scala Cheat Sheet - Alvin Alexander
+Type: CheatSheet
+URL: https://alvinalexander.com/downloads/scala/Scala-Cheat-Sheet-devdaily.pdf
+--------
+Query: scala+singleton+objects+cheatsheet
+Resource: Scala - Cheat-Sheets.org
+Type: CheatSheet
+URL: http://www.cheat-sheets.org/saved-copy/Scala_Cheatsheet.pdf
+--------
+Query: scala+singleton+objects+cheatsheet
+Resource: 
+Type: CheatSheet
+URL: https://www.javatpoint.com/scala-singleton-and-companion-object
+--------
+Query: scala+singleton+objects+cheatsheet
+Resource: 
+Type: CheatSheet
+URL: https://www.geeksforgeeks.org/scala-singleton-and-companion-objects/
+--------
+Query: scala+singleton+objects+cheatsheet
+Resource: 
+Type: CheatSheet
+URL: https://stackoverflow.com/questions/6951895/what-does-and-mean-in-scala
+--------
+Query: scala+singleton+objects+cheatsheet
+Resource: 
+Type: CheatSheet
+URL: https://stackoverflow.com/questions/36882100/whats-the-difference-between-a-companion-object-and-a-singleton-class-in-scala
+--------
+Query: scala+singleton+objects+cheatsheet
+Resource: Scala Cheatsheet · GitHub
+Type: CheatSheet
+URL: https://gist.github.com/heathermiller/2ab9ef36910fdfdd20e9
+--------
+Query: scala+singleton+objects+cheatsheet
+Resource: Scala Cheat Sheet
+Type: CheatSheet
+URL: https://riiswa.github.io/Scala-CheatSheet/
+--------
+Query: scala+singleton+objects+cheatsheet
+Resource: Scala Quick Reference v1.1
+Type: CheatSheet
+URL: https://homepage.cs.uiowa.edu/~tinelli/classes/022/Fall13/Notes/scala-quick-reference.pdf
+--------
+Query: scala+singleton+objects+cheatsheet
+Resource: Java to Scala cheatsheet | REA Group Ltd
+Type: CheatSheet
+URL: https://www.rea-group.com/blog/java-to-scala-cheatsheet/
+--------
+Query: scala+singleton+objects+cheatsheet
+Resource: Cheat sheet: The complete guide to Scala - JAXenter
+Type: CheatSheet
+URL: https://jaxenter.com/cheat-sheet-complete-guide-scala-136558.html
+--------
+Query: scala+singleton+objects+cheatsheet
+Resource: cheat sheet for scala syntax - Brendan O'Connor
+Type: CheatSheet
+URL: http://brenocon.com/scalacheat/
+--------
+Query: scala+regular+expression+patterns+cheatsheet
+Resource: Scala - Regular Expressions - Tutorialspoint
+Type: CheatSheet
+URL: https://www.tutorialspoint.com/scala/scala_regular_expressions.htm
+--------
+Query: scala+regular+expression+patterns+cheatsheet
+Resource: Regular Expression Patterns | Tour of Scala | Scala ...
+Type: CheatSheet
+URL: https://docs.scala-lang.org/tour/regular-expression-patterns.html
+--------
+Query: scala+regular+expression+patterns+cheatsheet
+Resource: Regex Cheat Sheet - RexEgg
+Type: CheatSheet
+URL: https://www.rexegg.com/regex-quickstart.html
+--------
+Query: scala+regular+expression+patterns+cheatsheet
+Resource: Scala Regex | Scala Regular Expressions - Replacing ...
+Type: CheatSheet
+URL: https://data-flair.training/blogs/scala-regex/
+--------
+Query: scala+regular+expression+patterns+cheatsheet
+Resource: Java Regular Expressions Cheat Sheet (Regex Java) | Rebel
+Type: CheatSheet
+URL: https://www.jrebel.com/blog/java-regular-expressions-cheat-sheet
+--------
+Query: scala+regular+expression+patterns+cheatsheet
+Resource: Regular Expressions cheat sheet - MIT
+Type: CheatSheet
+URL: http://web.mit.edu/hackl/www/lab/turkshop/slides/regex-cheatsheet.pdf
+--------
+Query: scala+regular+expression+patterns+cheatsheet
+Resource: How to find regex patterns in Scala strings | alvinalexander.com
+Type: CheatSheet
+URL: https://alvinalexander.com/scala/how-find-regex-patterns-matches-in-strings-scala
+--------
+Query: scala+regular+expression+patterns+cheatsheet
+Resource: Regex tutorial — A quick cheatsheet by examples - Factory ...
+Type: CheatSheet
+URL: https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285
+--------
+Query: scala+regular+expression+patterns+cheatsheet
+Resource: Java Regular Expressions Cheat Sheet
+Type: CheatSheet
+URL: http://www.omicentral.com/cheatsheets/JavaRegularExpressionsCheatSheet.pdf
+--------
+Query: scala+regular+expression+patterns+cheatsheet
+Resource: Regular Expressions Cheat Sheet - Krijn
+Type: CheatSheet
+URL: https://krijnhoetmer.nl/stuff/regex/cheat-sheet/
+--------
+Query: scala+extractor+objects+cheatsheet
+Resource: Extractor Objects | Tour of Scala | Scala Documentation
+Type: CheatSheet
+URL: https://docs.scala-lang.org/tour/extractor-objects.html
+--------
+Query: scala+extractor+objects+cheatsheet
+Resource: Objetos Extractores - Scala Documentation
+Type: CheatSheet
+URL: https://docs.scala-lang.org/es/tutorials/tour/extractor-objects.html
+--------
+Query: scala+extractor+objects+cheatsheet
+Resource: Scala - Extractors - Tutorialspoint
+Type: CheatSheet
+URL: https://www.tutorialspoint.com/scala/scala_extractors.htm
+--------
+Query: scala+extractor+objects+cheatsheet
+Resource: cheat sheet for scala syntax - Brendan O'Connor
+Type: CheatSheet
+URL: http://brenocon.com/scalacheat/
+--------
+Query: scala+extractor+objects+cheatsheet
+Resource: Scala Quick Reference v1.1
+Type: CheatSheet
+URL: https://homepage.cs.uiowa.edu/~tinelli/classes/022/Fall13/Notes/scala-quick-reference.pdf
+--------
+Query: scala+extractor+objects+cheatsheet
+Resource: scala-cheat-sheet.md · GitHub
+Type: CheatSheet
+URL: https://gist.github.com/c1c1ae9b9401d8c2455ae01d9045b2d5
+--------
+Query: scala+extractor+objects+cheatsheet
+Resource: Cheat sheet: The complete guide to Scala - JAXenter
+Type: CheatSheet
+URL: https://jaxenter.com/cheat-sheet-complete-guide-scala-136558.html
+--------
+Query: scala+extractor+objects+cheatsheet
+Resource: Java developer's Scala cheatsheet by mbonaci - GitHub Pages
+Type: CheatSheet
+URL: https://mbonaci.github.io/scala/
+--------
+Query: scala+extractor+objects+cheatsheet
+Resource: Scala jargon cheatsheet - SlideShare
+Type: CheatSheet
+URL: https://es.slideshare.net/rssh1/scala-jargon-cheatsheet
+--------
+Query: scala+extractor+objects+cheatsheet
+Resource: 
+Type: CheatSheet
+URL: https://www.tutorialspoint.com/scala/scala_extractors.htm
+--------
+Query: scala+extractor+objects+cheatsheet
+Resource: 
+Type: CheatSheet
+URL: https://docs.scala-lang.org/tour/extractor-objects.html
+--------
+Query: scala+extractor+objects+cheatsheet
+Resource: 
+Type: CheatSheet
+URL: https://stackoverflow.com/questions/6951895/what-does-and-mean-in-scala
+--------
+Query: scala+extractor+objects+cheatsheet
+Resource: 
+Type: CheatSheet
+URL: https://stackoverflow.com/questions/9737352/what-is-the-apply-function-in-scala
+--------
+=======Tutorial======
+Query: scala+basics+tutorial
+Resource: Scala Tutorial - Tutorialspoint
+Type: Tutorial
+URL: https://www.tutorialspoint.com/scala/index.htm
+--------
+Query: scala+basics+tutorial
+Resource: Scala Tutorials
+Type: Tutorial
+URL: http://allaboutscala.com/
+--------
+Query: scala+basics+tutorial
+Resource: Beginner's Guide to Scala (article) - DataCamp
+Type: Tutorial
+URL: https://www.datacamp.com/community/tutorials/beginners-guide-to-scala
+--------
+Query: scala+basics+tutorial
+Resource: Scala Exercises
+Type: Tutorial
+URL: https://www.scala-exercises.org/
+--------
+Query: scala+basics+tutorial
+Resource: Learn Scala Tutorial - javatpoint
+Type: Tutorial
+URL: https://www.javatpoint.com/scala-tutorial
+--------
+Query: scala+basics+tutorial
+Resource: Introduction | Tour of Scala | Scala Documentation
+Type: Tutorial
+URL: https://docs.scala-lang.org/tour/tour-of-scala.html
+--------
+Query: scala+basics+tutorial
+Resource: Scala Documentation
+Type: Tutorial
+URL: https://docs.scala-lang.org/
+--------
+Query: scala+basics+tutorial
+Resource: What is Scala? | A Comprehensive Scala Tutorial - DataFlair
+Type: Tutorial
+URL: https://data-flair.training/blogs/scala-tutorial/
+--------
+Query: scala+basics+tutorial
+Resource: Scala Tutorial - Learn Scala from experts – Intellipaat
+Type: Tutorial
+URL: https://intellipaat.com/blog/tutorial/scala-tutorial/
+--------
+Query: scala+basics+tutorial
+Resource: 
+Type: Tutorial
+URL: https://dzone.com/articles/10-reasons-to-learn-scala-and-functional-programmi
+--------
+Query: scala+basics+tutorial
+Resource: 
+Type: Tutorial
+URL: https://hackernoon.com/10-reasons-to-learn-scala-and-functional-programming-2fce385e6ec7
+--------
+Query: scala+basics+tutorial
+Resource: 
+Type: Tutorial
+URL: https://data-flair.training/blogs/scala-programming/
+--------
+Query: scala+basics+tutorial
+Resource: 
+Type: Tutorial
+URL: https://www.tutorialspoint.com/scala/index.htm
+--------
+Query: scala+unified+types+tutorial
+Resource: Unified Types | Tour of Scala | Scala Documentation
+Type: Tutorial
+URL: https://docs.scala-lang.org/tour/unified-types.html
+--------
+Query: scala+unified+types+tutorial
+Resource: A Tour of Scala: Unified Types | The Scala Programming ...
+Type: Tutorial
+URL: https://www.scala-lang.org/old/node/128.html
+--------
+Query: scala+unified+types+tutorial
+Resource: Scala Tutorial - Learn The Scala Class And Type Hierarchy
+Type: Tutorial
+URL: http://allaboutscala.com/tutorials/chapter-2-learning-basics-scala-programming/scala-tutorial-learn-scala-class-type-hierarchy/
+--------
+Query: scala+unified+types+tutorial
+Resource: Learning Scala - Unified Type System » stdatalabs
+Type: Tutorial
+URL: https://stdatalabs.com/2018/10/learning-scala-unified-type-system/
+--------
+Query: scala+unified+types+tutorial
+Resource: Scala Data Types with Examples | Escape Value ... - DataFlair
+Type: Tutorial
+URL: https://data-flair.training/blogs/scala-data-types/
+--------
+Query: scala+unified+types+tutorial
+Resource: 
+Type: Tutorial
+URL: http://allaboutscala.com/tutorials/chapter-2-learning-basics-scala-programming/scala-tutorial-learn-scala-class-type-hierarchy/
+--------
+Query: scala+unified+types+tutorial
+Resource: 
+Type: Tutorial
+URL: https://docs.scala-lang.org/tour/unified-types.html
+--------
+Query: scala+unified+types+tutorial
+Resource: 
+Type: Tutorial
+URL: https://www.scala-lang.org/node/125
+--------
+Query: scala+unified+types+tutorial
+Resource: 
+Type: Tutorial
+URL: https://www.scala-lang.org/api/2.12.1/scala/Unit.html
+--------
+Query: scala+unified+types+tutorial
+Resource: Scala Type Hierarchy - GeeksforGeeks
+Type: Tutorial
+URL: https://www.geeksforgeeks.org/scala-type-hierarchy/
+--------
+Query: scala+unified+types+tutorial
+Resource: Scala Data Types | Type Hierarchy in Scala with Type Casting ...
+Type: Tutorial
+URL: https://www.educba.com/scala-data-types/
+--------
+Query: scala+unified+types+tutorial
+Resource: What is Scala's Nothing type for? - jooohn - Medium
+Type: Tutorial
+URL: https://medium.com/@juntomioka/what-is-scalas-nothing-type-for-6d1a1d4bcc02
+--------
+Query: scala+unified+types+tutorial
+Resource: Scala Type System - Learning Journal
+Type: Tutorial
+URL: https://www.learningjournal.guru/courses/scala/scala-programming-foundation/type-system/
+--------
+Query: scala+classes+tutorial
+Resource: Classes | Tour of Scala | Scala Documentation
+Type: Tutorial
+URL: https://docs.scala-lang.org/tour/classes.html
+--------
+Query: scala+classes+tutorial
+Resource: Scala - Classes & Objects - Tutorialspoint
+Type: Tutorial
+URL: https://www.tutorialspoint.com/scala/scala_classes_objects.htm
+--------
+Query: scala+classes+tutorial
+Resource: Scala class examples (constructors, case classes, parameters ...
+Type: Tutorial
+URL: https://alvinalexander.com/scala/scala-class-examples-constructors-case-classes-parameters
+--------
+Query: scala+classes+tutorial
+Resource: Scala Classes - Jenkov Tutorials
+Type: Tutorial
+URL: http://tutorials.jenkov.com/scala/classes.html
+--------
+Query: scala+classes+tutorial
+Resource: Class and Object in Scala - GeeksforGeeks
+Type: Tutorial
+URL: https://www.geeksforgeeks.org/class-and-object-in-scala/
+--------
+Query: scala+classes+tutorial
+Resource: Scala Classes and Objects (article) - DataCamp
+Type: Tutorial
+URL: https://www.datacamp.com/community/tutorials/scala-classes-objects
+--------
+Query: scala+classes+tutorial
+Resource: Scala Tutorial - Learn How To Create Classes And Objects In ...
+Type: Tutorial
+URL: http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-classes-scala/scala-tutorial-learn-create-classes-objects/
+--------
+Query: scala+classes+tutorial
+Resource: Chapter 4 - A Beginner's Tutorial To Using Classes In Scala
+Type: Tutorial
+URL: http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-classes-scala/
+--------
+Query: scala+classes+tutorial
+Resource: Scala Object and Classes - javatpoint
+Type: Tutorial
+URL: https://www.javatpoint.com/scala-object-and-class
+--------
+Query: scala+classes+tutorial
+Resource: 
+Type: Tutorial
+URL: https://docs.scala-lang.org/tour/classes.html
+--------
+Query: scala+classes+tutorial
+Resource: 
+Type: Tutorial
+URL: https://www.javatpoint.com/scala-case-classes-and-case-object
+--------
+Query: scala+classes+tutorial
+Resource: 
+Type: Tutorial
+URL: https://stackoverflow.com/questions/1755345/difference-between-object-and-class-in-scala
+--------
+Query: scala+classes+tutorial
+Resource: 
+Type: Tutorial
+URL: https://twitter.github.io/scala_school/basics2.html
+--------
+Query: scala+traits+tutorial
+Resource: Scala - Traits - Tutorialspoint
+Type: Tutorial
+URL: https://www.tutorialspoint.com/scala/scala_traits.htm
+--------
+Query: scala+traits+tutorial
+Resource: Scala Traits (article) - DataCamp
+Type: Tutorial
+URL: https://www.datacamp.com/community/tutorials/scala-traits
+--------
+Query: scala+traits+tutorial
+Resource: Traits | Tour of Scala | Scala Documentation
+Type: Tutorial
+URL: https://docs.scala-lang.org/tour/traits.html
+--------
+Query: scala+traits+tutorial
+Resource: Scala | Traits - GeeksforGeeks
+Type: Tutorial
+URL: https://www.geeksforgeeks.org/scala-traits/
+--------
+Query: scala+traits+tutorial
+Resource: Scala Trait - javatpoint
+Type: Tutorial
+URL: https://www.javatpoint.com/scala-trait
+--------
+Query: scala+traits+tutorial
+Resource: Scala trait examples and syntax | alvinalexander.com
+Type: Tutorial
+URL: https://alvinalexander.com/scala/scala-trait-examples
+--------
+Query: scala+traits+tutorial
+Resource: Scala Traits Example Tutorial - JournalDev
+Type: Tutorial
+URL: https://www.journaldev.com/8153/scala-traits-example-tutorial
+--------
+Query: scala+traits+tutorial
+Resource: Scala Traits - Scala Tutorial | Intellipaat.com
+Type: Tutorial
+URL: https://intellipaat.com/blog/tutorial/scala-tutorial/scala-traits/
+--------
+Query: scala+traits+tutorial
+Resource: Scala Tutorial - Learn How To Create Trait With Type ...
+Type: Tutorial
+URL: http://allaboutscala.com/tutorials/chapter-5-traits/scala-trait-type-parameters/
+--------
+Query: scala+traits+tutorial
+Resource: 
+Type: Tutorial
+URL: https://www.tutorialspoint.com/scala/scala_traits.htm
+--------
+Query: scala+traits+tutorial
+Resource: 
+Type: Tutorial
+URL: https://data-flair.training/blogs/scala-trait/
+--------
+Query: scala+traits+tutorial
+Resource: 
+Type: Tutorial
+URL: https://stackoverflow.com/questions/12854941/why-can-a-scala-trait-extend-a-class
+--------
+Query: scala+traits+tutorial
+Resource: 
+Type: Tutorial
+URL: https://en.wikibooks.org/wiki/Scala/Traits
+--------
+Query: scala+tuples+tutorial
+Resource: Tuples | Tour of Scala | Scala Documentation
+Type: Tutorial
+URL: https://docs.scala-lang.org/tour/tuples.html
+--------
+Query: scala+tuples+tutorial
+Resource: Scala - Tuples - Tutorialspoint
+Type: Tutorial
+URL: https://www.tutorialspoint.com/scala/scala_tuples.htm
+--------
+Query: scala+tuples+tutorial
+Resource: Scala tuple examples and syntax | alvinalexander.com
+Type: Tutorial
+URL: https://alvinalexander.com/scala/scala-tuple-examples-syntax
+--------
+Query: scala+tuples+tutorial
+Resource: 
+Type: Tutorial
+URL: https://docs.scala-lang.org/tour/tuples.html
+--------
+Query: scala+tuples+tutorial
+Resource: 
+Type: Tutorial
+URL: https://www.tutorialspoint.com/scala/scala_tuples.htm
+--------
+Query: scala+tuples+tutorial
+Resource: 
+Type: Tutorial
+URL: https://www.javaworld.com/article/2972863/open-source-java-projects-apache-spark.html?page=2
+--------
+Query: scala+tuples+tutorial
+Resource: 
+Type: Tutorial
+URL: https://data-flair.training/blogs/tuples-in-scala-introduction/
+--------
+Query: scala+tuples+tutorial
+Resource: Scala | Tuple - GeeksforGeeks
+Type: Tutorial
+URL: https://www.geeksforgeeks.org/scala-tuple/
+--------
+Query: scala+tuples+tutorial
+Resource: Scala Tuples - javatpoint
+Type: Tutorial
+URL: https://www.javatpoint.com/scala-tuples
+--------
+Query: scala+tuples+tutorial
+Resource: Scala Tuples and Maps Example - JournalDev
+Type: Tutorial
+URL: https://www.journaldev.com/8079/scala-tuples-and-maps-example
+--------
+Query: scala+tuples+tutorial
+Resource: Scala Tuples with Scala Tuple type and Examples - TechVidvan
+Type: Tutorial
+URL: https://techvidvan.com/tutorials/scala-tuples/
+--------
+Query: scala+tuples+tutorial
+Resource: Tuples in Scala - How to Convert Scala Tuple to String ...
+Type: Tutorial
+URL: https://data-flair.training/blogs/tuples-in-scala-introduction/
+--------
+Query: scala+tuples+tutorial
+Resource: Scala Tutorial - Learn How To Use Tuples (Pattern Match)
+Type: Tutorial
+URL: http://allaboutscala.com/tutorials/chapter-2-learning-basics-scala-programming/scala-tutorial-learn-how-to-use-tuples-pattern-match/
+--------
+Query: scala+tuples+tutorial
+Resource: Scala Language - Creando un nuevo tuple | scala Tutorial
+Type: Tutorial
+URL: https://riptutorial.com/es/scala/example/17544/creando-un-nuevo-tuple
+--------
+Query: scala+class+composition+with+mixins+tutorial
+Resource: Class Composition with Mixins | Tour of Scala | Scala ...
+Type: Tutorial
+URL: https://docs.scala-lang.org/tour/mixin-class-composition.html
+--------
+Query: scala+class+composition+with+mixins+tutorial
+Resource: A Tour of Scala: Mixin Class Composition | The Scala Programming ...
+Type: Tutorial
+URL: https://www.scala-lang.org/node/117
+--------
+Query: scala+class+composition+with+mixins+tutorial
+Resource: Mixin Class Composition in Scala - DZone Java
+Type: Tutorial
+URL: https://dzone.com/articles/mixin-class-composition-in-scala
+--------
+Query: scala+class+composition+with+mixins+tutorial
+Resource: How to use Scala traits as simple mixins | alvinalexander.com
+Type: Tutorial
+URL: https://alvinalexander.com/scala/how-to-use-scala-traits-as-mixins-mixing-in-traits
+--------
+Query: scala+class+composition+with+mixins+tutorial
+Resource: What is Scala Trait Mixins - Top Examples of Scala Mixins ...
+Type: Tutorial
+URL: https://data-flair.training/blogs/scala-trait-mixins/
+--------
+Query: scala+class+composition+with+mixins+tutorial
+Resource: Scala Mixins: The Right Way - bad.robot
+Type: Tutorial
+URL: http://baddotrobot.com/blog/2014/09/22/scala-mixins/
+--------
+Query: scala+class+composition+with+mixins+tutorial
+Resource: Scala Trait Mixins - javatpoint
+Type: Tutorial
+URL: https://www.javatpoint.com/scala-trait-mixins
+--------
+Query: scala+class+composition+with+mixins+tutorial
+Resource: Scala | Trait Mixins - GeeksforGeeks
+Type: Tutorial
+URL: https://www.geeksforgeeks.org/scala-trait-mixins/
+--------
+Query: scala+class+composition+with+mixins+tutorial
+Resource: Mixin Class Compositions in Scala – Alternate Stack
+Type: Tutorial
+URL: http://www.alternatestack.com/development/mixin-class-compositions-in-scala/
+--------
+Query: scala+class+composition+with+mixins+tutorial
+Resource: Mixins in Scala on waitingforcode.com - articles about Scala ...
+Type: Tutorial
+URL: https://www.waitingforcode.com/scala-core/mixins-scala/read
+--------
+Query: scala+higher-order+functions+tutorial
+Resource: Higher-order Functions | Tour of Scala | Scala Documentation
+Type: Tutorial
+URL: https://docs.scala-lang.org/tour/higher-order-functions.html
+--------
+Query: scala+higher-order+functions+tutorial
+Resource: Scala Tutorial | Higher Order Functions - Scala Exercises
+Type: Tutorial
+URL: https://www.scala-exercises.org/scala_tutorial/higher_order_functions
+--------
+Query: scala+higher-order+functions+tutorial
+Resource: Higher-Order Functions in Scala - DZone Java
+Type: Tutorial
+URL: https://dzone.com/articles/higher-order-functions-in-scala-1
+--------
+Query: scala+higher-order+functions+tutorial
+Resource: Scala Tutorial - Higher Order Function - Function As Parameter
+Type: Tutorial
+URL: http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-functions-scala/scala-tutorial-higher-order-function-parameter/
+--------
+Query: scala+higher-order+functions+tutorial
+Resource: Higher Order Functions in Scala - GeeksforGeeks
+Type: Tutorial
+URL: https://www.geeksforgeeks.org/higher-order-functions-in-scala/
+--------
+Query: scala+higher-order+functions+tutorial
+Resource: Scala Higher Order() Function - javatpoint
+Type: Tutorial
+URL: https://www.javatpoint.com/scala-higher-order-functions
+--------
+Query: scala+higher-order+functions+tutorial
+Resource: Scala - Higher-Order Functions - Tutorialspoint
+Type: Tutorial
+URL: https://www.tutorialspoint.com/scala/higher_order_functions.htm
+--------
+Query: scala+higher-order+functions+tutorial
+Resource: HIGHER ORDER FUNCTIONS IN SCALA - Knoldus Blogs
+Type: Tutorial
+URL: https://blog.knoldus.com/higher-order-functions-in-scala/
+--------
+Query: scala+higher-order+functions+tutorial
+Resource: 
+Type: Tutorial
+URL: https://www.javatpoint.com/scala-higher-order-functions
+--------
+Query: scala+higher-order+functions+tutorial
+Resource: 
+Type: Tutorial
+URL: https://blog.bitsrc.io/understanding-higher-order-functions-in-javascript-75461803bad
+--------
+Query: scala+higher-order+functions+tutorial
+Resource: 
+Type: Tutorial
+URL: http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-functions-scala/scala-tutorial-learn-create-use-functions/
+--------
+Query: scala+higher-order+functions+tutorial
+Resource: 
+Type: Tutorial
+URL: https://www.topjavatutorial.com/scala/first-class-function-scala/
+--------
+Query: scala+higher-order+functions+tutorial
+Resource: Scala Tutorials Part #27 - Higher Order Functions ...
+Type: Tutorial
+URL: https://madusudanan.com/blog/scala-tutorials-part-27-higher-order-functions/
+--------
+Query: scala+nested+methods+tutorial
+Resource: Scala | Nested Functions - GeeksforGeeks
+Type: Tutorial
+URL: https://www.geeksforgeeks.org/scala-nested-functions/
+--------
+Query: scala+nested+methods+tutorial
+Resource: Nested Methods | Tour of Scala | Scala Documentation
+Type: Tutorial
+URL: https://docs.scala-lang.org/tour/nested-functions.html
+--------
+Query: scala+nested+methods+tutorial
+Resource: Scala - Nested Functions - Tutorialspoint
+Type: Tutorial
+URL: https://www.tutorialspoint.com/scala/nested_functions.htm
+--------
+Query: scala+nested+methods+tutorial
+Resource: Nested functions in Scala | Usage, and Examples
+Type: Tutorial
+URL: https://www.includehelp.com/scala/nested-functions-in-scala-usage-and-examples.aspx
+--------
+Query: scala+nested+methods+tutorial
+Resource: Scala Tutorial - Learn How To Create Nested Function
+Type: Tutorial
+URL: http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-functions-scala/scala-tutorial-learn-create-nested-function/
+--------
+Query: scala+nested+methods+tutorial
+Resource: The cost of nested methods - Stack Overflow
+Type: Tutorial
+URL: https://stackoverflow.com/questions/2482326/the-cost-of-nested-methods
+--------
+Query: scala+nested+methods+tutorial
+Resource: Nested Functions in Scala - Top Java Tutorial
+Type: Tutorial
+URL: https://www.topjavatutorial.com/scala/nested-functions-scala/
+--------
+Query: scala+nested+methods+tutorial
+Resource: Nested Functions - Scala Documentation
+Type: Tutorial
+URL: http://scalajp.github.io/scala.github.com/tutorials/tour/nested-functions.html
+--------
+Query: scala+nested+methods+tutorial
+Resource: Scala Functions - Declaration, Definition, Invocation and ...
+Type: Tutorial
+URL: https://www.journaldev.com/7713/scala-functions-declaration-definition-invocation-and-nested-functions
+--------
+Query: scala+nested+methods+tutorial
+Resource: Scala Function Tutorial - Types of Functions in Scala - DataFlair
+Type: Tutorial
+URL: https://data-flair.training/blogs/scala-function/
+--------
+Query: scala+multiple+parameter+lists+tutorial
+Resource: Multiple Parameter Lists (Currying) | Tour of Scala | Scala ...
+Type: Tutorial
+URL: https://docs.scala-lang.org/tour/multiple-parameter-lists.html
+--------
+Query: scala+multiple+parameter+lists+tutorial
+Resource: Why does Scala provide both multiple parameters lists and multiple ...
+Type: Tutorial
+URL: https://stackoverflow.com/questions/4684185/why-does-scala-provide-both-multiple-parameters-lists-and-multiple-parameters-pe
+--------
+Query: scala+multiple+parameter+lists+tutorial
+Resource: How to Write and Use Scala Functions That Have Multiple ...
+Type: Tutorial
+URL: https://alvinalexander.com/scala/fp-book/how-to-write-functions-multiple-parameter-groups
+--------
+Query: scala+multiple+parameter+lists+tutorial
+Resource: Multiple Parameter Lists in Scala · Sujith Jay Nair
+Type: Tutorial
+URL: https://sujithjay.com/scala-currying
+--------
+Query: scala+multiple+parameter+lists+tutorial
+Resource: Multiple parameter lists - Scala Programming Guidelines
+Type: Tutorial
+URL: https://netvl.github.io/scala-guidelines/language-features/multiple-parameter-lists.html
+--------
+Query: scala+multiple+parameter+lists+tutorial
+Resource: Multiple Parameter Lists - Scala Style Guide - Read the Docs
+Type: Tutorial
+URL: https://daniel-spewaks-scala-style-guide.readthedocs.io/en/latest/declarations/methods/currying.html
+--------
+Query: scala+multiple+parameter+lists+tutorial
+Resource: Scala - Currying Functions - Tutorialspoint
+Type: Tutorial
+URL: https://www.tutorialspoint.com/scala/currying_functions.htm
+--------
+Query: scala+multiple+parameter+lists+tutorial
+Resource: Scala Higher Order() Function - javatpoint
+Type: Tutorial
+URL: https://www.javatpoint.com/scala-higher-order-functions
+--------
+Query: scala+multiple+parameter+lists+tutorial
+Resource: Scala Tutorial - Learn How To Create Function With Implicit ...
+Type: Tutorial
+URL: http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-functions-scala/scala-tutorial-learn-create-function-implicit-parameter/
+--------
+Query: scala+multiple+parameter+lists+tutorial
+Resource: Scala Syntax: An Introductory Scala Tutorial - DataFlair
+Type: Tutorial
+URL: https://data-flair.training/blogs/scala-syntax/
+--------
+Query: scala+case+classes+tutorial
+Resource: Scala Case Classes and Case Object - javatpoint
+Type: Tutorial
+URL: https://www.javatpoint.com/scala-case-classes-and-case-object
+--------
+Query: scala+case+classes+tutorial
+Resource: Case Classes | Tour of Scala | Scala Documentation
+Type: Tutorial
+URL: https://docs.scala-lang.org/tour/case-classes.html
+--------
+Query: scala+case+classes+tutorial
+Resource: Scala Case Class - How to Create Scala Object - DataFlair
+Type: Tutorial
+URL: https://data-flair.training/blogs/scala-case-class/
+--------
+Query: scala+case+classes+tutorial
+Resource: Scala | Case Class and Case Object - GeeksforGeeks
+Type: Tutorial
+URL: https://www.geeksforgeeks.org/scala-case-class-and-case-object/
+--------
+Query: scala+case+classes+tutorial
+Resource: 
+Type: Tutorial
+URL: https://www.journaldev.com/9733/scala-caseclass-caseobject-part1
+--------
+Query: scala+case+classes+tutorial
+Resource: 
+Type: Tutorial
+URL: https://data-flair.training/blogs/scala-case-class/
+--------
+Query: scala+case+classes+tutorial
+Resource: 
+Type: Tutorial
+URL: https://www.scala-exercises.org/scala_tutorial/classes_vs_case_classes
+--------
+Query: scala+case+classes+tutorial
+Resource: 
+Type: Tutorial
+URL: https://www.geeksforgeeks.org/scala-case-class-and-case-object/
+--------
+Query: scala+case+classes+tutorial
+Resource: Scala Tutorial | Classes Vs Case Classes - Scala Exercises
+Type: Tutorial
+URL: https://www.scala-exercises.org/scala_tutorial/classes_vs_case_classes
+--------
+Query: scala+case+classes+tutorial
+Resource: Scala Tutorial - Learn How To Define And Use Case Class
+Type: Tutorial
+URL: http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-classes-scala/scala-tutorial-learn-define-use-case-class/
+--------
+Query: scala+case+classes+tutorial
+Resource: Scala Case Class and Case Object In-Depth (Part-1 ...
+Type: Tutorial
+URL: https://www.journaldev.com/9733/scala-caseclass-caseobject-part1
+--------
+Query: scala+case+classes+tutorial
+Resource: Scala class examples (constructors, case classes, parameters ...
+Type: Tutorial
+URL: https://alvinalexander.com/scala/scala-class-examples-constructors-case-classes-parameters
+--------
+Query: scala+case+classes+tutorial
+Resource: How to use case classes in Scala match expressions ...
+Type: Tutorial
+URL: https://alvinalexander.com/scala/how-to-use-case-classes-in-scala-match-expressions
+--------
+Query: scala+case+classes+tutorial
+Resource: Scala Tutorial: Case Classes - StackChief
+Type: Tutorial
+URL: https://www.stackchief.com/tutorials/Scala%20Tutorial:%20Case%20Classes
+--------
+Query: scala+pattern+matching+tutorial
+Resource: Pattern Matching | Tour of Scala | Scala Documentation
+Type: Tutorial
+URL: https://docs.scala-lang.org/tour/pattern-matching.html
+--------
+Query: scala+pattern+matching+tutorial
+Resource: Scala Tutorial - Learn How To Use Pattern Matching
+Type: Tutorial
+URL: http://allaboutscala.com/tutorials/chapter-2-learning-basics-scala-programming/scala-tutorial-learn-how-to-use-pattern-matching/
+--------
+Query: scala+pattern+matching+tutorial
+Resource: How to use pattern matching in Scala match/case expressions ...
+Type: Tutorial
+URL: https://alvinalexander.com/scala/how-to-use-pattern-matching-scala-match-case-expressions
+--------
+Query: scala+pattern+matching+tutorial
+Resource: Pattern Matching in Scala | Baeldung on Scala
+Type: Tutorial
+URL: https://www.baeldung.com/scala/pattern-matching
+--------
+Query: scala+pattern+matching+tutorial
+Resource: Scala - Pattern Matching - Tutorialspoint
+Type: Tutorial
+URL: https://www.tutorialspoint.com/scala/scala_pattern_matching.htm
+--------
+Query: scala+pattern+matching+tutorial
+Resource: Uso De Las Clases Case Y Pattern Matching En Scala - Guía
+Type: Tutorial
+URL: https://www.imaginaformacion.com/tutorial/uso-de-las-clases-case-y-pattern-matching-en-scala/
+--------
+Query: scala+pattern+matching+tutorial
+Resource: Scala | Pattern Matching - GeeksforGeeks
+Type: Tutorial
+URL: https://www.geeksforgeeks.org/scala-pattern-matching/
+--------
+Query: scala+pattern+matching+tutorial
+Resource: An Introduction to Pattern Matching in Scala - ProTech Training
+Type: Tutorial
+URL: https://www.protechtraining.com/blog/post/an-introduction-to-pattern-matching-in-scala-842
+--------
+Query: scala+pattern+matching+tutorial
+Resource: 14 Types Scala Pattern Matching - Syntax, Example, Case ...
+Type: Tutorial
+URL: https://data-flair.training/blogs/scala-pattern-matching/
+--------
+Query: scala+pattern+matching+tutorial
+Resource: Scala: Pattern matching use cases - Fruzenshtein Notes
+Type: Tutorial
+URL: http://fruzenshtein.com/scala-pattern-matching/
+--------
+Query: scala+pattern+matching+tutorial
+Resource: 
+Type: Tutorial
+URL: https://www.tutorialspoint.com/scala/scala_pattern_matching.htm
+--------
+Query: scala+pattern+matching+tutorial
+Resource: 
+Type: Tutorial
+URL: https://www.laserfiche.com/support/webhelp/quickfields/8.0/en-us/content/Pattern%20Matching.htm
+--------
+Query: scala+pattern+matching+tutorial
+Resource: 
+Type: Tutorial
+URL: https://www.techopedia.com/definition/8801/pattern-matching
+--------
+Query: scala+pattern+matching+tutorial
+Resource: 
+Type: Tutorial
+URL: https://data-flair.training/blogs/scala-case-class/
+--------
+Query: scala+singleton+objects+tutorial
+Resource: Scala Singleton and Companion Object - javatpoint
+Type: Tutorial
+URL: https://www.javatpoint.com/scala-singleton-and-companion-object
+--------
+Query: scala+singleton+objects+tutorial
+Resource: Singleton Objects | Tour of Scala | Scala Documentation
+Type: Tutorial
+URL: https://docs.scala-lang.org/tour/singleton-objects.html
+--------
+Query: scala+singleton+objects+tutorial
+Resource: 
+Type: Tutorial
+URL: https://www.geeksforgeeks.org/scala-singleton-and-companion-objects/
+--------
+Query: scala+singleton+objects+tutorial
+Resource: 
+Type: Tutorial
+URL: https://stackoverflow.com/questions/36882100/whats-the-difference-between-a-companion-object-and-a-singleton-class-in-scala
+--------
+Query: scala+singleton+objects+tutorial
+Resource: 
+Type: Tutorial
+URL: https://docs.scala-lang.org/overviews/scala-book/companion-objects.html
+--------
+Query: scala+singleton+objects+tutorial
+Resource: 
+Type: Tutorial
+URL: https://en.wikibooks.org/wiki/Scala/Objects
+--------
+Query: scala+singleton+objects+tutorial
+Resource: Scala Singleton and Companion Objects - GeeksforGeeks
+Type: Tutorial
+URL: https://www.geeksforgeeks.org/scala-singleton-and-companion-objects/
+--------
+Query: scala+singleton+objects+tutorial
+Resource: Scala Object - Scala Singleton & Scala Companion Object ...
+Type: Tutorial
+URL: https://data-flair.training/blogs/scala-singleton-object/
+--------
+Query: scala+singleton+objects+tutorial
+Resource: Scala Singleton and Companion Objects - Jenkov Tutorials
+Type: Tutorial
+URL: http://tutorials.jenkov.com/scala/singleton-and-companion-objects.html
+--------
+Query: scala+singleton+objects+tutorial
+Resource: Scala Tutorial - Learn How To Declare And Use Singleton ...
+Type: Tutorial
+URL: http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-classes-scala/scala-tutorial-learn-declare-use-singleton-objects/
+--------
+Query: scala+singleton+objects+tutorial
+Resource: How to implement the Singleton Pattern with a Scala object ...
+Type: Tutorial
+URL: https://alvinalexander.com/scala/how-to-implement-singleton-pattern-in-scala-with-object
+--------
+Query: scala+singleton+objects+tutorial
+Resource: Scala Classes & Objects - Singleton Objects, Companion ...
+Type: Tutorial
+URL: https://www.journaldev.com/7497/scala-classes-objects-singleton-objects-companion-classes
+--------
+Query: scala+singleton+objects+tutorial
+Resource: Scala Language - Singleton & Companion Objects - RIP Tutorial
+Type: Tutorial
+URL: https://riptutorial.com/scala/example/7859/singleton---companion-objects
+--------
+Query: scala+regular+expression+patterns+tutorial
+Resource: Regular Expression Patterns | Tour of Scala | Scala ...
+Type: Tutorial
+URL: https://docs.scala-lang.org/tour/regular-expression-patterns.html
+--------
+Query: scala+regular+expression+patterns+tutorial
+Resource: Scala - Regular Expressions - Tutorialspoint
+Type: Tutorial
+URL: https://www.tutorialspoint.com/scala/scala_regular_expressions.htm
+--------
+Query: scala+regular+expression+patterns+tutorial
+Resource: Regular Expressions in Scala - GeeksforGeeks
+Type: Tutorial
+URL: https://www.geeksforgeeks.org/regular-expressions-in-scala/
+--------
+Query: scala+regular+expression+patterns+tutorial
+Resource: Scala Regular Expressions - Scala Tutorial | Intellipaat.com
+Type: Tutorial
+URL: https://intellipaat.com/blog/tutorial/scala-tutorial/scala-regular-expressions/
+--------
+Query: scala+regular+expression+patterns+tutorial
+Resource: Scala Regular Expression Example - JournalDev
+Type: Tutorial
+URL: https://www.journaldev.com/8256/scala-regular-expression-example
+--------
+Query: scala+regular+expression+patterns+tutorial
+Resource: How to find regex patterns in Scala strings | alvinalexander.com
+Type: Tutorial
+URL: https://alvinalexander.com/scala/how-find-regex-patterns-matches-in-strings-scala
+--------
+Query: scala+regular+expression+patterns+tutorial
+Resource: Scala: How to extract parts of a string that match a regex ...
+Type: Tutorial
+URL: https://alvinalexander.com/scala/how-to-extract-parts-strings-match-regular-expression-regex-scala
+--------
+Query: scala+regular+expression+patterns+tutorial
+Resource: Scala Regular Expressions in Scala Tutorial 08 February ...
+Type: Tutorial
+URL: https://www.wisdomjobs.com/e-university/scala-tutorial-1348/scala-regular-expressions-18514.html
+--------
+Query: scala+regular+expression+patterns+tutorial
+Resource: Scala Language - Pattern Matching with Regex | scala Tutorial
+Type: Tutorial
+URL: https://riptutorial.com/scala/example/6541/pattern-matching-with-regex
+--------
+Query: scala+regular+expression+patterns+tutorial
+Resource: Scala Regex | Scala Regular Expressions - Replacing ...
+Type: Tutorial
+URL: https://data-flair.training/blogs/scala-regex/
+--------
+Query: scala+extractor+objects+tutorial
+Resource: Extractor Objects | Tour of Scala | Scala Documentation
+Type: Tutorial
+URL: https://docs.scala-lang.org/tour/extractor-objects.html
+--------
+Query: scala+extractor+objects+tutorial
+Resource: Objetos Extractores - Scala Documentation
+Type: Tutorial
+URL: https://docs.scala-lang.org/es/tutorials/tour/extractor-objects.html
+--------
+Query: scala+extractor+objects+tutorial
+Resource: Scala - Extractors - Tutorialspoint
+Type: Tutorial
+URL: https://www.tutorialspoint.com/scala/scala_extractors.htm
+--------
+Query: scala+extractor+objects+tutorial
+Resource: Scala Extractors | Extractors vs Case Classes - DataFlair
+Type: Tutorial
+URL: https://data-flair.training/blogs/scala-extractors/
+--------
+Query: scala+extractor+objects+tutorial
+Resource: Scala Extractors - GeeksforGeeks
+Type: Tutorial
+URL: https://www.geeksforgeeks.org/scala-extractors/
+--------
+Query: scala+extractor+objects+tutorial
+Resource: Scala Extractors apply, unapply and pattern matching ...
+Type: Tutorial
+URL: https://www.journaldev.com/8270/scala-extractors-apply-unapply-and-pattern-matching
+--------
+Query: scala+extractor+objects+tutorial
+Resource: Scala Tutorials Part #18 - Extractors | Madusudanan
+Type: Tutorial
+URL: https://madusudanan.com/blog/scala-tutorials-part-18-extractors/
+--------
+Query: scala+extractor+objects+tutorial
+Resource: Scala: Extractors and Pattern Matching - Knoldus Blogs
+Type: Tutorial
+URL: https://blog.knoldus.com/scala-extractors-and-pattern-matching/
+--------
+Query: scala+extractor+objects+tutorial
+Resource: Back2Basics: Scala Extractors in Detail - Knoldus Blogs
+Type: Tutorial
+URL: https://blog.knoldus.com/back2basics-scala-extractors-in-detail/
+--------
+Query: scala+extractor+objects+tutorial
+Resource: Scala pattern matching: apply the unapply - Wix Engineering ...
+Type: Tutorial
+URL: https://medium.com/wix-engineering/scala-pattern-matching-apply-the-unapply-7237f8c30b41
+--------
+Query: scala+extractor+objects+tutorial
+Resource: 
+Type: Tutorial
+URL: https://www.tutorialspoint.com/scala/scala_extractors.htm
+--------
+Query: scala+extractor+objects+tutorial
+Resource: 
+Type: Tutorial
+URL: https://docs.scala-lang.org/tour/extractor-objects.html
+--------
+Query: scala+extractor+objects+tutorial
+Resource: 
+Type: Tutorial
+URL: https://stackoverflow.com/questions/9737352/what-is-the-apply-function-in-scala
+--------
+=======Course======
+Query: scala+basics+course
+Resource: Introduction to Scala (Free Course) - Cognitive Class
+Type: Course
+URL: https://cognitiveclass.ai/courses/introduction-to-scala
+--------
+Query: scala+basics+course
+Resource: Learn Scala | Coursera
+Type: Course
+URL: https://es.coursera.org/collections/learn-scala
+--------
+Query: scala+basics+course
+Resource: Functional Programming Principles in Scala | Coursera
+Type: Course
+URL: https://es.coursera.org/learn/progfun1
+--------
+Query: scala+basics+course
+Resource: Learn Scala with Online Scala Courses | edX
+Type: Course
+URL: https://www.edx.org/learn/scala
+--------
+Query: scala+basics+course
+Resource: Beginning Scala Programming | Udemy
+Type: Course
+URL: https://www.udemy.com/course/beginning-scala-programming/
+--------
+Query: scala+basics+course
+Resource: Scala For Beginners | Udemy
+Type: Course
+URL: https://www.udemy.com/course/scala-for-beginners/
+--------
+Query: scala+basics+course
+Resource: Introduction to Scala Course - Treehouse
+Type: Course
+URL: https://teamtreehouse.com/library/introduction-to-scala
+--------
+Query: scala+basics+course
+Resource: Scala Training Online
+Type: Course
+URL: https://scalacourses.com/
+--------
+Query: scala+basics+course
+Resource: 7 Best Scala Courses & Certification [2020 UPDATED]
+Type: Course
+URL: https://digitaldefynd.com/best-scala-courses/
+--------
+Query: scala+basics+course
+Resource: Scala Programming Course | Simplilearn
+Type: Course
+URL: https://www.simplilearn.com/scala-programming-beginners-course
+--------
+Query: scala+unified+types+course
+Resource: Unified Types | Tour of Scala | Scala Documentation
+Type: Course
+URL: https://docs.scala-lang.org/tour/unified-types.html
+--------
+Query: scala+unified+types+course
+Resource: 
+Type: Course
+URL: https://www.geeksforgeeks.org/scala-type-hierarchy/
+--------
+Query: scala+unified+types+course
+Resource: 
+Type: Course
+URL: https://docs.scala-lang.org/tour/classes.html
+--------
+Query: scala+unified+types+course
+Resource: 
+Type: Course
+URL: http://allaboutscala.com/tutorials/chapter-2-learning-basics-scala-programming/scala-tutorial-learn-scala-class-type-hierarchy/
+--------
+Query: scala+unified+types+course
+Resource: 
+Type: Course
+URL: https://www.quora.com/Does-Scala-have-primitive-types-similar-to-Java
+--------
+Query: scala+unified+types+course
+Resource: A Tour of Scala: Unified Types | The Scala Programming ...
+Type: Course
+URL: https://www.scala-lang.org/old/node/128.html
+--------
+Query: scala+unified+types+course
+Resource: Scala's Types of Types
+Type: Course
+URL: https://ktoso.github.io/scala-types-of-types/
+--------
+Query: scala+unified+types+course
+Resource: Scala Tutorial - Learn The Scala Class And Type Hierarchy
+Type: Course
+URL: http://allaboutscala.com/tutorials/chapter-2-learning-basics-scala-programming/scala-tutorial-learn-scala-class-type-hierarchy/
+--------
+Query: scala+unified+types+course
+Resource: Learning Scala - Unified Type System » stdatalabs
+Type: Course
+URL: https://stdatalabs.com/2018/10/learning-scala-unified-type-system/
+--------
+Query: scala+unified+types+course
+Resource: Scala Type System - Learning Journal
+Type: Course
+URL: https://www.learningjournal.guru/courses/scala/scala-programming-foundation/type-system/
+--------
+Query: scala+unified+types+course
+Resource: Scala Data Types | Type Hierarchy in Scala with Type Casting ...
+Type: Course
+URL: https://www.educba.com/scala-data-types/
+--------
+Query: scala+unified+types+course
+Resource: Scala Type Hierarchy - GeeksforGeeks
+Type: Course
+URL: https://www.geeksforgeeks.org/scala-type-hierarchy/
+--------
+Query: scala+unified+types+course
+Resource: Of Scala Type Classes - SE Notes by Alexey Novakov - Medium
+Type: Course
+URL: https://medium.com/se-notes-by-alexey-novakov/of-scala-type-classes-6647c48e39d9
+--------
+Query: scala+classes+course
+Resource: 7 Best Scala Courses & Certification [2020 UPDATED]
+Type: Course
+URL: https://digitaldefynd.com/best-scala-courses/
+--------
+Query: scala+classes+course
+Resource: Cursos de Scala | Coursera
+Type: Course
+URL: https://es.coursera.org/courses?query=scala
+--------
+Query: scala+classes+course
+Resource: Learn Scala with Online Scala Courses | edX
+Type: Course
+URL: https://www.edx.org/learn/scala
+--------
+Query: scala+classes+course
+Resource: Introduction to Scala (Free Course) - Cognitive Class
+Type: Course
+URL: https://cognitiveclass.ai/courses/introduction-to-scala
+--------
+Query: scala+classes+course
+Resource: Top Scala Courses Online - Updated [February 2020] | Udemy
+Type: Course
+URL: https://www.udemy.com/topic/scala/
+--------
+Query: scala+classes+course
+Resource: Scala Courses | Learn Online for Free | Class Central
+Type: Course
+URL: https://www.classcentral.com/subject/scala
+--------
+Query: scala+classes+course
+Resource: Scala courses
+Type: Course
+URL: https://scalacourses.com/
+--------
+Query: scala+classes+course
+Resource: What are the best Scala courses online? - Quora
+Type: Course
+URL: https://www.quora.com/What-are-the-best-Scala-courses-online
+--------
+Query: scala+classes+course
+Resource: Top 5 Free Courses to Learn Scala and ... - Javarevisited
+Type: Course
+URL: https://javarevisited.blogspot.com/2019/01/5-free-scala-programming-courses-for-java-programmers-learn-online.html
+--------
+Query: scala+classes+course
+Resource: ▷ Scala Training | Apache Scala Course & Online Training
+Type: Course
+URL: https://mindmajix.com/scala-training
+--------
+Query: scala+traits+course
+Resource: Scala Traits (article) - DataCamp
+Type: Course
+URL: https://www.datacamp.com/community/tutorials/scala-traits
+--------
+Query: scala+traits+course
+Resource: 
+Type: Course
+URL: https://www.tutorialspoint.com/scala/scala_traits.htm
+--------
+Query: scala+traits+course
+Resource: 
+Type: Course
+URL: https://www.javatpoint.com/scala-trait
+--------
+Query: scala+traits+course
+Resource: 
+Type: Course
+URL: https://data-flair.training/blogs/scala-trait/
+--------
+Query: scala+traits+course
+Resource: 
+Type: Course
+URL: https://en.wikibooks.org/wiki/Scala/Traits
+--------
+Query: scala+traits+course
+Resource: Scala - Traits - Tutorialspoint
+Type: Course
+URL: https://www.tutorialspoint.com/scala/scala_traits.htm
+--------
+Query: scala+traits+course
+Resource: Traits | Tour of Scala | Scala Documentation
+Type: Course
+URL: https://docs.scala-lang.org/tour/traits.html
+--------
+Query: scala+traits+course
+Resource: Scala Traits - Scala Tutorial | Intellipaat.com
+Type: Course
+URL: https://intellipaat.com/blog/tutorial/scala-tutorial/scala-traits/
+--------
+Query: scala+traits+course
+Resource: Scala | Traits - GeeksforGeeks
+Type: Course
+URL: https://www.geeksforgeeks.org/scala-traits/
+--------
+Query: scala+traits+course
+Resource: Difference Between Traits and Abstract Classes in Scala ...
+Type: Course
+URL: https://www.geeksforgeeks.org/difference-between-traits-and-abstract-classes-in-scala/
+--------
+Query: scala+traits+course
+Resource: Scala Trait - Multiple Class and Examples with New ...
+Type: Course
+URL: https://data-flair.training/blogs/scala-trait/
+--------
+Query: scala+traits+course
+Resource: Scala Trait - javatpoint
+Type: Course
+URL: https://www.javatpoint.com/scala-trait
+--------
+Query: scala+traits+course
+Resource: Inheritance and Traits in Scala | James Willett
+Type: Course
+URL: https://www.james-willett.com/scala-inheritance-traits/
+--------
+Query: scala+traits+course
+Resource: Scala Core Programming: Methods, Classes, and Traits | Live ...
+Type: Course
+URL: https://www.oreilly.com/live-training/courses/scala-core-programming-methods-classes-and-traits/0636920186960/
+--------
+Query: scala+tuples+course
+Resource: Scala tuple examples and syntax | alvinalexander.com
+Type: Course
+URL: https://alvinalexander.com/scala/scala-tuple-examples-syntax
+--------
+Query: scala+tuples+course
+Resource: 
+Type: Course
+URL: https://docs.scala-lang.org/tour/tuples.html
+--------
+Query: scala+tuples+course
+Resource: 
+Type: Course
+URL: https://www.tutorialspoint.com/scala/scala_tuples.htm
+--------
+Query: scala+tuples+course
+Resource: 
+Type: Course
+URL: http://openbookproject.net/thinkcs/python/english3e/tuples.html
+--------
+Query: scala+tuples+course
+Resource: 
+Type: Course
+URL: https://data-flair.training/blogs/tuples-in-scala-introduction/
+--------
+Query: scala+tuples+course
+Resource: Tuples | Tour of Scala | Scala Documentation
+Type: Course
+URL: https://docs.scala-lang.org/tour/tuples.html
+--------
+Query: scala+tuples+course
+Resource: Tuples | Scala Book | Scala Documentation
+Type: Course
+URL: https://docs.scala-lang.org/overviews/scala-book/tuples.html
+--------
+Query: scala+tuples+course
+Resource: Scala - Tuples - Tutorialspoint
+Type: Course
+URL: https://www.tutorialspoint.com/scala/scala_tuples.htm
+--------
+Query: scala+tuples+course
+Resource: Scala Tuples, for when you just need a bag of things ...
+Type: Course
+URL: https://alvinalexander.com/scala/how-to-use-tuples-class-underscore-pattern-matching-scala-cookbook
+--------
+Query: scala+tuples+course
+Resource: Tuples in Scala - How to Convert Scala Tuple to String ...
+Type: Course
+URL: https://data-flair.training/blogs/tuples-in-scala-introduction/
+--------
+Query: scala+tuples+course
+Resource: Why you should think twice before using Tuples
+Type: Course
+URL: https://pedrorijo.com/blog/tuples-are-evil/
+--------
+Query: scala+tuples+course
+Resource: Scala | Tuple - GeeksforGeeks
+Type: Course
+URL: https://www.geeksforgeeks.org/scala-tuple/
+--------
+Query: scala+tuples+course
+Resource: Scala Tutorial 22 - Scala Tuples - YouTube
+Type: Course
+URL: https://www.youtube.com/watch?v=ZQQs44OHJLc
+--------
+Query: scala+tuples+course
+Resource: Scala Tuple performance - Are you ready
+Type: Course
+URL: http://ashkrit.blogspot.com/2018/07/scala-tuple-performance.html
+--------
+Query: scala+class+composition+with+mixins+course
+Resource: Class Composition with Mixins | Tour of Scala | Scala ...
+Type: Course
+URL: https://docs.scala-lang.org/tour/mixin-class-composition.html
+--------
+Query: scala+class+composition+with+mixins+course
+Resource: A Tour of Scala: Mixin Class Composition | The Scala Programming ...
+Type: Course
+URL: https://www.scala-lang.org/node/117
+--------
+Query: scala+class+composition+with+mixins+course
+Resource: Mixin Class Composition in Scala - DZone Java
+Type: Course
+URL: https://dzone.com/articles/mixin-class-composition-in-scala
+--------
+Query: scala+class+composition+with+mixins+course
+Resource: How to use Scala traits as simple mixins | alvinalexander.com
+Type: Course
+URL: https://alvinalexander.com/scala/how-to-use-scala-traits-as-mixins-mixing-in-traits
+--------
+Query: scala+class+composition+with+mixins+course
+Resource: Scala: Compose Classes with Mixins - Ruminations of a ...
+Type: Course
+URL: http://debasishg.blogspot.com/2006/04/scala-compose-classes-with-mixins.html
+--------
+Query: scala+class+composition+with+mixins+course
+Resource: What is Scala Trait Mixins - Top Examples of Scala Mixins ...
+Type: Course
+URL: https://data-flair.training/blogs/scala-trait-mixins/
+--------
+Query: scala+class+composition+with+mixins+course
+Resource: Scala Mixins: The Right Way - bad.robot
+Type: Course
+URL: http://baddotrobot.com/blog/2014/09/22/scala-mixins/
+--------
+Query: scala+class+composition+with+mixins+course
+Resource: Mixin Class Compositions in Scala – Alternate Stack
+Type: Course
+URL: http://www.alternatestack.com/development/mixin-class-compositions-in-scala/
+--------
+Query: scala+class+composition+with+mixins+course
+Resource: Mixins in Scala on waitingforcode.com - articles about Scala ...
+Type: Course
+URL: https://www.waitingforcode.com/scala-core/mixins-scala/read
+--------
+Query: scala+class+composition+with+mixins+course
+Resource: Mixins vs composition in scala - Stack Overflow
+Type: Course
+URL: https://stackoverflow.com/questions/3422606/mixins-vs-composition-in-scala
+--------
+Query: scala+higher-order+functions+course
+Resource: Scala - Higher Order Functions | Automated hands-on ...
+Type: Course
+URL: https://cloudxlab.com/assessment/displayslide/377/scala-higher-order-functions
+--------
+Query: scala+higher-order+functions+course
+Resource: 
+Type: Course
+URL: https://www.javatpoint.com/scala-higher-order-functions
+--------
+Query: scala+higher-order+functions+course
+Resource: 
+Type: Course
+URL: https://blog.bitsrc.io/understanding-higher-order-functions-in-javascript-75461803bad
+--------
+Query: scala+higher-order+functions+course
+Resource: 
+Type: Course
+URL: https://softwareengineering.stackexchange.com/questions/185585/what-is-the-advantage-of-currying
+--------
+Query: scala+higher-order+functions+course
+Resource: 
+Type: Course
+URL: http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-functions-scala/scala-tutorial-learn-create-use-functions/
+--------
+Query: scala+higher-order+functions+course
+Resource: Higher-Order Functions - Coursera
+Type: Course
+URL: https://es.coursera.org/lecture/progfun1/lecture-2-1-higher-order-functions-xuM1M
+--------
+Query: scala+higher-order+functions+course
+Resource: Scala Tutorial | Higher Order Functions - Scala Exercises
+Type: Course
+URL: https://www.scala-exercises.org/scala_tutorial/higher_order_functions
+--------
+Query: scala+higher-order+functions+course
+Resource: Scala Higher Order Functions - Learning Journal
+Type: Course
+URL: https://www.learningjournal.guru/courses/scala/scala-programming-foundation/higher-order-functions/
+--------
+Query: scala+higher-order+functions+course
+Resource: Higher-order Functions | Tour of Scala | Scala Documentation
+Type: Course
+URL: https://docs.scala-lang.org/tour/higher-order-functions.html
+--------
+Query: scala+higher-order+functions+course
+Resource: Higher-order Functions - Back 2 Code
+Type: Course
+URL: https://www.back2code.me/2016/12/higher-order-functions/
+--------
+Query: scala+higher-order+functions+course
+Resource: Scala Tutorial - Higher Order Function - Function As Parameter
+Type: Course
+URL: http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-functions-scala/scala-tutorial-higher-order-function-parameter/
+--------
+Query: scala+higher-order+functions+course
+Resource: Higher Order Functions in Scala - GeeksforGeeks
+Type: Course
+URL: https://www.geeksforgeeks.org/higher-order-functions-in-scala/
+--------
+Query: scala+higher-order+functions+course
+Resource: Scala: How to use higher-order functions with Option (instead ...
+Type: Course
+URL: https://alvinalexander.com/scala/how-use-higher-order-functions-option-some-none-match-expressions
+--------
+Query: scala+nested+methods+course
+Resource: Nested Methods | Tour of Scala | Scala Documentation
+Type: Course
+URL: https://docs.scala-lang.org/tour/nested-functions.html
+--------
+Query: scala+nested+methods+course
+Resource: The cost of nested methods - Stack Overflow
+Type: Course
+URL: https://stackoverflow.com/questions/2482326/the-cost-of-nested-methods
+--------
+Query: scala+nested+methods+course
+Resource: Scala | Nested Functions - GeeksforGeeks
+Type: Course
+URL: https://www.geeksforgeeks.org/scala-nested-functions/
+--------
+Query: scala+nested+methods+course
+Resource: Nested functions in Scala | Usage, and Examples
+Type: Course
+URL: https://www.includehelp.com/scala/nested-functions-in-scala-usage-and-examples.aspx
+--------
+Query: scala+nested+methods+course
+Resource: Scala - Nested Functions - Tutorialspoint
+Type: Course
+URL: https://www.tutorialspoint.com/scala/nested_functions.htm
+--------
+Query: scala+nested+methods+course
+Resource: 5.8 Nested Classes | Classes in Scala | InformIT
+Type: Course
+URL: http://www.informit.com/articles/article.aspx?p=2756472&seqNum=8
+--------
+Query: scala+nested+methods+course
+Resource: How to create inner classes in Scala | alvinalexander.com
+Type: Course
+URL: https://alvinalexander.com/scala/how-to-create-inner-classes-in-scala-differences-java
+--------
+Query: scala+nested+methods+course
+Resource: Constructor Function: Scala · Ted Neward's Blog
+Type: Course
+URL: http://blogs.tedneward.com/patterns/ConstructorFunction-Scala/
+--------
+Query: scala+nested+methods+course
+Resource: Java: Nested Methods | Edureka Community
+Type: Course
+URL: https://www.edureka.co/community/55111/java-nested-methods
+--------
+Query: scala+nested+methods+course
+Resource: Scala Functions - Declaration, Definition, Invocation and ...
+Type: Course
+URL: https://www.journaldev.com/7713/scala-functions-declaration-definition-invocation-and-nested-functions
+--------
+Query: scala+multiple+parameter+lists+course
+Resource: Multiple Parameter Lists (Currying) | Tour of Scala | Scala ...
+Type: Course
+URL: https://docs.scala-lang.org/tour/multiple-parameter-lists.html
+--------
+Query: scala+multiple+parameter+lists+course
+Resource: Why does Scala provide both multiple parameters lists and multiple ...
+Type: Course
+URL: https://stackoverflow.com/questions/4684185/why-does-scala-provide-both-multiple-parameters-lists-and-multiple-parameters-pe
+--------
+Query: scala+multiple+parameter+lists+course
+Resource: How to Write and Use Scala Functions That Have Multiple ...
+Type: Course
+URL: https://alvinalexander.com/scala/fp-book/how-to-write-functions-multiple-parameter-groups
+--------
+Query: scala+multiple+parameter+lists+course
+Resource: Multiple parameter lists - Scala Programming Guidelines
+Type: Course
+URL: https://netvl.github.io/scala-guidelines/language-features/multiple-parameter-lists.html
+--------
+Query: scala+multiple+parameter+lists+course
+Resource: Multiple Parameter Lists in Scala · Sujith Jay Nair
+Type: Course
+URL: https://sujithjay.com/scala-currying
+--------
+Query: scala+multiple+parameter+lists+course
+Resource: 5. First-Class Functions - Learning Scala [Book] - O'Reilly
+Type: Course
+URL: https://www.oreilly.com/library/view/learning-scala/9781449368814/ch05.html
+--------
+Query: scala+multiple+parameter+lists+course
+Resource: Scala - Currying Functions - Tutorialspoint
+Type: Course
+URL: https://www.tutorialspoint.com/scala/currying_functions.htm
+--------
+Query: scala+multiple+parameter+lists+course
+Resource: Scala Syntax: An Introductory Scala Tutorial - DataFlair
+Type: Course
+URL: https://data-flair.training/blogs/scala-syntax/
+--------
+Query: scala+multiple+parameter+lists+course
+Resource: Scala Function Tutorial - Types of Functions in Scala - DataFlair
+Type: Course
+URL: https://data-flair.training/blogs/scala-function/
+--------
+Query: scala+multiple+parameter+lists+course
+Resource: Mine of Information - Basic Scala Syntax for Java Programmers
+Type: Course
+URL: http://moi.vonos.net/java/scala/
+--------
+Query: scala+case+classes+course
+Resource: Scala Case Class - How to Create Scala Object - DataFlair
+Type: Course
+URL: https://data-flair.training/blogs/scala-case-class/
+--------
+Query: scala+case+classes+course
+Resource: 
+Type: Course
+URL: https://www.javatpoint.com/scala-case-classes-and-case-object
+--------
+Query: scala+case+classes+course
+Resource: 
+Type: Course
+URL: https://www.scala-exercises.org/scala_tutorial/classes_vs_case_classes
+--------
+Query: scala+case+classes+course
+Resource: 
+Type: Course
+URL: https://www.journaldev.com/9733/scala-caseclass-caseobject-part1
+--------
+Query: scala+case+classes+course
+Resource: 
+Type: Course
+URL: https://www.geeksforgeeks.org/scala-case-class-and-case-object/
+--------
+Query: scala+case+classes+course
+Resource: A Tour of Scala: Case Classes | The Scala Programming ...
+Type: Course
+URL: https://www.scala-lang.org/old/node/107.html
+--------
+Query: scala+case+classes+course
+Resource: Case Classes | Tour of Scala | Scala Documentation
+Type: Course
+URL: https://docs.scala-lang.org/tour/case-classes.html
+--------
+Query: scala+case+classes+course
+Resource: Scala | Case Class and Case Object - GeeksforGeeks
+Type: Course
+URL: https://www.geeksforgeeks.org/scala-case-class-and-case-object/
+--------
+Query: scala+case+classes+course
+Resource: Case Classes in Scala | James Willett
+Type: Course
+URL: https://www.james-willett.com/scala-case-classes/
+--------
+Query: scala+case+classes+course
+Resource: What is Case Class in Scala? | Edureka Community
+Type: Course
+URL: https://www.edureka.co/community/53316/what-is-case-class-in-scala
+--------
+Query: scala+case+classes+course
+Resource: Scala case classes in depth - Alessandro Lacava
+Type: Course
+URL: http://www.alessandrolacava.com/blog/scala-case-classes-in-depth/
+--------
+Query: scala+case+classes+course
+Resource: Scala Case Classes and Case Object - javatpoint
+Type: Course
+URL: https://www.javatpoint.com/scala-case-classes-and-case-object
+--------
+Query: scala+case+classes+course
+Resource: Scala case classes - Learning Jupyter - Packt Subscription
+Type: Course
+URL: https://subscription.packtpub.com/book/big_data_and_business_intelligence/9781785884870/9/ch09lvl1sec72/scala-case-classes
+--------
+Query: scala+case+classes+course
+Resource: Pattern Matching and Case Classes - Scala Tutorial ...
+Type: Course
+URL: https://intellipaat.com/blog/tutorial/scala-tutorial/pattern-matching-and-case-classes/
+--------
+Query: scala+pattern+matching+course
+Resource: Pattern Matching | Tour of Scala | Scala Documentation
+Type: Course
+URL: https://docs.scala-lang.org/tour/pattern-matching.html
+--------
+Query: scala+pattern+matching+course
+Resource: Case Classes and Pattern Matching - Artima
+Type: Course
+URL: https://www.artima.com/pins1ed/case-classes-and-pattern-matching.html
+--------
+Query: scala+pattern+matching+course
+Resource: Pattern Matching and Case Classes - Scala Tutorial ...
+Type: Course
+URL: https://intellipaat.com/blog/tutorial/scala-tutorial/pattern-matching-and-case-classes/
+--------
+Query: scala+pattern+matching+course
+Resource: How to use case classes in Scala match expressions ...
+Type: Course
+URL: https://alvinalexander.com/scala/how-to-use-case-classes-in-scala-match-expressions
+--------
+Query: scala+pattern+matching+course
+Resource: Pattern Matching in Scala | Baeldung on Scala
+Type: Course
+URL: https://www.baeldung.com/scala/pattern-matching
+--------
+Query: scala+pattern+matching+course
+Resource: 14 Types Scala Pattern Matching - Syntax, Example, Case ...
+Type: Course
+URL: https://data-flair.training/blogs/scala-pattern-matching/
+--------
+Query: scala+pattern+matching+course
+Resource: Lecture 4.6 - Pattern Matching - Types and Pattern Matching ...
+Type: Course
+URL: https://es.coursera.org/lecture/progfun1/lecture-4-6-pattern-matching-cdHAM
+--------
+Query: scala+pattern+matching+course
+Resource: An Introduction to Pattern Matching in Scala - ProTech Training
+Type: Course
+URL: https://www.protechtraining.com/blog/post/an-introduction-to-pattern-matching-in-scala-842
+--------
+Query: scala+pattern+matching+course
+Resource: Understanding Pattern Matching with Sub-classes - Stack Overflow
+Type: Course
+URL: https://stackoverflow.com/questions/28056521/understanding-pattern-matching-with-sub-classes
+--------
+Query: scala+pattern+matching+course
+Resource: 
+Type: Course
+URL: https://www.tutorialspoint.com/scala/scala_pattern_matching.htm
+--------
+Query: scala+pattern+matching+course
+Resource: 
+Type: Course
+URL: https://www.laserfiche.com/support/webhelp/quickfields/8.0/en-us/content/Pattern%20Matching.htm
+--------
+Query: scala+pattern+matching+course
+Resource: 
+Type: Course
+URL: https://www.javatpoint.com/scala-case-classes-and-case-object
+--------
+Query: scala+pattern+matching+course
+Resource: 
+Type: Course
+URL: https://data-flair.training/blogs/scala-case-class/
+--------
+Query: scala+singleton+objects+course
+Resource: Scala Singleton and Companion Object - javatpoint
+Type: Course
+URL: https://www.javatpoint.com/scala-singleton-and-companion-object
+--------
+Query: scala+singleton+objects+course
+Resource: 
+Type: Course
+URL: https://www.geeksforgeeks.org/scala-singleton-and-companion-objects/
+--------
+Query: scala+singleton+objects+course
+Resource: 
+Type: Course
+URL: https://stackoverflow.com/questions/36882100/whats-the-difference-between-a-companion-object-and-a-singleton-class-in-scala
+--------
+Query: scala+singleton+objects+course
+Resource: 
+Type: Course
+URL: https://docs.scala-lang.org/overviews/scala-book/companion-objects.html
+--------
+Query: scala+singleton+objects+course
+Resource: 
+Type: Course
+URL: https://en.wikibooks.org/wiki/Scala/Objects
+--------
+Query: scala+singleton+objects+course
+Resource: Singleton Objects | Tour of Scala | Scala Documentation
+Type: Course
+URL: https://docs.scala-lang.org/tour/singleton-objects.html
+--------
+Query: scala+singleton+objects+course
+Resource: Scala Object - Scala Singleton & Scala Companion Object ...
+Type: Course
+URL: https://data-flair.training/blogs/scala-singleton-object/
+--------
+Query: scala+singleton+objects+course
+Resource: Scala Singleton and Companion Objects - GeeksforGeeks
+Type: Course
+URL: https://www.geeksforgeeks.org/scala-singleton-and-companion-objects/
+--------
+Query: scala+singleton+objects+course
+Resource: Scala Singleton and Companion Objects - Jenkov Tutorials
+Type: Course
+URL: http://tutorials.jenkov.com/scala/singleton-and-companion-objects.html
+--------
+Query: scala+singleton+objects+course
+Resource: What is Scala Object? - Learning Journal
+Type: Course
+URL: https://www.learningjournal.guru/courses/scala/scala-programming-foundation/scala-objects/
+--------
+Query: scala+singleton+objects+course
+Resource: Scala Classes & Objects - Singleton Objects, Companion ...
+Type: Course
+URL: https://www.journaldev.com/7497/scala-classes-objects-singleton-objects-companion-classes
+--------
+Query: scala+singleton+objects+course
+Resource: Scala Tutorial - Learn How To Declare And Use Singleton ...
+Type: Course
+URL: http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-classes-scala/scala-tutorial-learn-declare-use-singleton-objects/
+--------
+Query: scala+singleton+objects+course
+Resource: How to implement the Singleton Pattern with a Scala object ...
+Type: Course
+URL: https://alvinalexander.com/scala/how-to-implement-singleton-pattern-in-scala-with-object
+--------
+Query: scala+regular+expression+patterns+course
+Resource: Regular Expressions in Scala - GeeksforGeeks
+Type: Course
+URL: https://www.geeksforgeeks.org/regular-expressions-in-scala/
+--------
+Query: scala+regular+expression+patterns+course
+Resource: Regular Expression Patterns | Tour of Scala | Scala ...
+Type: Course
+URL: https://docs.scala-lang.org/tour/regular-expression-patterns.html
+--------
+Query: scala+regular+expression+patterns+course
+Resource: Scala - Regular Expressions - Tutorialspoint
+Type: Course
+URL: https://www.tutorialspoint.com/scala/scala_regular_expressions.htm
+--------
+Query: scala+regular+expression+patterns+course
+Resource: Scala Regular Expressions - Scala Tutorial | Intellipaat.com
+Type: Course
+URL: https://intellipaat.com/blog/tutorial/scala-tutorial/scala-regular-expressions/
+--------
+Query: scala+regular+expression+patterns+course
+Resource: How to find regex patterns in Scala strings | alvinalexander.com
+Type: Course
+URL: https://alvinalexander.com/scala/how-find-regex-patterns-matches-in-strings-scala
+--------
+Query: scala+regular+expression+patterns+course
+Resource: Scala: How to extract parts of a string that match a regex ...
+Type: Course
+URL: https://alvinalexander.com/scala/how-to-extract-parts-strings-match-regular-expression-regex-scala
+--------
+Query: scala+regular+expression+patterns+course
+Resource: Regular expressions in Scala on waitingforcode.com - articles ...
+Type: Course
+URL: https://www.waitingforcode.com/scala-core/regular-expressions-scala/read
+--------
+Query: scala+regular+expression+patterns+course
+Resource: Scala Regex | Scala Regular Expressions - Replacing ...
+Type: Course
+URL: https://data-flair.training/blogs/scala-regex/
+--------
+Query: scala+regular+expression+patterns+course
+Resource: An Introduction to Pattern Matching in Scala - ProTech Training
+Type: Course
+URL: https://www.protechtraining.com/blog/post/an-introduction-to-pattern-matching-in-scala-842
+--------
+Query: scala+regular+expression+patterns+course
+Resource: Scala Tutorial - regular expressions, matching | Java Code ...
+Type: Course
+URL: https://www.javacodegeeks.com/2011/10/scala-tutorial-regular-expressions.html
+--------
+Query: scala+extractor+objects+course
+Resource: Scala - Extractors - Tutorialspoint
+Type: Course
+URL: https://www.tutorialspoint.com/scala/scala_extractors.htm
+--------
+Query: scala+extractor+objects+course
+Resource: Extractor Objects | Tour of Scala | Scala Documentation
+Type: Course
+URL: https://docs.scala-lang.org/tour/extractor-objects.html
+--------
+Query: scala+extractor+objects+course
+Resource: Objetos Extractores - Scala Documentation
+Type: Course
+URL: https://docs.scala-lang.org/es/tutorials/tour/extractor-objects.html
+--------
+Query: scala+extractor+objects+course
+Resource: Scala Extractors | Extractors vs Case Classes - DataFlair
+Type: Course
+URL: https://data-flair.training/blogs/scala-extractors/
+--------
+Query: scala+extractor+objects+course
+Resource: Scala Extractors - GeeksforGeeks
+Type: Course
+URL: https://www.geeksforgeeks.org/scala-extractors/
+--------
+Query: scala+extractor+objects+course
+Resource: Std Lib | Extractors - Scala Exercises
+Type: Course
+URL: https://www.scala-exercises.org/std_lib/extractors
+--------
+Query: scala+extractor+objects+course
+Resource: Scala extractors on waitingforcode.com - articles about Scala ...
+Type: Course
+URL: https://www.waitingforcode.com/scala-core/scala-extractors/read
+--------
+Query: scala+extractor+objects+course
+Resource: Scala Tutorials Part #18 - Extractors | Madusudanan
+Type: Course
+URL: https://madusudanan.com/blog/scala-tutorials-part-18-extractors/
+--------
+Query: scala+extractor+objects+course
+Resource: Scala Extractors apply, unapply and pattern matching ...
+Type: Course
+URL: https://www.journaldev.com/8270/scala-extractors-apply-unapply-and-pattern-matching
+--------
+Query: scala+extractor+objects+course
+Resource: Scala: Extractors and Pattern Matching - Knoldus Blogs
+Type: Course
+URL: https://blog.knoldus.com/scala-extractors-and-pattern-matching/
+--------
+=======Book======
+Query: scala+basics+book
+Resource: 10 Best Scala Books For Beginner To Become Expert - DataFlair
+Type: Book
+URL: https://data-flair.training/blogs/best-scala-books-list/
+--------
+Query: scala+basics+book
+Resource: 20 Best Scala Books To Go From Beginner To Expert
+Type: Book
+URL: https://whatpixel.com/best-scala-books/
+--------
+Query: scala+basics+book
+Resource: Books | Scala Documentation
+Type: Book
+URL: https://docs.scala-lang.org/books.html
+--------
+Query: scala+basics+book
+Resource: Learning Resources | The Scala Programming Language
+Type: Book
+URL: https://www.scala-lang.org/documentation/learn.html
+--------
+Query: scala+basics+book
+Resource: What is the best Scala book for beginners? - Quora
+Type: Book
+URL: https://www.quora.com/What-is-the-best-Scala-book-for-beginners
+--------
+Query: scala+basics+book
+Resource: 10 Best Scala Books for Beginners - BookAuthority
+Type: Book
+URL: https://bookauthority.org/books/beginner-scala-books
+--------
+Query: scala+basics+book
+Resource: 21 Best New Scala Books To Read In 2020 - BookAuthority
+Type: Book
+URL: https://bookauthority.org/books/new-scala-books
+--------
+Query: scala+basics+book
+Resource: Top 5 Books to Learn Scala and Functional ... - Javarevisited
+Type: Book
+URL: https://javarevisited.blogspot.com/2017/04/5-books-to-learn-scala-and-functional-programming.html
+--------
+Query: scala+basics+book
+Resource: Best Scala Books: For Beginners & Experienced - TechVidvan
+Type: Book
+URL: https://techvidvan.com/tutorials/scala-books/
+--------
+Query: scala+basics+book
+Resource: SCALA FOR BEGINNERS: Learn Coding Fast ... - Amazon.com
+Type: Book
+URL: https://www.amazon.com/SCALA-BEGINNERS-QuickStart-Hands-Beginners-ebook/dp/B07Y35D3QD
+--------
+Query: scala+basics+book
+Resource: 
+Type: Book
+URL: https://hackernoon.com/10-reasons-to-learn-scala-and-functional-programming-2fce385e6ec7
+--------
+Query: scala+basics+book
+Resource: 
+Type: Book
+URL: https://www.newgenapps.com/blog/what-is-scala-meaning-uses-and-advantages
+--------
+Query: scala+basics+book
+Resource: 
+Type: Book
+URL: https://www.geeksforgeeks.org/best-books-to-learn-java-for-beginners-and-experts/
+--------
+Query: scala+unified+types+book
+Resource: Unified Types | Tour of Scala | Scala Documentation
+Type: Book
+URL: https://docs.scala-lang.org/tour/unified-types.html
+--------
+Query: scala+unified+types+book
+Resource: A Tour of Scala: Unified Types | The Scala Programming ...
+Type: Book
+URL: https://www.scala-lang.org/old/node/128.html
+--------
+Query: scala+unified+types+book
+Resource: 
+Type: Book
+URL: https://docs.scala-lang.org/tour/unified-types.html
+--------
+Query: scala+unified+types+book
+Resource: 
+Type: Book
+URL: http://allaboutscala.com/tutorials/chapter-2-learning-basics-scala-programming/scala-tutorial-learn-scala-class-type-hierarchy/
+--------
+Query: scala+unified+types+book
+Resource: 
+Type: Book
+URL: https://www.scala-lang.org/node/125
+--------
+Query: scala+unified+types+book
+Resource: 
+Type: Book
+URL: https://www.quora.com/Does-Scala-have-primitive-types-similar-to-Java
+--------
+Query: scala+unified+types+book
+Resource: Scala's Types of Types
+Type: Book
+URL: https://ktoso.github.io/scala-types-of-types/
+--------
+Query: scala+unified+types+book
+Resource: Scala Tutorial - Learn The Scala Class And Type Hierarchy
+Type: Book
+URL: http://allaboutscala.com/tutorials/chapter-2-learning-basics-scala-programming/scala-tutorial-learn-scala-class-type-hierarchy/
+--------
+Query: scala+unified+types+book
+Resource: Functions and classes - Scala Design Patterns - Second ...
+Type: Book
+URL: https://www.oreilly.com/library/view/scala-design-patterns/9781788471305/1e5fd095-a1ab-4695-bf8d-7e1882057177.xhtml
+--------
+Query: scala+unified+types+book
+Resource: Scala Data Types with Examples | Escape Value ... - DataFlair
+Type: Book
+URL: https://data-flair.training/blogs/scala-data-types/
+--------
+Query: scala+unified+types+book
+Resource: Scala Type System - Learning Journal
+Type: Book
+URL: https://www.learningjournal.guru/courses/scala/scala-programming-foundation/type-system/
+--------
+Query: scala+unified+types+book
+Resource: Beginning Scala study note(8) Scala Type System - 博客园
+Type: Book
+URL: https://www.cnblogs.com/mengrennwpu/p/6201163.html
+--------
+Query: scala+unified+types+book
+Resource: Is mixing of data type in a Scala List allowed? - Google Groups
+Type: Book
+URL: https://groups.google.com/d/topic/scala-base/Nc1S8Qn8b0E
+--------
+Query: scala+classes+book
+Resource: Scala Classes | Scala Book | Scala Documentation
+Type: Book
+URL: https://docs.scala-lang.org/overviews/scala-book/classes.html
+--------
+Query: scala+classes+book
+Resource: Case Classes | Scala Book | Scala Documentation
+Type: Book
+URL: https://docs.scala-lang.org/overviews/scala-book/case-classes.html
+--------
+Query: scala+classes+book
+Resource: 8. Classes - Learning Scala [Book] - O'Reilly
+Type: Book
+URL: https://www.oreilly.com/library/view/learning-scala/9781449368814/ch08.html
+--------
+Query: scala+classes+book
+Resource: Scala/Classes - Wikibooks, open books for an open world
+Type: Book
+URL: https://en.wikibooks.org/wiki/Scala/Classes
+--------
+Query: scala+classes+book
+Resource: Scala/Objects - Wikibooks, open books for an open world
+Type: Book
+URL: https://en.wikibooks.org/wiki/Scala/Objects
+--------
+Query: scala+classes+book
+Resource: Scala Type Classes 101: Introduction | alvinalexander.com
+Type: Book
+URL: https://alvinalexander.com/scala/fp-book/type-classes-101-introduction
+--------
+Query: scala+classes+book
+Resource: Beginning Scala - Página 159 - Resultado de Google Books
+Type: Book
+URL: https://books.google.com.mx/books?id=zOQYCAAAQBAJ&pg=PA159&lpg=PA159&dq=scala+classes++book&source=bl&ots=-sdBde5jBq&sig=ACfU3U3P_Qx92EtLUYBOj3HmjAcILjLJ8g&hl=es-419&sa=X&ved=2ahUKEwiVj_TIw9HnAhUFC6wKHWS1Bw0Q6AEwBnoECAwQAQ
+--------
+Query: scala+classes+book
+Resource: A Quick Review of Scala's Case Classes | alvinalexander.com
+Type: Book
+URL: https://alvinalexander.com/scala/fp-book/quick-review-of-scala-case-classes
+--------
+Query: scala+classes+book
+Resource: Scala Tutorial - Type Class - AllAboutScala
+Type: Book
+URL: http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-classes-scala/scala-type-class/
+--------
+Query: scala+classes+book
+Resource: Classes | Python To Scala - wrobstory
+Type: Book
+URL: https://wrobstory.gitbooks.io/python-to-scala/content/classes/README.html
+--------
+Query: scala+classes+book
+Resource: 
+Type: Book
+URL: https://nrinaudo.github.io/scala-best-practices/definitions/type_class.html
+--------
+Query: scala+classes+book
+Resource: 
+Type: Book
+URL: https://data-flair.training/blogs/scala-case-class/
+--------
+Query: scala+classes+book
+Resource: 
+Type: Book
+URL: https://www.scala-exercises.org/scala_tutorial/classes_vs_case_classes
+--------
+Query: scala+classes+book
+Resource: 
+Type: Book
+URL: https://www.journaldev.com/9733/scala-caseclass-caseobject-part1
+--------
+Query: scala+traits+book
+Resource: 9. Objects, Case Classes, and Traits - Learning Scala [Book]
+Type: Book
+URL: https://www.oreilly.com/library/view/learning-scala/9781449368814/ch09.html
+--------
+Query: scala+traits+book
+Resource: Using Scala Traits Like Abstract Classes | Scala Book | Scala ...
+Type: Book
+URL: https://docs.scala-lang.org/overviews/scala-book/traits-abstract-mixins.html
+--------
+Query: scala+traits+book
+Resource: Using Scala Traits as Interfaces | Scala Book | Scala ...
+Type: Book
+URL: https://docs.scala-lang.org/overviews/scala-book/traits-interfaces.html
+--------
+Query: scala+traits+book
+Resource: 
+Type: Book
+URL: https://www.javatpoint.com/scala-trait
+--------
+Query: scala+traits+book
+Resource: 
+Type: Book
+URL: https://www.tutorialspoint.com/scala/scala_traits.htm
+--------
+Query: scala+traits+book
+Resource: 
+Type: Book
+URL: https://en.wikibooks.org/wiki/Scala/Traits
+--------
+Query: scala+traits+book
+Resource: 
+Type: Book
+URL: https://stackoverflow.com/questions/1755345/difference-between-object-and-class-in-scala
+--------
+Query: scala+traits+book
+Resource: 4. Traits - Programming Scala [Book] - O'Reilly
+Type: Book
+URL: https://www.oreilly.com/library/view/programming-scala/9780596801908/ch04.html
+--------
+Query: scala+traits+book
+Resource: Scala/Traits - Wikibooks, open books for an open world
+Type: Book
+URL: https://en.wikibooks.org/wiki/Scala/Traits
+--------
+Query: scala+traits+book
+Resource: Scala trait examples and syntax | alvinalexander.com
+Type: Book
+URL: https://alvinalexander.com/scala/scala-trait-examples
+--------
+Query: scala+traits+book
+Resource: Traits, Stackable Modification﻿ and Linearization in Scala ...
+Type: Book
+URL: https://blog.knoldus.com/basics-of-trait-stackable-modifications-linearlization-in-scala/
+--------
+Query: scala+traits+book
+Resource: Lesson 12 Traits as interfaces - Get Programming with Scala ...
+Type: Book
+URL: https://livebook.manning.com/book/get-programming-with-scala/chapter-12/v-4/
+--------
+Query: scala+traits+book
+Resource: Beginning Scala - Página 160 - Resultado de Google Books
+Type: Book
+URL: https://books.google.com.mx/books?id=zOQYCAAAQBAJ&pg=PA160&lpg=PA160&dq=scala+traits++book&source=bl&ots=-sdBde5jDm&sig=ACfU3U0ljy2am8T96vnfb25f8wbqTRtpuw&hl=es-419&sa=X&ved=2ahUKEwigosvQw9HnAhXJmq0KHQUrADMQ6AEwEXoECAkQAQ
+--------
+Query: scala+traits+book
+Resource: Scala Tutorials Part #8 - Traits | Madusudanan
+Type: Book
+URL: https://madusudanan.com/blog/scala-tutorials-part-8-traits/
+--------
+Query: scala+tuples+book
+Resource: Tuples | Scala Book | Scala Documentation
+Type: Book
+URL: https://docs.scala-lang.org/overviews/scala-book/tuples.html
+--------
+Query: scala+tuples+book
+Resource: 
+Type: Book
+URL: https://docs.scala-lang.org/tour/tuples.html
+--------
+Query: scala+tuples+book
+Resource: 
+Type: Book
+URL: https://www.tutorialspoint.com/scala/scala_tuples.htm
+--------
+Query: scala+tuples+book
+Resource: 
+Type: Book
+URL: https://data-flair.training/blogs/tuples-in-scala-introduction/
+--------
+Query: scala+tuples+book
+Resource: 
+Type: Book
+URL: https://www.javaworld.com/article/2972863/open-source-java-projects-apache-spark.html?page=2
+--------
+Query: scala+tuples+book
+Resource: Tuples | Tour of Scala | Scala Documentation
+Type: Book
+URL: https://docs.scala-lang.org/tour/tuples.html
+--------
+Query: scala+tuples+book
+Resource: Scala/Tuples - Wikibooks, open books for an open world
+Type: Book
+URL: https://en.wikibooks.org/wiki/Scala/Tuples
+--------
+Query: scala+tuples+book
+Resource: Tuples - Scala High Performance Programming [Book] - O'Reilly
+Type: Book
+URL: https://www.oreilly.com/library/view/scala-high-performance/9781786466044/ch03s03.html
+--------
+Query: scala+tuples+book
+Resource: Scala Tuples, for when you just need a bag of things ...
+Type: Book
+URL: https://alvinalexander.com/scala/how-to-use-tuples-class-underscore-pattern-matching-scala-cookbook
+--------
+Query: scala+tuples+book
+Resource: Lesson 25 Tuple and Unapply - Get Programming with Scala ...
+Type: Book
+URL: https://livebook.manning.com/book/get-programming-with-scala/chapter-25/v-4/
+--------
+Query: scala+tuples+book
+Resource: Tuples | SpringerLink
+Type: Book
+URL: https://link.springer.com/chapter/10.1007/978-3-319-06776-6_21
+--------
+Query: scala+tuples+book
+Resource: Introduction to Programming and Problem-Solving Using Scala, ...
+Type: Book
+URL: https://books.google.com.mx/books?id=0amKDQAAQBAJ&pg=PT64&lpg=PT64&dq=scala+tuples++book&source=bl&ots=6k0tYqAwbv&sig=ACfU3U0DhVqJ0vrB6DYkEr3d5hSSVfL_3w&hl=es-419&sa=X&ved=2ahUKEwiNy5LYw9HnAhUDXa0KHdzTCtQQ6AEwD3oECAgQAQ
+--------
+Query: scala+tuples+book
+Resource: Introduction to the Art of Programming Using Scala
+Type: Book
+URL: https://books.google.com.mx/books?id=fvkYCwAAQBAJ&pg=PA50&lpg=PA50&dq=scala+tuples++book&source=bl&ots=7n45AR_A2E&sig=ACfU3U1gwVb7rQttTB737YpjaNmqugx1Pg&hl=es-419&sa=X&ved=2ahUKEwiNy5LYw9HnAhUDXa0KHdzTCtQQ6AEwEHoECAoQAQ
+--------
+Query: scala+tuples+book
+Resource: Introduction to Programming and Problem-Solving Using Scala
+Type: Book
+URL: https://books.google.com.mx/books?id=K3ANDgAAQBAJ&pg=PA26&lpg=PA26&dq=scala+tuples++book&source=bl&ots=Z5q6aRFHGa&sig=ACfU3U2BDTI22cVjXoh8MnHGpku7L5Moyg&hl=es-419&sa=X&ved=2ahUKEwiNy5LYw9HnAhUDXa0KHdzTCtQQ6AEwEXoECAsQAQ
+--------
+Query: scala+class+composition+with+mixins+book
+Resource: Class Composition with Mixins | Tour of Scala | Scala ...
+Type: Book
+URL: https://docs.scala-lang.org/tour/mixin-class-composition.html
+--------
+Query: scala+class+composition+with+mixins+book
+Resource: A Tour of Scala: Mixin Class Composition | The Scala Programming ...
+Type: Book
+URL: https://www.scala-lang.org/node/117
+--------
+Query: scala+class+composition+with+mixins+book
+Resource: Mixin Class Composition in Scala - DZone Java
+Type: Book
+URL: https://dzone.com/articles/mixin-class-composition-in-scala
+--------
+Query: scala+class+composition+with+mixins+book
+Resource: How to use Scala traits as simple mixins | alvinalexander.com
+Type: Book
+URL: https://alvinalexander.com/scala/how-to-use-scala-traits-as-mixins-mixing-in-traits
+--------
+Query: scala+class+composition+with+mixins+book
+Resource: Scala Mixins: The Right Way - bad.robot
+Type: Book
+URL: http://baddotrobot.com/blog/2014/09/22/scala-mixins/
+--------
+Query: scala+class+composition+with+mixins+book
+Resource: What is Scala Trait Mixins - Top Examples of Scala Mixins ...
+Type: Book
+URL: https://data-flair.training/blogs/scala-trait-mixins/
+--------
+Query: scala+class+composition+with+mixins+book
+Resource: AOP-style Mixin Composition Stacks in Scala – Jonas Bonér
+Type: Book
+URL: http://jonasboner.com/aop-style-mixin-composition-stacks-in-scala/
+--------
+Query: scala+class+composition+with+mixins+book
+Resource: Mixin - Wikipedia
+Type: Book
+URL: https://en.wikipedia.org/wiki/Mixin
+--------
+Query: scala+class+composition+with+mixins+book
+Resource: What is the difference between mixins and inheritance? - Stack ...
+Type: Book
+URL: https://stackoverflow.com/questions/36732357/what-is-the-difference-between-mixins-and-inheritance
+--------
+Query: scala+class+composition+with+mixins+book
+Resource: Apache Spark in 24 Hours, Sams Teach Yourself
+Type: Book
+URL: https://books.google.com.mx/books?id=sNPvDAAAQBAJ&pg=PT230&lpg=PT230&dq=scala+class+composition+with+mixins++book&source=bl&ots=Ct5KaUYwN8&sig=ACfU3U2g0QXwl_Gjwp4upGPotzC3KgzSPg&hl=es-419&sa=X&ved=2ahUKEwiJ9Nbfw9HnAhVSbKwKHZSaBCwQ6AEwCXoECAoQAQ
+--------
+Query: scala+class+composition+with+mixins+book
+Resource: 
+Type: Book
+URL: https://www.javatpoint.com/scala-trait-mixins
+--------
+Query: scala+class+composition+with+mixins+book
+Resource: 
+Type: Book
+URL: https://en.wikipedia.org/wiki/Mixin
+--------
+Query: scala+class+composition+with+mixins+book
+Resource: 
+Type: Book
+URL: https://www.geeksforgeeks.org/scala-traits/
+--------
+Query: scala+class+composition+with+mixins+book
+Resource: 
+Type: Book
+URL: https://javascript.info/mixins
+--------
+Query: scala+higher-order+functions+book
+Resource: Scala/Higher-order functions 1 - Wikibooks, open books for an ...
+Type: Book
+URL: https://en.wikibooks.org/wiki/Scala/Higher-order_functions_1
+--------
+Query: scala+higher-order+functions+book
+Resource: 
+Type: Book
+URL: https://www.javatpoint.com/scala-higher-order-functions
+--------
+Query: scala+higher-order+functions+book
+Resource: 
+Type: Book
+URL: https://blog.bitsrc.io/understanding-higher-order-functions-in-javascript-75461803bad
+--------
+Query: scala+higher-order+functions+book
+Resource: 
+Type: Book
+URL: http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-functions-scala/scala-tutorial-learn-create-use-functions/
+--------
+Query: scala+higher-order+functions+book
+Resource: 
+Type: Book
+URL: https://www.topjavatutorial.com/scala/first-class-function-scala/
+--------
+Query: scala+higher-order+functions+book
+Resource: Higher-order functions - Learning Scala Programming
+Type: Book
+URL: https://subscription.packtpub.com/book/application_development/9781788392822/8/ch08lvl1sec66/higher-order-functions
+--------
+Query: scala+higher-order+functions+book
+Resource: Higher-order Functions | Tour of Scala | Scala Documentation
+Type: Book
+URL: https://docs.scala-lang.org/tour/higher-order-functions.html
+--------
+Query: scala+higher-order+functions+book
+Resource: 5. First-Class Functions - Learning Scala [Book] - O'Reilly
+Type: Book
+URL: https://www.oreilly.com/library/view/learning-scala/9781449368814/ch05.html
+--------
+Query: scala+higher-order+functions+book
+Resource: Higher-Order Functions in Scala - DZone Java
+Type: Book
+URL: https://dzone.com/articles/higher-order-functions-in-scala-1
+--------
+Query: scala+higher-order+functions+book
+Resource: Scala Tutorial - Higher Order Function - Function As Parameter
+Type: Book
+URL: http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-functions-scala/scala-tutorial-higher-order-function-parameter/
+--------
+Query: scala+higher-order+functions+book
+Resource: How to Write Scala Functions That Take Functions as Input ...
+Type: Book
+URL: https://alvinalexander.com/scala/fp-book/how-write-functions-take-function-input-parameters
+--------
+Query: scala+higher-order+functions+book
+Resource: higher order function | alvinalexander.com
+Type: Book
+URL: https://alvinalexander.com/category/tags/higher-order-function
+--------
+Query: scala+higher-order+functions+book
+Resource: Higher-Order Functions - Coursera
+Type: Book
+URL: https://www.coursera.org/lecture/progfun1/lecture-2-1-higher-order-functions-xuM1M
+--------
+Query: scala+higher-order+functions+book
+Resource: Scala by Example - Renespartners
+Type: Book
+URL: https://www.renespartners.be/uploads/Example-374.pdf
+--------
+Query: scala+nested+methods+book
+Resource: Nested Methods | Tour of Scala | Scala Documentation
+Type: Book
+URL: https://docs.scala-lang.org/tour/nested-functions.html
+--------
+Query: scala+nested+methods+book
+Resource: Scala | Nested Functions - GeeksforGeeks
+Type: Book
+URL: https://www.geeksforgeeks.org/scala-nested-functions/
+--------
+Query: scala+nested+methods+book
+Resource: The cost of nested methods - Stack Overflow
+Type: Book
+URL: https://stackoverflow.com/questions/2482326/the-cost-of-nested-methods
+--------
+Query: scala+nested+methods+book
+Resource: 4. Functions - Learning Scala [Book] - O'Reilly
+Type: Book
+URL: https://www.oreilly.com/library/view/learning-scala/9781449368814/ch04.html
+--------
+Query: scala+nested+methods+book
+Resource: Scala Tutorial - Learn How To Create Nested Function
+Type: Book
+URL: http://allaboutscala.com/tutorials/chapter-3-beginner-tutorial-using-functions-scala/scala-tutorial-learn-create-nested-function/
+--------
+Query: scala+nested+methods+book
+Resource: Nested functions in Scala | Usage, and Examples
+Type: Book
+URL: https://www.includehelp.com/scala/nested-functions-in-scala-usage-and-examples.aspx
+--------
+Query: scala+nested+methods+book
+Resource: 5.8 Nested Classes | Classes in Scala | InformIT
+Type: Book
+URL: http://www.informit.com/articles/article.aspx?p=2756472&seqNum=8
+--------
+Query: scala+nested+methods+book
+Resource: Chapter 2. Type Less, Do More - Huihoo
+Type: Book
+URL: https://docs.huihoo.com/scala/programming-scala/ch02.html
+--------
+Query: scala+nested+methods+book
+Resource: Functions and Closures - Artima
+Type: Book
+URL: https://www.artima.com/pins1ed/functions-and-closures.html
+--------
+Query: scala+nested+methods+book
+Resource: Learning Concurrent Programming in Scala
+Type: Book
+URL: https://books.google.com.mx/books?id=D1QoDwAAQBAJ&pg=PA201&lpg=PA201&dq=scala+nested+methods++book&source=bl&ots=Q_n0ULdvzw&sig=ACfU3U1CTQSLa_SYY4HdcWsjUdxj2p-Qmw&hl=es-419&sa=X&ved=2ahUKEwiZwd3uw9HnAhUHUa0KHb3sDvsQ6AEwCXoECAwQAQ
+--------
+Query: scala+multiple+parameter+lists+book
+Resource: Multiple Parameter Lists (Currying) | Tour of Scala | Scala ...
+Type: Book
+URL: https://docs.scala-lang.org/tour/multiple-parameter-lists.html
+--------
+Query: scala+multiple+parameter+lists+book
+Resource: How to Write and Use Scala Functions That Have Multiple ...
+Type: Book
+URL: https://alvinalexander.com/scala/fp-book/how-to-write-functions-multiple-parameter-groups
+--------
+Query: scala+multiple+parameter+lists+book
+Resource: Why does Scala provide both multiple parameters lists and multiple ...
+Type: Book
+URL: https://stackoverflow.com/questions/4684185/why-does-scala-provide-both-multiple-parameters-lists-and-multiple-parameters-pe
+--------
+Query: scala+multiple+parameter+lists+book
+Resource: Multiple Parameter Lists in Scala · Sujith Jay Nair
+Type: Book
+URL: https://sujithjay.com/scala-currying
+--------
+Query: scala+multiple+parameter+lists+book
+Resource: 5. First-Class Functions - Learning Scala [Book] - O'Reilly
+Type: Book
+URL: https://www.oreilly.com/library/view/learning-scala/9781449368814/ch05.html
+--------
+Query: scala+multiple+parameter+lists+book
+Resource: Practical Apache Spark: Using the Scala API
+Type: Book
+URL: https://books.google.com.mx/books?id=wst-DwAAQBAJ&pg=PA31&lpg=PA31&dq=scala+multiple+parameter+lists++book&source=bl&ots=SpYkwD345_&sig=ACfU3U02Zw_t1UlE4L6WxSRvBVao1eTB8A&hl=es-419&sa=X&ved=2ahUKEwiK2an0w9HnAhUCIqwKHZxUDGEQ6AEwBXoECAsQAQ
+--------
+Query: scala+multiple+parameter+lists+book
+Resource: Programming in Scala Gist 9 - vTechNotes - Medium
+Type: Book
+URL: https://medium.com/vtechnotes/programming-in-scala-gist-9-7c213cf0dd8a
+--------
+Query: scala+multiple+parameter+lists+book
+Resource: Lecture 2.2 - Currying - Higher Order Functions | Coursera
+Type: Book
+URL: https://pt.coursera.org/lecture/progfun1/lecture-2-2-currying-fOuQ9
+--------
+Query: scala+multiple+parameter+lists+book
+Resource: Why does Scala provide both multiple parameters lists and ...
+Type: Book
+URL: https://html.developreference.com/article/26475392/Why+does+Scala+provide+both+multiple+parameters+lists+and+multiple+parameters+per+list%3F+%5Bduplicate%5D
+--------
+Query: scala+multiple+parameter+lists+book
+Resource: Scala Syntax: An Introductory Scala Tutorial - DataFlair
+Type: Book
+URL: https://data-flair.training/blogs/scala-syntax/
+--------
+Query: scala+case+classes+book
+Resource: Scala Case Class - How to Create Scala Object - DataFlair
+Type: Book
+URL: https://data-flair.training/blogs/scala-case-class/
+--------
+Query: scala+case+classes+book
+Resource: Case Classes | Tour of Scala | Scala Documentation
+Type: Book
+URL: https://docs.scala-lang.org/tour/case-classes.html
+--------
+Query: scala+case+classes+book
+Resource: Case Classes | Scala Book | Scala Documentation
+Type: Book
+URL: https://docs.scala-lang.org/overviews/scala-book/case-classes.html
+--------
+Query: scala+case+classes+book
+Resource: A Quick Review of Scala's Case Classes | alvinalexander.com
+Type: Book
+URL: https://alvinalexander.com/scala/fp-book/quick-review-of-scala-case-classes
+--------
+Query: scala+case+classes+book
+Resource: Scala | Case Class and Case Object - GeeksforGeeks
+Type: Book
+URL: https://www.geeksforgeeks.org/scala-case-class-and-case-object/
+--------
+Query: scala+case+classes+book
+Resource: 
+Type: Book
+URL: https://www.javatpoint.com/scala-case-classes-and-case-object
+--------
+Query: scala+case+classes+book
+Resource: 
+Type: Book
+URL: https://www.journaldev.com/9733/scala-caseclass-caseobject-part1
+--------
+Query: scala+case+classes+book
+Resource: 
+Type: Book
+URL: https://www.geeksforgeeks.org/scala-case-class-and-case-object/
+--------
+Query: scala+case+classes+book
+Resource: 
+Type: Book
+URL: https://www.scala-exercises.org/scala_tutorial/classes_vs_case_classes
+--------
+Query: scala+case+classes+book
+Resource: 4.14. Generating Boilerplate Code with Case Classes - Scala ...
+Type: Book
+URL: https://www.oreilly.com/library/view/scala-cookbook/9781449340292/ch04s15.html
+--------
+Query: scala+case+classes+book
+Resource: Scala case classes - Learning Jupyter - Packt Subscription
+Type: Book
+URL: https://subscription.packtpub.com/book/big_data_and_business_intelligence/9781785884870/9/ch09lvl1sec72/scala-case-classes
+--------
+Query: scala+case+classes+book
+Resource: Scala case classes and the collection API - Hands-On Data ...
+Type: Book
+URL: https://subscription.packtpub.com/book/big_data_and_business_intelligence/9781789346114/1/ch01lvl1sec12/scala-case-classes-and-the-collection-api
+--------
+Query: scala+case+classes+book
+Resource: Case Classes and Pattern Matching - Artima
+Type: Book
+URL: https://www.artima.com/pins1ed/case-classes-and-pattern-matching.html
+--------
+Query: scala+pattern+matching+book
+Resource: 4. Pattern Matching - Programming Scala, 2nd Edition [Book]
+Type: Book
+URL: https://www.oreilly.com/library/view/programming-scala-2nd/9781491950135/ch04.html
+--------
+Query: scala+pattern+matching+book
+Resource: 
+Type: Book
+URL: https://www.tutorialspoint.com/scala/scala_pattern_matching.htm
+--------
+Query: scala+pattern+matching+book
+Resource: 
+Type: Book
+URL: https://www.laserfiche.com/support/webhelp/quickfields/8.0/en-us/content/Pattern%20Matching.htm
+--------
+Query: scala+pattern+matching+book
+Resource: 
+Type: Book
+URL: https://www.techopedia.com/definition/8801/pattern-matching
+--------
+Query: scala+pattern+matching+book
+Resource: 
+Type: Book
+URL: https://data-flair.training/blogs/scala-case-class/
+--------
+Query: scala+pattern+matching+book
+Resource: 3.11. Using Pattern Matching in Match Expressions - Scala ...
+Type: Book
+URL: https://www.oreilly.com/library/view/scala-cookbook/9781449340292/ch03s12.html
+--------
+Query: scala+pattern+matching+book
+Resource: Pattern Matching | Tour of Scala | Scala Documentation
+Type: Book
+URL: https://docs.scala-lang.org/tour/pattern-matching.html
+--------
+Query: scala+pattern+matching+book
+Resource: How to use pattern matching in Scala match/case expressions ...
+Type: Book
+URL: https://alvinalexander.com/scala/how-to-use-pattern-matching-scala-match-case-expressions
+--------
+Query: scala+pattern+matching+book
+Resource: programming-scala-book-code-examples/src/main/scala ...
+Type: Book
+URL: https://github.com/deanwampler/programming-scala-book-code-examples/tree/master/src/main/scala/progscala2/patternmatching
+--------
+Query: scala+pattern+matching+book
+Resource: Case Classes and Pattern Matching - Artima
+Type: Book
+URL: https://www.artima.com/pins1ed/case-classes-and-pattern-matching.html
+--------
+Query: scala+pattern+matching+book
+Resource: How to combine Scala pattern matching with regex – Let's ...
+Type: Book
+URL: https://letstalkdata.com/2016/01/how-to-combine-scala-pattern-matching-with-regex/
+--------
+Query: scala+pattern+matching+book
+Resource: An Introduction to Pattern Matching in Scala - ProTech Training
+Type: Book
+URL: https://www.protechtraining.com/blog/post/an-introduction-to-pattern-matching-in-scala-842
+--------
+Query: scala+pattern+matching+book
+Resource: Scala Tutorial - Learn How To Use Pattern Matching
+Type: Book
+URL: http://allaboutscala.com/tutorials/chapter-2-learning-basics-scala-programming/scala-tutorial-learn-how-to-use-pattern-matching/
+--------
+Query: scala+pattern+matching+book
+Resource: Scala for Java Developers - Resultado de Google Books
+Type: Book
+URL: https://books.google.com.mx/books?id=7n5vAwAAQBAJ&pg=PT321&lpg=PT321&dq=scala+pattern+matching++book&source=bl&ots=hIjlScOK39&sig=ACfU3U1a8ZoYH1-UDJrSHdmUHDDBMWt_5g&hl=es-419&sa=X&ved=2ahUKEwic0veAxNHnAhUI7awKHTkkD_cQ6AEwEXoECAoQAQ
+--------
+Query: scala+singleton+objects+book
+Resource: 6.5. Creating Singletons with object - Scala Cookbook [Book]
+Type: Book
+URL: https://www.oreilly.com/library/view/scala-cookbook/9781449340292/ch06s06.html
+--------
+Query: scala+singleton+objects+book
+Resource: 
+Type: Book
+URL: https://www.javatpoint.com/scala-singleton-and-companion-object
+--------
+Query: scala+singleton+objects+book
+Resource: 
+Type: Book
+URL: https://www.geeksforgeeks.org/scala-singleton-and-companion-objects/
+--------
+Query: scala+singleton+objects+book
+Resource: 
+Type: Book
+URL: https://www.techopedia.com/definition/15830/singleton
+--------
+Query: scala+singleton+objects+book
+Resource: 
+Type: Book
+URL: https://stackoverflow.com/questions/36882100/whats-the-difference-between-a-companion-object-and-a-singleton-class-in-scala
+--------
+Query: scala+singleton+objects+book
+Resource: Singleton Objects | Scala Documentation
+Type: Book
+URL: https://docs.scala-lang.org/es/tour/singleton-objects.html
+--------
+Query: scala+singleton+objects+book
+Resource: Singleton Objects | Tour of Scala | Scala Documentation
+Type: Book
+URL: https://docs.scala-lang.org/tour/singleton-objects.html
+--------
+Query: scala+singleton+objects+book
+Resource: Explanation of singleton objects in Scala - Stack Overflow
+Type: Book
+URL: https://stackoverflow.com/questions/6541393/explanation-of-singleton-objects-in-scala/6543076
+--------
+Query: scala+singleton+objects+book
+Resource: Scala Singleton and Companion Objects - GeeksforGeeks
+Type: Book
+URL: https://www.geeksforgeeks.org/scala-singleton-and-companion-objects/
+--------
+Query: scala+singleton+objects+book
+Resource: Scala Object - Scala Singleton & Scala Companion Object ...
+Type: Book
+URL: https://data-flair.training/blogs/scala-singleton-object/
+--------
+Query: scala+singleton+objects+book
+Resource: Lesson 11 Singleton Objects - Get Programming with Scala ...
+Type: Book
+URL: https://livebook.manning.com/book/get-programming-with-scala/chapter-11/v-4/
+--------
+Query: scala+singleton+objects+book
+Resource: Lesson 11 Singleton Objects · Get Programming with Scala ...
+Type: Book
+URL: https://livebook.manning.com/book/get-programming-with-scala/chapter-11/section-11-5?origin=product-toc
+--------
+Query: scala+singleton+objects+book
+Resource: Apache Spark in 24 Hours, Sams Teach Yourself
+Type: Book
+URL: https://books.google.com.mx/books?id=sNPvDAAAQBAJ&pg=PT231&lpg=PT231&dq=scala+singleton+objects++book&source=bl&ots=Ct5KaUYxLe&sig=ACfU3U3243yI9tNnVvwgJFMFGRyO96dLpA&hl=es-419&sa=X&ved=2ahUKEwikzseIxNHnAhVKaq0KHThZDwgQ6AEwEHoECAsQAQ
+--------
+Query: scala+singleton+objects+book
+Resource: Classes and Objects - Artima
+Type: Book
+URL: https://www.artima.com/pins1ed/classes-and-objects.html
+--------
+Query: scala+regular+expression+patterns+book
+Resource: Regular Expression Patterns | Tour of Scala | Scala ...
+Type: Book
+URL: https://docs.scala-lang.org/tour/regular-expression-patterns.html
+--------
+Query: scala+regular+expression+patterns+book
+Resource: 1.6. Finding Patterns in Strings - Scala Cookbook [Book]
+Type: Book
+URL: https://www.oreilly.com/library/view/scala-cookbook/9781449340292/ch01s07.html
+--------
+Query: scala+regular+expression+patterns+book
+Resource: 1.8. Extracting Parts of a String That Match Patterns - Scala ...
+Type: Book
+URL: https://www.oreilly.com/library/view/scala-cookbook/9781449340292/ch01s09.html
+--------
+Query: scala+regular+expression+patterns+book
+Resource: How to combine Scala pattern matching with regex – Let's ...
+Type: Book
+URL: https://letstalkdata.com/2016/01/how-to-combine-scala-pattern-matching-with-regex/
+--------
+Query: scala+regular+expression+patterns+book
+Resource: Scala: How to match a regex pattern against an entire String ...
+Type: Book
+URL: https://alvinalexander.com/scala/match-entire-string-regex-pattern-in-scala
+--------
+Query: scala+regular+expression+patterns+book
+Resource: 47 Best Regular Expressions Books of All Time - BookAuthority
+Type: Book
+URL: https://bookauthority.org/books/best-regular-expressions-books
+--------
+Query: scala+regular+expression+patterns+book
+Resource: scala.util.matching.Regex Scala Example - Program Creek
+Type: Book
+URL: https://www.programcreek.com/scala/scala.util.matching.Regex
+--------
+Query: scala+regular+expression+patterns+book
+Resource: An Introduction to Pattern Matching in Scala - ProTech Training
+Type: Book
+URL: https://www.protechtraining.com/blog/post/an-introduction-to-pattern-matching-in-scala-842
+--------
+Query: scala+regular+expression+patterns+book
+Resource: Regular Expressions: The Complete Tutorial
+Type: Book
+URL: https://www.princeton.edu/~mlovett/reference/Regular-Expressions.pdf
+--------
+Query: scala+extractor+objects+book
+Resource: Extractor Objects | Tour of Scala | Scala Documentation
+Type: Book
+URL: https://docs.scala-lang.org/tour/extractor-objects.html
+--------
+Query: scala+extractor+objects+book
+Resource: Objetos Extractores | Scala Documentation
+Type: Book
+URL: https://docs.scala-lang.org/es/tour/extractor-objects.html
+--------
+Query: scala+extractor+objects+book
+Resource: Scala Extractors - GeeksforGeeks
+Type: Book
+URL: https://www.geeksforgeeks.org/scala-extractors/
+--------
+Query: scala+extractor+objects+book
+Resource: Scala Extractors | Extractors vs Case Classes - DataFlair
+Type: Book
+URL: https://data-flair.training/blogs/scala-extractors/
+--------
+Query: scala+extractor+objects+book
+Resource: Scala Tutorials Part #18 - Extractors | Madusudanan
+Type: Book
+URL: https://madusudanan.com/blog/scala-tutorials-part-18-extractors/
+--------
+Query: scala+extractor+objects+book
+Resource: A Quick Review of Scala's Case Classes | alvinalexander.com
+Type: Book
+URL: https://alvinalexander.com/scala/fp-book/quick-review-of-scala-case-classes
+--------
+Query: scala+extractor+objects+book
+Resource: 
+Type: Book
+URL: https://www.tutorialspoint.com/scala/scala_extractors.htm
+--------
+Query: scala+extractor+objects+book
+Resource: 
+Type: Book
+URL: https://docs.scala-lang.org/tour/extractor-objects.html
+--------
+Query: scala+extractor+objects+book
+Resource: 
+Type: Book
+URL: https://www.journaldev.com/9733/scala-caseclass-caseobject-part1
+--------
+Query: scala+extractor+objects+book
+Resource: 
+Type: Book
+URL: https://www.javatpoint.com/scala-case-classes-and-case-object
+--------
+Query: scala+extractor+objects+book
+Resource: Part 1: Extractors - 《The Neophyte's Guide to Scala》 - 书栈网 ...
+Type: Book
+URL: https://www.bookstack.cn/read/guide-to-scala-en/2c5766eb75545bd6.md
+--------
+Query: scala+extractor+objects+book
+Resource: Scala - Extractors - Tutorialspoint
+Type: Book
+URL: https://www.tutorialspoint.com/scala/scala_extractors.htm
+--------
+Query: scala+extractor+objects+book
+Resource: 4. Pattern Matching - Programming Scala, 2nd Edition [Book]
+Type: Book
+URL: https://www.oreilly.com/library/view/programming-scala-2nd/9781491950135/ch04.html
+--------
+=======Quiz======
+Query: scala+basics+quiz
+Resource: Scala Quiz | 5 Min Challenge for Scala Programming - DataFlair
+Type: Quiz
+URL: https://data-flair.training/blogs/scala-quiz/
+--------
+Query: scala+basics+quiz
+Resource: Latest Scala Quiz Questions for Beginners & Experience ...
+Type: Quiz
+URL: https://data-flair.training/blogs/scala-quiz-questions/
+--------
+Query: scala+basics+quiz
+Resource: Learn Scala | CodeQuizzes
+Type: Quiz
+URL: https://www.codequizzes.com/scala
+--------
+Query: scala+basics+quiz
+Resource: Scala quiz 1 - Bullraider
+Type: Quiz
+URL: http://www.bullraider.com/quiz/scala/scala-quiz-1
+--------
+Query: scala+basics+quiz
+Resource: Scala quiz. Solve programming tests and coding quizzes ...
+Type: Quiz
+URL: https://codegalaxy.io/courses/scala
+--------
+Query: scala+basics+quiz
+Resource: Scala Multiple Choice Questions and Answers - All India Exams
+Type: Quiz
+URL: http://www.allindiaexams.in/engineering/cse/scala-mcq-quiz-scala-online-test
+--------
+Query: scala+basics+quiz
+Resource: Scala Exercises
+Type: Quiz
+URL: https://www.scala-exercises.org/
+--------
+Query: scala+basics+quiz
+Resource: Scala Online Practice Tests 2019 - Scala Online Quiz ...
+Type: Quiz
+URL: https://www.wisdomjobs.com/e-university/scala-practice-tests-1348-327870
+--------
+Query: scala+basics+quiz
+Resource: TOP 250+ Scala Interview Questions and Answers 10 ...
+Type: Quiz
+URL: https://www.wisdomjobs.com/e-university/scala-interview-questions.html
+--------
+Query: scala+unified+types+quiz
+Resource: Unified Types | Tour of Scala | Scala Documentation
+Type: Quiz
+URL: https://docs.scala-lang.org/tour/unified-types.html
+--------
+Query: scala+unified+types+quiz
+Resource: Scala's Types of Types
+Type: Quiz
+URL: https://ktoso.github.io/scala-types-of-types/
+--------
+Query: scala+unified+types+quiz
+Resource: Scala Type Hierarchy - GeeksforGeeks
+Type: Quiz
+URL: https://www.geeksforgeeks.org/scala-type-hierarchy/
+--------
+Query: scala+unified+types+quiz
+Resource: Scala Data Types with Examples | Escape Value ... - DataFlair
+Type: Quiz
+URL: https://data-flair.training/blogs/scala-data-types/
+--------
+Query: scala+unified+types+quiz
+Resource: 
+Type: Quiz
+URL: http://allaboutscala.com/tutorials/chapter-2-learning-basics-scala-programming/scala-tutorial-learn-scala-class-type-hierarchy/
+--------
+Query: scala+unified+types+quiz
+Resource: 
+Type: Quiz
+URL: https://stackoverflow.com/questions/49402200/scala-whats-the-difference-between-any-and-anyref?rq=1
+--------
+Query: scala+unified+types+quiz
+Resource: 
+Type: Quiz
+URL: https://docs.scala-lang.org/tour/unified-types.html
+--------
+Query: scala+unified+types+quiz
+Resource: 
+Type: Quiz
+URL: https://www.geeksforgeeks.org/scala-type-hierarchy/
+--------
+Query: scala+unified+types+quiz
+Resource: Scala quiz 1 - Bullraider
+Type: Quiz
+URL: http://www.bullraider.com/quiz/scala/scala-quiz-1
+--------
+Query: scala+unified+types+quiz
+Resource: What types are special to the Scala compiler? - Stack Overflow
+Type: Quiz
+URL: https://stackoverflow.com/questions/40076047/what-types-are-special-to-the-scala-compiler
+--------
+Query: scala+unified+types+quiz
+Resource: scala: what's the difference between Any and AnyRef? - Stack ...
+Type: Quiz
+URL: https://stackoverflow.com/questions/49402200/scala-whats-the-difference-between-any-and-anyref?rq=1
+--------
+Query: scala+unified+types+quiz
+Resource: Scala Types of Types @ Lambda Days - SlideShare
+Type: Quiz
+URL: https://es.slideshare.net/ktoso/scala-types-of-types-lambda-days
+--------
+Query: scala+unified+types+quiz
+Resource: Learning Scala: Abstractions, Types, and Expressions - Medium
+Type: Quiz
+URL: https://medium.com/@tylerremmie/learning-scala-abstractions-types-and-expressions-93b23eed1ab4
+--------
+Query: scala+classes+quiz
+Resource: Latest Scala Quiz Questions for Beginners & Experience ...
+Type: Quiz
+URL: https://data-flair.training/blogs/scala-quiz-questions/
+--------
+Query: scala+classes+quiz
+Resource: Scala Quiz | 5 Min Challenge for Scala Programming - DataFlair
+Type: Quiz
+URL: https://data-flair.training/blogs/scala-quiz/
+--------
+Query: scala+classes+quiz
+Resource: Learn Scala | CodeQuizzes
+Type: Quiz
+URL: https://www.codequizzes.com/scala
+--------
+Query: scala+classes+quiz
+Resource: Scala quiz 1 - Bullraider
+Type: Quiz
+URL: http://www.bullraider.com/quiz/scala/scala-quiz-1
+--------
+Query: scala+classes+quiz
+Resource: Scala quiz. Solve programming tests and coding quizzes ...
+Type: Quiz
+URL: https://codegalaxy.io/courses/scala
+--------
+Query: scala+classes+quiz
+Resource: Scala Exercises
+Type: Quiz
+URL: https://www.scala-exercises.org/
+--------
+Query: scala+classes+quiz
+Resource: Scala Multiple Choice Questions and Answers - All India Exams
+Type: Quiz
+URL: http://www.allindiaexams.in/engineering/cse/scala-mcq-quiz-scala-online-test
+--------
+Query: scala+classes+quiz
+Resource: TOP 250+ Scala Interview Questions and Answers 10 ...
+Type: Quiz
+URL: https://www.wisdomjobs.com/e-university/scala-interview-questions.html
+--------
+Query: scala+classes+quiz
+Resource: Class and Object in Scala - GeeksforGeeks
+Type: Quiz
+URL: https://www.geeksforgeeks.org/class-and-object-in-scala/
+--------
+Query: scala+classes+quiz
+Resource: Scala interview questions - Spaghetti and Hammers
+Type: Quiz
+URL: https://pedrorijo.com/blog/scala-interview-questions/
+--------
+Query: scala+traits+quiz
+Resource: Scala | Traits - GeeksforGeeks
+Type: Quiz
+URL: https://www.geeksforgeeks.org/scala-traits/
+--------
+Query: scala+traits+quiz
+Resource: Difference Between Traits and Abstract Classes in Scala ...
+Type: Quiz
+URL: https://www.geeksforgeeks.org/difference-between-traits-and-abstract-classes-in-scala/
+--------
+Query: scala+traits+quiz
+Resource: Scala Trait - Multiple Class and Examples with New ...
+Type: Quiz
+URL: https://data-flair.training/blogs/scala-trait/
+--------
+Query: scala+traits+quiz
+Resource: Scala Traits - Scala Tutorial | Intellipaat.com
+Type: Quiz
+URL: https://intellipaat.com/blog/tutorial/scala-tutorial/scala-traits/
+--------
+Query: scala+traits+quiz
+Resource: Scala quiz. Select all correct ways to extend following traits ...
+Type: Quiz
+URL: https://codegalaxy.io/courses/scala/questions/30c55ade08844529b899dafeca0496e6/select-all-correct-ways-to-extend-following-traits-trait-quizfulone-var-value-st
+--------
+Query: scala+traits+quiz
+Resource: Learn Scala | CodeQuizzes
+Type: Quiz
+URL: https://www.codequizzes.com/scala
+--------
+Query: scala+traits+quiz
+Resource: Scala Traits (article) - DataCamp
+Type: Quiz
+URL: https://www.datacamp.com/community/tutorials/scala-traits
+--------
+Query: scala+traits+quiz
+Resource: Scala - Traits - Tutorialspoint
+Type: Quiz
+URL: https://www.tutorialspoint.com/scala/scala_traits.htm
+--------
+Query: scala+traits+quiz
+Resource: Scala interview questions - Spaghetti and Hammers
+Type: Quiz
+URL: https://pedrorijo.com/blog/scala-interview-questions/
+--------
+Query: scala+traits+quiz
+Resource: Apache Spark in 24 Hours, Sams Teach Yourself
+Type: Quiz
+URL: https://books.google.com.mx/books?id=sNPvDAAAQBAJ&pg=PT243&lpg=PT243&dq=scala+traits++quiz&source=bl&ots=Ct5KaUYxTc&sig=ACfU3U1YubuabJEnYco3PXocZVxf3btC8A&hl=es-419&sa=X&ved=2ahUKEwirq-utxNHnAhVIeawKHUYMDJIQ6AEwCXoECAoQAQ
+--------
+Query: scala+traits+quiz
+Resource: 
+Type: Quiz
+URL: https://www.javatpoint.com/scala-trait
+--------
+Query: scala+traits+quiz
+Resource: 
+Type: Quiz
+URL: https://www.tutorialspoint.com/scala/scala_traits.htm
+--------
+Query: scala+traits+quiz
+Resource: 
+Type: Quiz
+URL: https://data-flair.training/blogs/scala-trait/
+--------
+Query: scala+traits+quiz
+Resource: 
+Type: Quiz
+URL: https://www.geeksforgeeks.org/difference-between-traits-and-abstract-classes-in-scala/
+--------
+Query: scala+tuples+quiz
+Resource: Scala | Tuple - GeeksforGeeks
+Type: Quiz
+URL: https://www.geeksforgeeks.org/scala-tuple/
+--------
+Query: scala+tuples+quiz
+Resource: Scala-Tuple Archives - GeeksforGeeks
+Type: Quiz
+URL: https://www.geeksforgeeks.org/tag/scala-tuple/
+--------
+Query: scala+tuples+quiz
+Resource: Tuples in Scala - How to Convert Scala Tuple to String ...
+Type: Quiz
+URL: https://data-flair.training/blogs/tuples-in-scala-introduction/
+--------
+Query: scala+tuples+quiz
+Resource: Tuples | Tour of Scala | Scala Documentation
+Type: Quiz
+URL: https://docs.scala-lang.org/tour/tuples.html
+--------
+Query: scala+tuples+quiz
+Resource: Scala - Tuples - Tutorialspoint
+Type: Quiz
+URL: https://www.tutorialspoint.com/scala/scala_tuples.htm
+--------
+Query: scala+tuples+quiz
+Resource: Scala Tuples and Maps Example - JournalDev
+Type: Quiz
+URL: https://www.journaldev.com/8079/scala-tuples-and-maps-example
+--------
+Query: scala+tuples+quiz
+Resource: Scala Tuples - javatpoint
+Type: Quiz
+URL: https://www.javatpoint.com/scala-tuples
+--------
+Query: scala+tuples+quiz
+Resource: 
+Type: Quiz
+URL: https://docs.scala-lang.org/tour/tuples.html
+--------
+Query: scala+tuples+quiz
+Resource: 
+Type: Quiz
+URL: https://www.tutorialspoint.com/scala/scala_tuples.htm
+--------
+Query: scala+tuples+quiz
+Resource: 
+Type: Quiz
+URL: https://data-flair.training/blogs/tuples-in-scala-introduction/
+--------
+Query: scala+tuples+quiz
+Resource: 
+Type: Quiz
+URL: https://www.digitalocean.com/community/tutorials/understanding-tuples-in-python-3
+--------
+Query: scala+tuples+quiz
+Resource: Scala Interview Questions and Answers for Spark Developers
+Type: Quiz
+URL: https://www.dezyre.com/article/scala-interview-questions-and-answers-for-spark-developers/302
+--------
+Query: scala+tuples+quiz
+Resource: Introduction to the Art of Programming Using Scala
+Type: Quiz
+URL: https://books.google.com.mx/books?id=woH4tj8uuugC&pg=PA238&lpg=PA238&dq=scala+tuples++quiz&source=bl&ots=t2snArPIhQ&sig=ACfU3U3ySjS9LPruNrBfIOB1zK-_fO6qUA&hl=es-419&sa=X&ved=2ahUKEwi967e1xNHnAhUNEawKHWBRDXYQ6AEwEHoECAkQAQ
+--------
+Query: scala+tuples+quiz
+Resource: Introduction to Programming and Problem-Solving Using Scala, ...
+Type: Quiz
+URL: https://books.google.com.mx/books?id=0amKDQAAQBAJ&pg=PT356&lpg=PT356&dq=scala+tuples++quiz&source=bl&ots=6k0tYqAybr&sig=ACfU3U2DNXZ6gjbohaF32vLUWDb9CxkwRw&hl=es-419&sa=X&ved=2ahUKEwi967e1xNHnAhUNEawKHWBRDXYQ6AEwEXoECAoQAQ
+--------
+Query: scala+class+composition+with+mixins+quiz
+Resource: What is Scala Trait Mixins - Top Examples of Scala Mixins ...
+Type: Quiz
+URL: https://data-flair.training/blogs/scala-trait-mixins/
+--------
+Query: scala+class+composition+with+mixins+quiz
+Resource: Scala | Trait Mixins - GeeksforGeeks
+Type: Quiz
+URL: https://www.geeksforgeeks.org/scala-trait-mixins/
+--------
+Query: scala+class+composition+with+mixins+quiz
+Resource: Class Composition with Mixins | Tour of Scala | Scala ...
+Type: Quiz
+URL: https://docs.scala-lang.org/tour/mixin-class-composition.html
+--------
+Query: scala+class+composition+with+mixins+quiz
+Resource: Mixin Class Composition in Scala - DZone Java
+Type: Quiz
+URL: https://dzone.com/articles/mixin-class-composition-in-scala
+--------
+Query: scala+class+composition+with+mixins+quiz
+Resource: Scala class composition and mixin confusion - Stack Overflow
+Type: Quiz
+URL: https://stackoverflow.com/questions/49934250/scala-class-composition-and-mixin-confusion
+--------
+Query: scala+class+composition+with+mixins+quiz
+Resource: Apache Spark in 24 Hours, Sams Teach Yourself
+Type: Quiz
+URL: https://books.google.com.mx/books?id=sNPvDAAAQBAJ&pg=PT243&lpg=PT243&dq=scala+class+composition+with+mixins++quiz&source=bl&ots=Ct5KaUYyMd&sig=ACfU3U2PKi0lLHOJmrgDaSm5MiOdj9jzww&hl=es-419&sa=X&ved=2ahUKEwjW7_S8xNHnAhVIQ6wKHSd-D7gQ6AEwBXoECAoQAQ
+--------
+Query: scala+class+composition+with+mixins+quiz
+Resource: Mixins vs composition in scala - Genera Codice
+Type: Quiz
+URL: https://www.generacodice.com/en/articolo/624428/Mixins-vs-composition-in-scala
+--------
+Query: scala+class+composition+with+mixins+quiz
+Resource: Scala Trait Mixins - javatpoint
+Type: Quiz
+URL: https://www.javatpoint.com/scala-trait-mixins
+--------
+Query: scala+class+composition+with+mixins+quiz
+Resource: Software Composition: 5th International Symposium, SC 2006, ...
+Type: Quiz
+URL: https://books.google.com.mx/books?id=gvlsCQAAQBAJ&pg=PA321&lpg=PA321&dq=scala+class+composition+with+mixins++quiz&source=bl&ots=A7Cygt30EG&sig=ACfU3U1msOJ6ctvIgek9FZGouoWOct79vA&hl=es-419&sa=X&ved=2ahUKEwjW7_S8xNHnAhVIQ6wKHSd-D7gQ6AEwCHoECAgQAQ
+--------
+Query: scala+class+composition+with+mixins+quiz
+Resource: Scala and Spark for Big Data Analytics: Explore the concepts ...
+Type: Quiz
+URL: https://books.google.com.mx/books?id=7eZDDwAAQBAJ&pg=PA34&lpg=PA34&dq=scala+class+composition+with+mixins++quiz&source=bl&ots=C0QHZNFH-j&sig=ACfU3U2pYUHX95E14k5vhIjB-k3ES3jLsg&hl=es-419&sa=X&ved=2ahUKEwjW7_S8xNHnAhVIQ6wKHSd-D7gQ6AEwCXoECAkQAQ
+--------
+Query: scala+higher-order+functions+quiz
+Resource: Scala quiz. Higher-order Functions | CodeGalaxy.io
+Type: Quiz
+URL: https://codegalaxy.io/theory/scala/snippets/5b3e0bd8bf31217517b6a9347b34e728/higher-order_functions
+--------
+Query: scala+higher-order+functions+quiz
+Resource: Scala quiz. What is a higher-order function? | CodeGalaxy.io
+Type: Quiz
+URL: https://codegalaxy.io/courses/scala/questions/46b968f33d9742bb8394c25921b63f56/what-is-a-higher-order-function
+--------
+Query: scala+higher-order+functions+quiz
+Resource: Higher Order Functions in Scala - GeeksforGeeks
+Type: Quiz
+URL: https://www.geeksforgeeks.org/higher-order-functions-in-scala/
+--------
+Query: scala+higher-order+functions+quiz
+Resource: Scala - Higher-Order Functions - Tutorialspoint
+Type: Quiz
+URL: https://www.tutorialspoint.com/scala/higher_order_functions.htm
+--------
+Query: scala+higher-order+functions+quiz
+Resource: Scala Higher Order() Function - javatpoint
+Type: Quiz
+URL: https://www.javatpoint.com/scala-higher-order-functions
+--------
+Query: scala+higher-order+functions+quiz
+Resource: Scala Higher Order Functions - Learning Journal
+Type: Quiz
+URL: https://www.learningjournal.guru/courses/scala/scala-programming-foundation/higher-order-functions/
+--------
+Query: scala+higher-order+functions+quiz
+Resource: What is the advantage of using higher order functions in Scala?
+Type: Quiz
+URL: https://www.javapedia.net/Scala-interview-questions/2291
+--------
+Query: scala+higher-order+functions+quiz
+Resource: Higher-Order Functions - Coursera
+Type: Quiz
+URL: https://www.coursera.org/lecture/progfun1/lecture-2-1-higher-order-functions-xuM1M
+--------
+Query: scala+higher-order+functions+quiz
+Resource: Functional Scala: High, Higher, Higher Order Functions | brain ...
+Type: Quiz
+URL: https://gleichmann.wordpress.com/2010/11/28/high-higher-higher-order-functions/
+--------
+Query: scala+higher-order+functions+quiz
+Resource: Scala Function Tutorial - Types of Functions in Scala - DataFlair
+Type: Quiz
+URL: https://data-flair.training/blogs/scala-function/
+--------
+Query: scala+higher-order+functions+quiz
+Resource: 
+Type: Quiz
+URL: https://www.javatpoint.com/scala-higher-order-functions
+--------
+Query: scala+higher-order+functions+quiz
+Resource: 
+Type: Quiz
+URL: https://levelup.gitconnected.com/javascript-built-in-higher-order-function-and-performance-3fc5d23cc1d3
+--------
+Query: scala+higher-order+functions+quiz
+Resource: 
+Type: Quiz
+URL: https://medium.com/@bonfirealgorithm/beyond-the-for-loop-higher-order-functions-and-list-comprehensions-in-python-695b58ab71d3
+--------
+Query: scala+higher-order+functions+quiz
+Resource: 
+Type: Quiz
+URL: https://dev.to/bettercodingacademy/functional-programming-all-you-need-to-know-about-currying-5k7
+--------
+Query: scala+nested+methods+quiz
+Resource: The cost of nested methods - Stack Overflow
+Type: Quiz
+URL: https://stackoverflow.com/questions/2482326/the-cost-of-nested-methods
+--------
+Query: scala+nested+methods+quiz
+Resource: Scala | Nested Functions - GeeksforGeeks
+Type: Quiz
+URL: https://www.geeksforgeeks.org/scala-nested-functions/
+--------
+Query: scala+nested+methods+quiz
+Resource: Scala - Nested Functions - Tutorialspoint
+Type: Quiz
+URL: https://www.tutorialspoint.com/scala/nested_functions.htm
+--------
+Query: scala+nested+methods+quiz
+Resource: Nested Functions in Scala - Top Java Tutorial
+Type: Quiz
+URL: https://www.topjavatutorial.com/scala/nested-functions-scala/
+--------
+Query: scala+nested+methods+quiz
+Resource: Java Quiz: Nested Classes - DZone Java
+Type: Quiz
+URL: https://dzone.com/articles/java-quiz-nested-classes
+--------
+Query: scala+nested+methods+quiz
+Resource: Nested Methods | Tour of Scala | Scala Documentation
+Type: Quiz
+URL: https://docs.scala-lang.org/tour/nested-functions.html
+--------
+Query: scala+nested+methods+quiz
+Resource: Scala Functions - Declaration, Definition, Invocation and ...
+Type: Quiz
+URL: https://www.journaldev.com/7713/scala-functions-declaration-definition-invocation-and-nested-functions
+--------
+Query: scala+nested+methods+quiz
+Resource: Scala Function Tutorial - Types of Functions in Scala - DataFlair
+Type: Quiz
+URL: https://data-flair.training/blogs/scala-function/
+--------
+Query: scala+nested+methods+quiz
+Resource: Object-Orientation, Abstraction, and Data Structures Using Scala
+Type: Quiz
+URL: https://books.google.com.mx/books?id=uSQNDgAAQBAJ&pg=PA53&lpg=PA53&dq=scala+nested+methods++quiz&source=bl&ots=KM8t9Cm6i1&sig=ACfU3U0IDtMq9hs3vkF2w-Pgv5owrTrqSw&hl=es-419&sa=X&ved=2ahUKEwiqw4TKxNHnAhUFUa0KHTeBB-oQ6AEwCHoECAoQAQ
+--------
+Query: scala+nested+methods+quiz
+Resource: Nested functions in Scala | Usage, and Examples
+Type: Quiz
+URL: https://www.includehelp.com/scala/nested-functions-in-scala-usage-and-examples.aspx
+--------
+Query: scala+multiple+parameter+lists+quiz
+Resource: Why does Scala provide both multiple parameters lists and multiple ...
+Type: Quiz
+URL: https://stackoverflow.com/questions/4684185/why-does-scala-provide-both-multiple-parameters-lists-and-multiple-parameters-pe
+--------
+Query: scala+multiple+parameter+lists+quiz
+Resource: How to Write and Use Scala Functions That Have Multiple ...
+Type: Quiz
+URL: https://alvinalexander.com/scala/fp-book/how-to-write-functions-multiple-parameter-groups
+--------
+Query: scala+multiple+parameter+lists+quiz
+Resource: Multiple Parameter Lists (Currying) | Tour of Scala | Scala ...
+Type: Quiz
+URL: https://docs.scala-lang.org/tour/multiple-parameter-lists.html
+--------
+Query: scala+multiple+parameter+lists+quiz
+Resource: Object-Orientation, Abstraction, and Data Structures Using Scala
+Type: Quiz
+URL: https://books.google.com.mx/books?id=uSQNDgAAQBAJ&pg=PA38&lpg=PA38&dq=scala+multiple+parameter+lists++quiz&source=bl&ots=KM8t9Cm6j3&sig=ACfU3U0NFIxCDzC4hs9qn-_eMMEa-9ucfw&hl=es-419&sa=X&ved=2ahUKEwixt8TPxNHnAhVHIKwKHVnQCy0Q6AEwA3oECAoQAQ
+--------
+Query: scala+multiple+parameter+lists+quiz
+Resource: Scala | Repeated Method Parameters - GeeksforGeeks
+Type: Quiz
+URL: https://www.geeksforgeeks.org/scala-repeated-method-parameters/
+--------
+Query: scala+multiple+parameter+lists+quiz
+Resource: Anonymous Functions in Scala - GeeksforGeeks
+Type: Quiz
+URL: https://www.geeksforgeeks.org/anonymous-functions-in-scala/
+--------
+Query: scala+multiple+parameter+lists+quiz
+Resource: Multiple Parameter Lists in Scala · Sujith Jay Nair
+Type: Quiz
+URL: https://sujithjay.com/scala-currying
+--------
+Query: scala+multiple+parameter+lists+quiz
+Resource: Scala Function Tutorial - Types of Functions in Scala - DataFlair
+Type: Quiz
+URL: https://data-flair.training/blogs/scala-function/
+--------
+Query: scala+multiple+parameter+lists+quiz
+Resource: Scala Syntax: An Introductory Scala Tutorial - DataFlair
+Type: Quiz
+URL: https://data-flair.training/blogs/scala-syntax/
+--------
+Query: scala+multiple+parameter+lists+quiz
+Resource: Scala - Currying Functions - Tutorialspoint
+Type: Quiz
+URL: https://www.tutorialspoint.com/scala/currying_functions.htm
+--------
+Query: scala+case+classes+quiz
+Resource: scala case classes questions - Stack Overflow
+Type: Quiz
+URL: https://stackoverflow.com/questions/1521011/scala-case-classes-questions
+--------
+Query: scala+case+classes+quiz
+Resource: Latest Scala Quiz Questions for Beginners & Experience ...
+Type: Quiz
+URL: https://data-flair.training/blogs/scala-quiz-questions/
+--------
+Query: scala+case+classes+quiz
+Resource: Scala Case Class - How to Create Scala Object - DataFlair
+Type: Quiz
+URL: https://data-flair.training/blogs/scala-case-class/
+--------
+Query: scala+case+classes+quiz
+Resource: Scala | Case Class and Case Object - GeeksforGeeks
+Type: Quiz
+URL: https://www.geeksforgeeks.org/scala-case-class-and-case-object/
+--------
+Query: scala+case+classes+quiz
+Resource: Scala quiz. <pre><code>case class Key(x: Int, var y: Int) val
+Type: Quiz
+URL: https://codegalaxy.io/courses/scala/questions/7a8f0b98e3434d32ad1d414aac896e84/case-class-key-x-int-var-y-int-val-key-key-1-2-val-somemap-map-key-1-2-val-newke
+--------
+Query: scala+case+classes+quiz
+Resource: Introduction to Programming and Problem-Solving Using Scala
+Type: Quiz
+URL: https://books.google.com.mx/books?id=K3ANDgAAQBAJ&pg=PA260&lpg=PA260&dq=scala+case+classes++quiz&source=bl&ots=Z5q6aRFJMc&sig=ACfU3U2QgpKOc_kF4zZ-mbXQtqX40lu5Lw&hl=es-419&sa=X&ved=2ahUKEwjio4LVxNHnAhVBXK0KHch3BeMQ6AEwBXoECAoQAQ
+--------
+Query: scala+case+classes+quiz
+Resource: Scala quiz. Given following code: <pre><code>case class ...
+Type: Quiz
+URL: https://codegalaxy.io/courses/scala/questions/6b48e68375834e44ba2c0eca884d4a90/given-following-code-case-class-user-name-string-email-string-age-int-val-userli
+--------
+Query: scala+case+classes+quiz
+Resource: Introduction to Programming and Problem-Solving Using Scala, ...
+Type: Quiz
+URL: https://books.google.com.mx/books?id=0amKDQAAQBAJ&pg=PT360&lpg=PT360&dq=scala+case+classes++quiz&source=bl&ots=6k0tYqAyhx&sig=ACfU3U0oMi6RqN5hCNMn_mUNs0dkRFLYBQ&hl=es-419&sa=X&ved=2ahUKEwjio4LVxNHnAhVBXK0KHch3BeMQ6AEwEXoECAkQAQ
+--------
+Query: scala+case+classes+quiz
+Resource: Learn Scala | CodeQuizzes
+Type: Quiz
+URL: https://www.codequizzes.com/scala
+--------
+Query: scala+pattern+matching+quiz
+Resource: Scala quiz. Pattern Matching of Sealed Classes | CodeGalaxy.io
+Type: Quiz
+URL: https://codegalaxy.io/theory/scala/snippets/c1738b0ce7dcfe246e9646ab0c018ed0/pattern_matching_of_sealed_classes
+--------
+Query: scala+pattern+matching+quiz
+Resource: Scala | Pattern Matching - GeeksforGeeks
+Type: Quiz
+URL: https://www.geeksforgeeks.org/scala-pattern-matching/
+--------
+Query: scala+pattern+matching+quiz
+Resource: 14 Types Scala Pattern Matching - Syntax, Example, Case ...
+Type: Quiz
+URL: https://data-flair.training/blogs/scala-pattern-matching/
+--------
+Query: scala+pattern+matching+quiz
+Resource: Latest Scala Quiz Questions for Beginners & Experience ...
+Type: Quiz
+URL: https://data-flair.training/blogs/scala-quiz-questions/
+--------
+Query: scala+pattern+matching+quiz
+Resource: How to pattern match using regular expression in Scala? - Stack ...
+Type: Quiz
+URL: https://stackoverflow.com/questions/4636610/how-to-pattern-match-using-regular-expression-in-scala
+--------
+Query: scala+pattern+matching+quiz
+Resource: An Introduction to Pattern Matching in Scala - ProTech Training
+Type: Quiz
+URL: https://www.protechtraining.com/blog/post/an-introduction-to-pattern-matching-in-scala-842
+--------
+Query: scala+pattern+matching+quiz
+Resource: Pattern Matching and Case Classes - Scala Tutorial ...
+Type: Quiz
+URL: https://intellipaat.com/blog/tutorial/scala-tutorial/pattern-matching-and-case-classes/
+--------
+Query: scala+pattern+matching+quiz
+Resource: Introduction to Programming and Problem-Solving Using Scala
+Type: Quiz
+URL: https://books.google.com.mx/books?id=K3ANDgAAQBAJ&pg=PA260&lpg=PA260&dq=scala+pattern+matching++quiz&source=bl&ots=Z5q6aRFJNd&sig=ACfU3U3wjHo3pwHTR2novxaydUeUe00Gzw&hl=es-419&sa=X&ved=2ahUKEwiI-ITaxNHnAhUCA6wKHUNxB2sQ6AEwB3oECAoQAQ
+--------
+Query: scala+pattern+matching+quiz
+Resource: Introduction to Programming and Problem-Solving Using Scala, ...
+Type: Quiz
+URL: https://books.google.com.mx/books?id=0amKDQAAQBAJ&pg=PT360&lpg=PT360&dq=scala+pattern+matching++quiz&source=bl&ots=6k0tYqAyiy&sig=ACfU3U1O67RUG1I3KoDE3LhEhu8-muQHKA&hl=es-419&sa=X&ved=2ahUKEwiI-ITaxNHnAhUCA6wKHUNxB2sQ6AEwCHoECAkQAQ
+--------
+Query: scala+pattern+matching+quiz
+Resource: Object-Orientation, Abstraction, and Data Structures Using Scala
+Type: Quiz
+URL: https://books.google.com.mx/books?id=uSQNDgAAQBAJ&pg=PA99&lpg=PA99&dq=scala+pattern+matching++quiz&source=bl&ots=KM8t9Cm6l5&sig=ACfU3U2cv87V4FuzZkIqBSChdOSQrce7oA&hl=es-419&sa=X&ved=2ahUKEwiI-ITaxNHnAhUCA6wKHUNxB2sQ6AEwCXoECAgQAQ
+--------
+Query: scala+singleton+objects+quiz
+Resource: Scala Singleton and Companion Objects - GeeksforGeeks
+Type: Quiz
+URL: https://www.geeksforgeeks.org/scala-singleton-and-companion-objects/
+--------
+Query: scala+singleton+objects+quiz
+Resource: Scala Object - Scala Singleton & Scala Companion Object ...
+Type: Quiz
+URL: https://data-flair.training/blogs/scala-singleton-object/
+--------
+Query: scala+singleton+objects+quiz
+Resource: 
+Type: Quiz
+URL: https://www.geeksforgeeks.org/scala-singleton-and-companion-objects/
+--------
+Query: scala+singleton+objects+quiz
+Resource: 
+Type: Quiz
+URL: https://www.javatpoint.com/scala-singleton-and-companion-object
+--------
+Query: scala+singleton+objects+quiz
+Resource: 
+Type: Quiz
+URL: https://stackoverflow.com/questions/36882100/whats-the-difference-between-a-companion-object-and-a-singleton-class-in-scala
+--------
+Query: scala+singleton+objects+quiz
+Resource: 
+Type: Quiz
+URL: https://docs.scala-lang.org/overviews/scala-book/companion-objects.html
+--------
+Query: scala+singleton+objects+quiz
+Resource: Singleton Objects, Traits | CodeQuizzes
+Type: Quiz
+URL: https://www.codequizzes.com/scala/object-oriented-scala/singleton-objects-traits
+--------
+Query: scala+singleton+objects+quiz
+Resource: Scala Companion Objects - Learning Journal
+Type: Quiz
+URL: https://www.learningjournal.guru/courses/scala/scala-programming-foundation/scala-companion-objects/
+--------
+Query: scala+singleton+objects+quiz
+Resource: Explanation of singleton objects in Scala - Stack Overflow
+Type: Quiz
+URL: https://stackoverflow.com/questions/6541393/explanation-of-singleton-objects-in-scala
+--------
+Query: scala+singleton+objects+quiz
+Resource: Scala Interview Questions - JournalDev
+Type: Quiz
+URL: https://www.journaldev.com/9663/scala-interview-questions
+--------
+Query: scala+singleton+objects+quiz
+Resource: Singleton Objects | Tour of Scala | Scala Documentation
+Type: Quiz
+URL: https://docs.scala-lang.org/tour/singleton-objects.html
+--------
+Query: scala+singleton+objects+quiz
+Resource: Scala Singleton and Companion Object - javatpoint
+Type: Quiz
+URL: https://www.javatpoint.com/scala-singleton-and-companion-object
+--------
+Query: scala+regular+expression+patterns+quiz
+Resource: Regular Expressions in Scala - GeeksforGeeks
+Type: Quiz
+URL: https://www.geeksforgeeks.org/regular-expressions-in-scala/
+--------
+Query: scala+regular+expression+patterns+quiz
+Resource: Scala - Regular Expressions - Tutorialspoint
+Type: Quiz
+URL: https://www.tutorialspoint.com/scala/scala_regular_expressions.htm
+--------
+Query: scala+regular+expression+patterns+quiz
+Resource: Scala Regular Expression Example - JournalDev
+Type: Quiz
+URL: https://www.journaldev.com/8256/scala-regular-expression-example
+--------
+Query: scala+regular+expression+patterns+quiz
+Resource: Scala Regex | Scala Regular Expressions - Replacing ...
+Type: Quiz
+URL: https://data-flair.training/blogs/scala-regex/
+--------
+Query: scala+regular+expression+patterns+quiz
+Resource: How to pattern match using regular expression in Scala? - Stack ...
+Type: Quiz
+URL: https://stackoverflow.com/questions/4636610/how-to-pattern-match-using-regular-expression-in-scala
+--------
+Query: scala+regular+expression+patterns+quiz
+Resource: Regular Expression - Java Questions & Answers - Sanfoundry
+Type: Quiz
+URL: https://www.sanfoundry.com/java-questions-answers-regular-expression/
+--------
+Query: scala+regular+expression+patterns+quiz
+Resource: Top 10 Questions for Java Regular Expression - Program Creek
+Type: Quiz
+URL: https://www.programcreek.com/2013/10/top-10-questions-for-java-regular-expression/
+--------
+Query: scala+regular+expression+patterns+quiz
+Resource: Regular Expression Patterns | Tour of Scala | Scala ...
+Type: Quiz
+URL: https://docs.scala-lang.org/tour/regular-expression-patterns.html
+--------
+Query: scala+regular+expression+patterns+quiz
+Resource: Top Java Regular Expression(Regex) Interview Questions ...
+Type: Quiz
+URL: https://www.javainuse.com/misc/regex-interview-questions
+--------
+Query: scala+regular+expression+patterns+quiz
+Resource: Regular Expression Short-Answer question type - MoodleDocs
+Type: Quiz
+URL: https://docs.moodle.org/en/Regular_Expression_Short-Answer_question_type
+--------
+Query: scala+extractor+objects+quiz
+Resource: Scala Extractors - GeeksforGeeks
+Type: Quiz
+URL: https://www.geeksforgeeks.org/scala-extractors/
+--------
+Query: scala+extractor+objects+quiz
+Resource: Scala Extractors | Extractors vs Case Classes - DataFlair
+Type: Quiz
+URL: https://data-flair.training/blogs/scala-extractors/
+--------
+Query: scala+extractor+objects+quiz
+Resource: Scala - Extractors - Tutorialspoint
+Type: Quiz
+URL: https://www.tutorialspoint.com/scala/scala_extractors.htm
+--------
+Query: scala+extractor+objects+quiz
+Resource: Std Lib | Extractors - Scala Exercises
+Type: Quiz
+URL: https://www.scala-exercises.org/std_lib/extractors
+--------
+Query: scala+extractor+objects+quiz
+Resource: Extractor Objects | Tour of Scala | Scala Documentation
+Type: Quiz
+URL: https://docs.scala-lang.org/tour/extractor-objects.html
+--------
+Query: scala+extractor+objects+quiz
+Resource: Objetos Extractores - Scala Documentation
+Type: Quiz
+URL: https://docs.scala-lang.org/es/tutorials/tour/extractor-objects.html
+--------
+Query: scala+extractor+objects+quiz
+Resource: Scala Extractors apply, unapply and pattern matching ...
+Type: Quiz
+URL: https://www.journaldev.com/8270/scala-extractors-apply-unapply-and-pattern-matching
+--------
+Query: scala+extractor+objects+quiz
+Resource: Back2Basics: Scala Extractors in Detail - Knoldus Blogs
+Type: Quiz
+URL: https://blog.knoldus.com/back2basics-scala-extractors-in-detail/
+--------
+Query: scala+extractor+objects+quiz
+Resource: Understand how to use apply and unapply - Stack Overflow
+Type: Quiz
+URL: https://stackoverflow.com/questions/18468786/understand-how-to-use-apply-and-unapply
+--------
+Query: scala+extractor+objects+quiz
+Resource: 
+Type: Quiz
+URL: https://www.tutorialspoint.com/scala/scala_extractors.htm
+--------
+Query: scala+extractor+objects+quiz
+Resource: 
+Type: Quiz
+URL: https://docs.scala-lang.org/tour/extractor-objects.html
+--------
+Query: scala+extractor+objects+quiz
+Resource: 
+Type: Quiz
+URL: https://stackoverflow.com/questions/9737352/what-is-the-apply-function-in-scala
+--------
+=======Video======
+Query: scala+basics&tbm=vid
+Resource: Introduction to Scala Basics - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=iilTz5R_i6E
+--------
+Query: scala+basics&tbm=vid
+Resource: Scala Language Basics - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=Ytfw8Bg86p4
+--------
+Query: scala+basics&tbm=vid
+Resource: Scala Basics | Scala Tutorial | Spark Scala Training | Online ...
+Type: Video
+URL: https://www.youtube.com/watch?v=w3yCc_tzh18
+--------
+Query: scala+basics&tbm=vid
+Resource: Learning Scala? Learn the Fundamentals First! - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=ugHsIj60VfQ
+--------
+Query: scala+basics&tbm=vid
+Resource: Scala Tutorial | Scala Tutorial For Beginners | Scala ...
+Type: Video
+URL: https://www.youtube.com/watch?v=xNAD6cBKyaA
+--------
+Query: scala+basics&tbm=vid
+Resource: Scala Tutorial 1 - Introduction to Scala - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=LQVDJtfpQU0
+--------
+Query: scala+basics&tbm=vid
+Resource: Other Types (Scala Basics) - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=yrpQnVGMX1g
+--------
+Query: scala+basics&tbm=vid
+Resource: Scala Programming Tutorial | Learn Scala programming ...
+Type: Video
+URL: https://www.youtube.com/watch?v=pDq06gwJnLk
+--------
+Query: scala+basics&tbm=vid
+Resource: Sequential Execution (Scala Basics) - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=ReS2nusS7R8
+--------
+Query: scala+basics&tbm=vid
+Resource: Basics of Scala Functions - Learning Journal
+Type: Video
+URL: https://www.learningjournal.guru/courses/scala/scala-programming-foundation/basics-of-functions/
+--------
+Query: scala+unified+types&tbm=vid
+Resource: Scala Type System - Learning Journal
+Type: Video
+URL: https://www.learningjournal.guru/courses/scala/scala-programming-foundation/type-system/
+--------
+Query: scala+unified+types&tbm=vid
+Resource: Example 6 - A Unified Type System - Learn By Example: Scala ...
+Type: Video
+URL: https://www.oreilly.com/library/view/learn-by-example/9781788993005/video2_7.html
+--------
+Query: scala+unified+types&tbm=vid
+Resource: Learn By Example: Scala || Conceptshub
+Type: Video
+URL: https://www.conceptshub.com/index.php/home/product_view/50/Learn-By-Example-Scala
+--------
+Query: scala+unified+types&tbm=vid
+Resource: Scala (programming language) - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=_Ptgy0RhZHE
+--------
+Query: scala+unified+types&tbm=vid
+Resource: Practical Scala for Java Developers - O'Reilly Media
+Type: Video
+URL: https://player.oreilly.com/videos/9781491969465
+--------
+Query: scala+unified+types&tbm=vid
+Resource: Martin Odersky - What to Leave Implicit - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=br6035SKu-0
+--------
+Query: scala+unified+types&tbm=vid
+Resource: Learn By Example: Scala with 65 elaborated examples ...
+Type: Video
+URL: https://edugate.org/course/learn-by-example-scala/
+--------
+Query: scala+unified+types&tbm=vid
+Resource: Learn By Example: Scala | EdisonX Academy
+Type: Video
+URL: https://www.edisonxacademy.com/course/course-v1:TeachEdison+PP101+2017_May
+--------
+Query: scala+unified+types&tbm=vid
+Resource: A Tour of Scala 3 | Martin Odersky, Professor EPFL, Co ...
+Type: Video
+URL: https://portal.klewel.com/watch/webcast/scala-days-2019/talk/2/
+--------
+Query: scala+unified+types&tbm=vid
+Resource: Deep Learning in Scala Part 1: Basics and Libraries - Random ...
+Type: Video
+URL: https://brunk.io/deep-learning-in-scala-part-1-basics-and-libraries.html
+--------
+Query: scala+classes&tbm=vid
+Resource: Scala Tutorial 26 - Scala Classes - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=xzxke78PNHw
+--------
+Query: scala+classes&tbm=vid
+Resource: Scala Tutorial - Scala Classes - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=136gjm8T0_c
+--------
+Query: scala+classes&tbm=vid
+Resource: Scala - Classes and Objects | Automated hands-on| CloudxLab
+Type: Video
+URL: https://cloudxlab.com/assessment/displayslide/369/scala-classes-and-objects
+--------
+Query: scala+classes&tbm=vid
+Resource: Classes and Objects in Scala v1 - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=U22O7aNntNk
+--------
+Query: scala+classes&tbm=vid
+Resource: Scala Objects & Apply Methods - Learning Journal
+Type: Video
+URL: https://www.learningjournal.guru/courses/scala/scala-programming-foundation/scala-objects/
+--------
+Query: scala+classes&tbm=vid
+Resource: Class and Object in Scala Tutorial - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=9elJaKK4VRo
+--------
+Query: scala+classes&tbm=vid
+Resource: Scala - Class and Object with its difference and Example ...
+Type: Video
+URL: https://www.youtube.com/watch?v=ohGHwVaCNBE
+--------
+Query: scala+classes&tbm=vid
+Resource: How to Define & Instantiate a class in Scala # Tutorial - 3 ...
+Type: Video
+URL: https://www.youtube.com/watch?v=3OsVa28ZSjc
+--------
+Query: scala+classes&tbm=vid
+Resource: Scala classes - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=fRN1-GOHeRs
+--------
+Query: scala+classes&tbm=vid
+Resource: case classes (in Scala) - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=x7FfzK6YFyM
+--------
+Query: scala+traits&tbm=vid
+Resource: Scala Traits - Scala Tutorial | Intellipaat.com
+Type: Video
+URL: https://intellipaat.com/blog/tutorial/scala-tutorial/scala-traits/
+--------
+Query: scala+traits&tbm=vid
+Resource: Scala Tutorial 31 - Scala Trait - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=KARUSWj8sZs
+--------
+Query: scala+traits&tbm=vid
+Resource: Traits in Scala # Scala Tutorial - 13 - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=IYfNuJCchQw
+--------
+Query: scala+traits&tbm=vid
+Resource: traits (in Scala) - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=vBxXBqHfRto
+--------
+Query: scala+traits&tbm=vid
+Resource: Scala - Scala traits use case - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=RcXdScOoy1Q
+--------
+Query: scala+traits&tbm=vid
+Resource: Scala - Scala traits (OOPS) with a quick demo - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=2huhYpgV6Do
+--------
+Query: scala+traits&tbm=vid
+Resource: Scala - Scala trait vs Java Interface - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=QqAY84ux6lU
+--------
+Query: scala+traits&tbm=vid
+Resource: Introduction to Scala Traits - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=r3jBynE2ens
+--------
+Query: scala+traits&tbm=vid
+Resource: scala traits the basics and what they mean - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=2ZH91ief85s
+--------
+Query: scala+traits&tbm=vid
+Resource: Scala Traits Compilation into Java Interfaces - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=geet3s_4hTo
+--------
+Query: scala+tuples&tbm=vid
+Resource: Scala - Operations on Scala Tuples - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=ZWMQBYrGz4k
+--------
+Query: scala+tuples&tbm=vid
+Resource: Scala Tutorial 22 - Scala Tuples - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=ZQQs44OHJLc
+--------
+Query: scala+tuples&tbm=vid
+Resource: Tuples in Scala - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=yZCu9gRlZcA
+--------
+Query: scala+tuples&tbm=vid
+Resource: Tuples and case classes in Scala - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=bnK4FWww8-k
+--------
+Query: scala+tuples&tbm=vid
+Resource: Tuples in Scala | Simple explanation with use case - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=VKXRJfZhpjM
+--------
+Query: scala+tuples&tbm=vid
+Resource: Scala - Tuples - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=s0zjvGOGtKI
+--------
+Query: scala+tuples&tbm=vid
+Resource: Tuples In Scala - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=aM4C7itHGjw
+--------
+Query: scala+tuples&tbm=vid
+Resource: Scala Tuples - Part 2 - Beginning Scala Programming [Video]
+Type: Video
+URL: https://www.oreilly.com/library/view/beginning-scala-programming/9781771374811/video246799.html
+--------
+Query: scala+tuples&tbm=vid
+Resource: Tuples In Scala | Creating Tuples in Scala | Different ways to ...
+Type: Video
+URL: https://www.youtube.com/watch?v=LK01k0eFXkk
+--------
+Query: scala+tuples&tbm=vid
+Resource: 46) Scala. Tuples - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=BNvmnaYr7es
+--------
+Query: scala+class+composition+with+mixins&tbm=vid
+Resource: Multiple Mixin Inheritance Composition - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=LopoGcUIxOA
+--------
+Query: scala+class+composition+with+mixins&tbm=vid
+Resource: Java 8 Mixins - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=rX_mgemVeuY
+--------
+Query: scala+class+composition+with+mixins&tbm=vid
+Resource: Mixin - classes info
+Type: Video
+URL: http://classesinformation.blogspot.com/2018/08/mixin.html
+--------
+Query: scala+class+composition+with+mixins&tbm=vid
+Resource: 1 Scala in Depth for Beginner's and Developers -Introduction ...
+Type: Video
+URL: https://www.youtube.com/watch?v=39BOkbWjAAY
+--------
+Query: scala+class+composition+with+mixins&tbm=vid
+Resource: Composition in Java Example - JournalDev
+Type: Video
+URL: https://www.journaldev.com/1325/composition-in-java-example
+--------
+Query: scala+class+composition+with+mixins&tbm=vid
+Resource: 5 Reasons to Use Composition over Inheritance ... - Javarevisited
+Type: Video
+URL: https://javarevisited.blogspot.com/2013/06/why-favor-composition-over-inheritance-java-oops-design.html
+--------
+Query: scala+class+composition+with+mixins&tbm=vid
+Resource: Java Programming Tutorial - Composition (Refer to objects in ...
+Type: Video
+URL: https://www.youtube.com/watch?v=l6JeqyPQIyE
+--------
+Query: scala+class+composition+with+mixins&tbm=vid
+Resource: Class Composition - Java programming tutorial - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=hLlQ858_NHs
+--------
+Query: scala+class+composition+with+mixins&tbm=vid
+Resource: Skeletal Implementations and Mixins - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=opstDjRrxD0&list=PLcAxwev2PmV9lwEdKbE21p-8neX5Ez335&index=36
+--------
+Query: scala+class+composition+with+mixins&tbm=vid
+Resource: Java Programming Tutorial - 43 - Composition - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=ZBkyPA6NZR8
+--------
+Query: scala+higher-order+functions&tbm=vid
+Resource: Scala Tutorial 13 - Scala - Higher Order Functions - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=ohKDVmCMKEg
+--------
+Query: scala+higher-order+functions&tbm=vid
+Resource: Scala Tutorials - Higher Order Functions - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=KwrwkyUq6jY
+--------
+Query: scala+higher-order+functions&tbm=vid
+Resource: Scala - Higher Order Functions - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=uVUb0sPxSg4
+--------
+Query: scala+higher-order+functions&tbm=vid
+Resource: Scala Tutorial: How To Use Higher Order Functions in Scala ...
+Type: Video
+URL: https://www.youtube.com/watch?v=ZpdypOTN1j8
+--------
+Query: scala+higher-order+functions&tbm=vid
+Resource: What is Higher order Function in Scala # Scala Tutorial - 17 ...
+Type: Video
+URL: https://www.youtube.com/watch?v=qBgrzUZ2VxA
+--------
+Query: scala+higher-order+functions&tbm=vid
+Resource: Higher Order Functions (in Scala) - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=D8o96hXjBBs
+--------
+Query: scala+higher-order+functions&tbm=vid
+Resource: Higher Order Functions in Scala v2 - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=qu7h73CIBOs
+--------
+Query: scala+higher-order+functions&tbm=vid
+Resource: Scala - Higher Order Functions | Automated hands-on ...
+Type: Video
+URL: https://cloudxlab.com/assessment/displayslide/377/scala-higher-order-functions
+--------
+Query: scala+higher-order+functions&tbm=vid
+Resource: Function Literals and Higher Order Functions (in Scala ...
+Type: Video
+URL: https://www.youtube.com/watch?v=P_TCb3c7UOM
+--------
+Query: scala+higher-order+functions&tbm=vid
+Resource: Scala Higher Order Functions - Learning Journal
+Type: Video
+URL: https://www.learningjournal.guru/courses/scala/scala-programming-foundation/higher-order-functions/
+--------
+Query: scala+nested+methods&tbm=vid
+Resource: Scala - Nested Function in Scala - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=I-wIFMjpPy4
+--------
+Query: scala+nested+methods&tbm=vid
+Resource: Scala - Nested Function in Scala {தமிழ்} - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=rBBKUQzDQYA
+--------
+Query: scala+nested+methods&tbm=vid
+Resource: Scala Tutorial 12 Nested Function ( हिन्दी) - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=YgqgBtZJMpA
+--------
+Query: scala+nested+methods&tbm=vid
+Resource: Stop Nesting Functions! (But Not All of Them)
+Type: Video
+URL: https://code.tutsplus.com/tutorials/stop-nesting-functions-but-not-all-of-them--net-22315
+--------
+Query: scala+nested+methods&tbm=vid
+Resource: Scala in English - YouTube
+Type: Video
+URL: https://www.youtube.com/playlist?list=PLLa_h7BriLH2fibtLNJfuNcyZsw1DF34f
+--------
+Query: scala+nested+methods&tbm=vid
+Resource: Advantages of nested method in Scala. | javapedia.net ...
+Type: Video
+URL: https://www.youtube.com/watch?v=SpwngNie5_I
+--------
+Query: scala+nested+methods&tbm=vid
+Resource: Scala - Lists - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=ntOBJ7EbYm8&list=UUVLbzhxVTiTLiVKeGV7WEBg&index=1279
+--------
+Query: scala+nested+methods&tbm=vid
+Resource: Scala Placeholder Syantax - Learning Journal
+Type: Video
+URL: https://www.learningjournal.guru/courses/scala/scala-programming-foundation/placeholder-syntax/
+--------
+Query: scala+nested+methods&tbm=vid
+Resource: Scala Programming Basic Syntax - AODBA
+Type: Video
+URL: https://aodba.com/scala-programming-basic-syntax/
+--------
+Query: scala+nested+methods&tbm=vid
+Resource: Scala in Tamil - YouTube
+Type: Video
+URL: https://www.youtube.com/playlist?list=PLLa_h7BriLH2LGzDP3T8nBGLjhbpreWzO
+--------
+Query: scala+multiple+parameter+lists&tbm=vid
+Resource: Scala - Function Currying in Scala - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=Q3qst3jtBTo
+--------
+Query: scala+multiple+parameter+lists&tbm=vid
+Resource: Understading Currying Concept in Scala # Scala Tutorial ...
+Type: Video
+URL: https://www.youtube.com/watch?v=9qknm7YhQDk
+--------
+Query: scala+multiple+parameter+lists&tbm=vid
+Resource: Scala - Nested Function in Scala - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=I-wIFMjpPy4
+--------
+Query: scala+multiple+parameter+lists&tbm=vid
+Resource: Scala - Function Currying in Scala {தமிழ்} - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=o1CAS_U0tFw
+--------
+Query: scala+multiple+parameter+lists&tbm=vid
+Resource: Lecture 2.2 - Currying - Higher Order Functions | Coursera
+Type: Video
+URL: https://zh.coursera.org/lecture/progfun1/lecture-2-2-currying-fOuQ9
+--------
+Query: scala+multiple+parameter+lists&tbm=vid
+Resource: Scala - Anonymous Function in Scala - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=72jH0qxG91w
+--------
+Query: scala+multiple+parameter+lists&tbm=vid
+Resource: Scala - Anonymous Function in Scala {தமிழ்} - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=6jvwA7lOmM4
+--------
+Query: scala+multiple+parameter+lists&tbm=vid
+Resource: Scala - Nested Function in Scala {தமிழ்} - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=rBBKUQzDQYA
+--------
+Query: scala+multiple+parameter+lists&tbm=vid
+Resource: Passing a block of code to a function in Scala (callbacks ...
+Type: Video
+URL: https://alvinalexander.com/scala/scala-passing-function-to-function-callbacks-java-swing
+--------
+Query: scala+multiple+parameter+lists&tbm=vid
+Resource: Python Tutorial for Beginners 14 - Default parameters and ...
+Type: Video
+URL: https://www.youtube.com/watch?v=RDzm2oHSAug
+--------
+Query: scala+case+classes&tbm=vid
+Resource: case classes (in Scala) - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=x7FfzK6YFyM
+--------
+Query: scala+case+classes&tbm=vid
+Resource: Scala Tutorial: Case Classes Explained - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=ZLRt5MxJLIg
+--------
+Query: scala+case+classes&tbm=vid
+Resource: Scala case classes - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=SY7abuMXDYY
+--------
+Query: scala+case+classes&tbm=vid
+Resource: Pattern Matching and Case Classes - Scala Tutorial ...
+Type: Video
+URL: https://intellipaat.com/blog/tutorial/scala-tutorial/pattern-matching-and-case-classes/
+--------
+Query: scala+case+classes&tbm=vid
+Resource: Creating case classes (in Scala) - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=4HCFckV5OQ4
+--------
+Query: scala+case+classes&tbm=vid
+Resource: Scala Case Class and Class - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=HqQfXUyACHw
+--------
+Query: scala+case+classes&tbm=vid
+Resource: Introduction to Case Classes - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=P0mR4i9u-RQ
+--------
+Query: scala+case+classes&tbm=vid
+Resource: case classes (in Scala) - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=V6WHvBerbDw
+--------
+Query: scala+case+classes&tbm=vid
+Resource: Case Classes in Scala v1 - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=nNyCLttud9Y
+--------
+Query: scala+case+classes&tbm=vid
+Resource: Scala - Case Classes and Pattern Matching - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=wXgms3BH6Ns
+--------
+Query: scala+pattern+matching&tbm=vid
+Resource: An Introduction to Pattern Matching in Scala - ProTech Training
+Type: Video
+URL: https://www.protechtraining.com/blog/post/an-introduction-to-pattern-matching-in-scala-842
+--------
+Query: scala+pattern+matching&tbm=vid
+Resource: Pattern Matching and Case Classes - Scala Tutorial ...
+Type: Video
+URL: https://intellipaat.com/blog/tutorial/scala-tutorial/pattern-matching-and-case-classes/
+--------
+Query: scala+pattern+matching&tbm=vid
+Resource: Scala Tutorial: Pattern Matching - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=OpO9uhI22ZA
+--------
+Query: scala+pattern+matching&tbm=vid
+Resource: What is Scala pattern matching? - Learning Journal
+Type: Video
+URL: https://www.learningjournal.guru/courses/scala/scala-programming-foundation/pattern-matching/
+--------
+Query: scala+pattern+matching&tbm=vid
+Resource: Scala - Case Classes and Pattern Matching - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=wXgms3BH6Ns
+--------
+Query: scala+pattern+matching&tbm=vid
+Resource: Lecture 4.6 - Pattern Matching - Types and Pattern Matching ...
+Type: Video
+URL: https://www.coursera.org/lecture/progfun1/lecture-4-6-pattern-matching-cdHAM
+--------
+Query: scala+pattern+matching&tbm=vid
+Resource: Learn concept of Pattern Matching with simple Example in ...
+Type: Video
+URL: https://www.youtube.com/watch?v=WGtChiAK6ZU
+--------
+Query: scala+pattern+matching&tbm=vid
+Resource: Pattern Matching | The Beginner's Guide to Learning Scala ...
+Type: Video
+URL: https://guides.co/g/how-to-learn-scala/27684
+--------
+Query: scala+pattern+matching&tbm=vid
+Resource: Scala - Pattern Matching with Extractors - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=TupuCRUi9PI
+--------
+Query: scala+pattern+matching&tbm=vid
+Resource: An Intro to Pattern Matching in Scala - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=1vxIRkYZfmc
+--------
+Query: scala+singleton+objects&tbm=vid
+Resource: Scala - Singleton Objects - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=D09sOEi2Tco
+--------
+Query: scala+singleton+objects&tbm=vid
+Resource: Singleton Objects in Scala v6 - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=dpFNBNbXyeM
+--------
+Query: scala+singleton+objects&tbm=vid
+Resource: Scala Objects or Singleton Classes - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=ZMg_dhNB-JQ
+--------
+Query: scala+singleton+objects&tbm=vid
+Resource: Understand concepts of Singleton object, Companion object ...
+Type: Video
+URL: https://www.youtube.com/watch?v=agt1JeZRj1c
+--------
+Query: scala+singleton+objects&tbm=vid
+Resource: Scala singleton objects, the apply method, and traits - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=vqC3QkI2htI
+--------
+Query: scala+singleton+objects&tbm=vid
+Resource: Singleton Object in scala - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=D-FfPvJECnY
+--------
+Query: scala+singleton+objects&tbm=vid
+Resource: Scala Objects & Apply Methods - Learning Journal
+Type: Video
+URL: https://www.learningjournal.guru/courses/scala/scala-programming-foundation/scala-objects/
+--------
+Query: scala+singleton+objects&tbm=vid
+Resource: object Declarations and Companion Objects (in Scala ...
+Type: Video
+URL: https://www.youtube.com/watch?v=wW5aBFocoXQ
+--------
+Query: scala+singleton+objects&tbm=vid
+Resource: Scala Companion Objects - Learning Journal
+Type: Video
+URL: https://www.learningjournal.guru/courses/scala/scala-programming-foundation/scala-companion-objects/
+--------
+Query: scala+singleton+objects&tbm=vid
+Resource: Objects and Companion Objects in Scala - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=C7YlrLZYeVQ
+--------
+Query: scala+regular+expression+patterns&tbm=vid
+Resource: Scala Regular Expressions - Scala Tutorial | Intellipaat.com
+Type: Video
+URL: https://intellipaat.com/blog/tutorial/scala-tutorial/scala-regular-expressions/
+--------
+Query: scala+regular+expression+patterns&tbm=vid
+Resource: Using Regular Expressions in Scala - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=NmP7gRbmc_Q
+--------
+Query: scala+regular+expression+patterns&tbm=vid
+Resource: An Introduction to Pattern Matching in Scala - ProTech Training
+Type: Video
+URL: https://www.protechtraining.com/blog/post/an-introduction-to-pattern-matching-in-scala-842
+--------
+Query: scala+regular+expression+patterns&tbm=vid
+Resource: Scala Regex: Extracting Substring - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=w1NfH63bx5E
+--------
+Query: scala+regular+expression+patterns&tbm=vid
+Resource: Scala Regular Expressions, Destructuring and Match ...
+Type: Video
+URL: https://www.youtube.com/watch?v=K2xMaFGVkfQ
+--------
+Query: scala+regular+expression+patterns&tbm=vid
+Resource: Regular Expressions (using Scala) - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=ivhO2ooKAnE
+--------
+Query: scala+regular+expression+patterns&tbm=vid
+Resource: match Expression (in Scala) - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=DWLXF8gQ5Eg
+--------
+Query: scala+regular+expression+patterns&tbm=vid
+Resource: Scala Tutorial: Pattern Matching - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=OpO9uhI22ZA
+--------
+Query: scala+regular+expression+patterns&tbm=vid
+Resource: Scala - Forming Regular Expressions - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=tD-oQzg_f4Q
+--------
+Query: scala+regular+expression+patterns&tbm=vid
+Resource: What is Scala pattern matching? - Learning Journal
+Type: Video
+URL: https://www.learningjournal.guru/courses/scala/scala-programming-foundation/pattern-matching/
+--------
+Query: scala+extractor+objects&tbm=vid
+Resource: Scala - Extractors - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=Ke5FrznZ3ic
+--------
+Query: scala+extractor+objects&tbm=vid
+Resource: An Introduction to Pattern Matching in Scala - ProTech Training
+Type: Video
+URL: https://www.protechtraining.com/blog/post/an-introduction-to-pattern-matching-in-scala-842
+--------
+Query: scala+extractor+objects&tbm=vid
+Resource: Scala - Pattern Matching with Extractors - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=TupuCRUi9PI
+--------
+Query: scala+extractor+objects&tbm=vid
+Resource: The apply Method (in Scala) - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=reGxn1cOdgE
+--------
+Query: scala+extractor+objects&tbm=vid
+Resource: Case classes | LinkedIn Learning, antes Lynda.com
+Type: Video
+URL: https://pa.linkedin.com/learning/scala-first-look/case-classes?autoplay=true&trk=course_tocItem&upsellOrderOrigin=related_course_title
+--------
+Query: scala+extractor+objects&tbm=vid
+Resource: 1 Scala in Depth for Beginner's and Developers -Introduction ...
+Type: Video
+URL: https://www.youtube.com/watch?v=39BOkbWjAAY
+--------
+Query: scala+extractor+objects&tbm=vid
+Resource: TOP 250+ Scala Interview Questions and Answers 10 ...
+Type: Video
+URL: https://www.wisdomjobs.com/e-university/scala-interview-questions.html
+--------
+Query: scala+extractor+objects&tbm=vid
+Resource: REGEX Tutorial Regular Expressions - YouTube
+Type: Video
+URL: https://www.youtube.com/watch?v=DRR9fOXkfRE
+--------
+Query: scala+extractor+objects&tbm=vid
+Resource: A Tour of Scala 3 | Martin Odersky, Professor EPFL, Co ...
+Type: Video
+URL: https://portal.klewel.com/watch/webcast/scala-days-2019/talk/2/
+--------
+Query: scala+extractor+objects&tbm=vid
+Resource: Regular Expressions (Regex) Tutorial: How to Match Any ...
+Type: Video
+URL: https://www.youtube.com/watch?v=sa-TUpSx1JA
+--------
